@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>工具导航 · 发关键词就给你官网</title>
+<meta name="description" content="在 Telegram 里发一个关键词，直接给你对应的软件和官网。几百个工具，全部官方正规渠道，不含破解和盗版。">
+<meta property="og:title" content="工具导航 · 找软件">
+<meta property="og:description" content="发一个关键词，直接给你官网链接。全部正规渠道，不含破解和盗版。">
+<meta property="og:image" content="share_card.png">
+<style>
+  :root{
+    --ink:#0b1f3f; --ink2:#48597a; --ink3:#7b8aa6;
+    --line:#e3e8f0; --bg:#f7f9fc; --card:#ffffff;
+    --blue:#1d4ed8; --tg:#229ed9; --accent:#ff8a3d;
+    --r:16px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB",
+      "Microsoft YaHei",Segoe UI,sans-serif;
+    color:var(--ink); background:var(--bg); line-height:1.7;
+    font-size:16px; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:600px;margin:0 auto;padding:0 20px}
+
+  /* ---- hero ---- */
+  .hero{
+    background:linear-gradient(160deg,#08152c 0%,#12306e 55%,#1d4ed8 100%);
+    color:#fff; padding:40px 0 44px; text-align:center;
+  }
+  .brand{display:inline-flex;align-items:center;gap:10px;margin-bottom:26px}
+  .brand img{width:44px;height:44px;border-radius:11px;display:block}
+  .brand span{font-size:15px;font-weight:600;letter-spacing:.02em;opacity:.95}
+  .hero h1{
+    font-size:clamp(27px,7.4vw,36px); line-height:1.28; font-weight:800;
+    letter-spacing:-.02em; margin-bottom:14px;
+  }
+  .hero h1 em{font-style:normal;color:var(--accent)}
+  .hero p{color:#bcd0ee;font-size:15.5px;max-width:26em;margin:0 auto 30px}
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:9px;
+    min-height:52px;padding:0 30px;border-radius:13px;
+    background:var(--tg);color:#fff;text-decoration:none;
+    font-size:16.5px;font-weight:700;
+    box-shadow:0 8px 24px rgba(34,158,217,.35);
+    transition:transform .14s ease,box-shadow .14s ease;
+  }
+  .btn:hover{transform:translateY(-1px);box-shadow:0 12px 28px rgba(34,158,217,.42)}
+  .btn:active{transform:scale(.985)}
+  .hint{margin-top:14px;font-size:13px;color:#8fa8ce}
+
+  /* ---- 二维码 ---- */
+  .qrbox{margin-top:32px;display:inline-block;background:#fff;padding:12px;border-radius:18px}
+  .qrbox img{display:block;width:150px;height:150px}
+
+  /* ---- 例子 ---- */
+  section{padding:38px 0}
+  section.tight{padding-top:14px}
+  h2{font-size:19px;font-weight:800;letter-spacing:-.01em;margin-bottom:6px}
+  .note{color:var(--ink3);font-size:13.5px;margin-bottom:20px}
+
+  .rows{display:grid;gap:10px}
+  .row{
+    display:flex;align-items:center;gap:12px;
+    background:var(--card);border:1px solid var(--line);
+    border-radius:12px;padding:13px 16px;font-size:15px;
+  }
+  .row b{font-weight:700;min-width:5.2em}
+  .row .arw{color:var(--accent);font-weight:700}
+  .row .tool{color:var(--ink2)}
+
+  /* ---- 内联说明 ---- */
+  .inline-card{
+    background:#0b1f3f;color:#fff;border-radius:var(--r);
+    padding:24px 22px;
+  }
+  .inline-card h3{font-size:16.5px;font-weight:800;margin-bottom:12px}
+  .inline-card code{
+    display:inline-block;background:rgba(255,255,255,.13);
+    border-radius:7px;padding:5px 10px;font-size:14px;
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+    color:#ffd7b0;margin:2px 0;
+  }
+  .inline-card p{color:#b9cae6;font-size:14px;margin-top:12px}
+  .inline-card ul{margin:12px 0 0 18px;color:#b9cae6;font-size:14px}
+  .inline-card li{margin-bottom:5px}
+
+  /* ---- 信任 ---- */
+  .trust{display:grid;gap:10px}
+  .trust div{
+    display:flex;gap:10px;align-items:flex-start;
+    font-size:14.5px;color:var(--ink2);
+  }
+  .trust i{
+    flex:0 0 auto;width:18px;height:18px;margin-top:3px;
+    border-radius:50%;background:#e8f3ff;color:var(--blue);
+    font-size:11px;font-style:normal;font-weight:800;
+    display:flex;align-items:center;justify-content:center;
+  }
+
+  /* ---- 收录范围 ---- */
+  .cats{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+  .cat{
+    display:flex;justify-content:space-between;align-items:center;gap:8px;
+    background:var(--card);border:1px solid var(--line);
+    border-radius:10px;padding:11px 14px;font-size:14px;
+  }
+  .cat span{color:var(--ink2)}
+  .cat b{font-variant-numeric:tabular-nums;color:var(--blue);font-weight:700}
+
+  footer{
+    border-top:1px solid var(--line);padding:26px 0 46px;
+    color:var(--ink3);font-size:13px;text-align:center;
+  }
+  footer a{color:var(--blue);text-decoration:none}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="brand">
+      <img src="avatar.png" alt="">
+      <span>工具导航 · 找软件</span>
+    </div>
+
+    <h1>找软件<br><em>别再去搜十个网页了</em></h1>
+    <p>在 Telegram 里发一个关键词，直接给你工具和官网。<b class="live-n">几百</b>&nbsp;个工具，全部正规渠道。</p>
+
+    <a class="btn" href="https://t.me/gongju_nav_bot?start=landing">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M21.9 4.3 18.8 19c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.4-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.9 13.1l-4.6-1.4c-1-.3-1-1 .2-1.5L20.6 3c.8-.3 1.5.2 1.3 1.3z"/>
+      </svg>
+      在 Telegram 打开
+    </a>
+
+    <div class="hint">没装 Telegram 也可以先看看，装了再点</div>
+
+    <div class="qrbox">
+      <img src="qr_qr.png" alt="扫码打开 Telegram Bot">
+    </div>
+  </div>
+</div>
+
+<section class="wrap">
+  <h2>它是怎么工作的</h2>
+  <p class="note">没有 App，没有注册，不用登录。就是一个聊天框。</p>
+  <div class="rows">
+    <div class="row"><b>截图</b><span class="arw">→</span><span class="tool">Snipaste</span></div>
+    <div class="row"><b>翻译</b><span class="arw">→</span><span class="tool">DeepL</span></div>
+    <div class="row"><b>压缩图片</b><span class="arw">→</span><span class="tool">TinyPNG</span></div>
+    <div class="row"><b>录屏</b><span class="arw">→</span><span class="tool">OBS Studio</span></div>
+  </div>
+</section>
+
+<section class="wrap tight">
+  <div class="inline-card">
+    <h3>还能在群里直接用</h3>
+    <p>任何一个群、任何一个聊天框，打：</p>
+    <p><code>@gongju_nav_bot 截图</code></p>
+    <p>就地弹出匹配的工具，点一下直接发进当前聊天。</p>
+    <ul>
+      <li>不用把 Bot 拉进群</li>
+      <li>对方不用装任何东西，点链接就能用</li>
+      <li>只打 <code>@gongju_nav_bot</code> 会推荐热门工具</li>
+    </ul>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>为什么可以放心用</h2>
+  <p class="note">导航站最常见的问题是链接是假的、下载是带捆绑的。这里不做那些。</p>
+  <div class="trust">
+    <div><i>✓</i><span><b>只收官方网站。</b>不含破解版、激活码、需要买号的资源。</span></div>
+    <div><i>✓</i><span><b>每个链接都实测过。</b>打不开的、证书过期的已经下架，不留死链。</span></div>
+    <div><i>✓</i><span><b>不弹广告，不要注册。</b>给完链接就结束，不推销东西。</span></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>收录范围</h2>
+  <p class="note">按大家问得最多的方向来收。数字是实时读索引的，不是写死的。</p>
+  <div class="cats" id="cats"></div>
+</section>
+
+<footer class="wrap">
+  想找的工具没收录？在 Bot 里把词发过来，我按大家问得多的补。<br>
+  <a href="https://t.me/gongju_nav_bot?start=landing">t.me/gongju_nav_bot</a>
+</footer>
+
+<script>
+(function () {
+  function paint(n) {
+    document.querySelectorAll('.live-n').forEach(function (el) { el.textContent = n; });
+  }
+
+  fetch('tools.json')
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      var items = d.items || [];
+      paint(items.length);
+
+      var map = {};
+      items.forEach(function (t) {
+        var c = t.cat || '其他';
+        map[c] = (map[c] || 0) + 1;
+      });
+      var rows = Object.keys(map)
+        .map(function (c) { return [c, map[c]]; })
+        .sort(function (a, b) { return b[1] - a[1]; });
+
+      var box = document.getElementById('cats');
+      if (!box) return;
+      rows.forEach(function (r) {
+        var el = document.createElement('div');
+        el.className = 'cat';
+        var name = document.createElement('span');
+        name.textContent = r[0];
+        var num = document.createElement('b');
+        num.textContent = r[1];
+        el.appendChild(name);
+        el.appendChild(num);
+        box.appendChild(el);
+      });
+    })
+    .catch(function () {});
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,872 @@
+# 中文工具官网索引
+
+找一个小工具，搜出来前三个都是下载站的套壳页面，点进去装完，桌面上多了五个不认识的图标。
+
+这份索引只干一件事：**给你工具真正的官网地址**。
+
+| | |
+|---|---|
+| 收录数量 | 807 条 |
+| 分类 | 8 个方向 |
+| 需自备网络的 | 65 条（已在说明里标注） |
+
+## 怎么用
+
+直接在下面按分类翻。或者用配套的 Telegram bot [@gongju_nav_bot](https://t.me/gongju_nav_bot)，发一个词就回你官网链接，不用翻。
+
+它还有一个用法：在**任何**群里打 `@gongju_nav_bot 截图`，会就地弹出匹配结果，点一下直接发进当前聊天。不用把 bot 拉进群。
+
+## 收录原则
+
+- 只收**官方渠道**。破解版、激活码、需要买号的资源站，一律不收。
+- 每一条都实测过能打开。打不开的、证书过期的、域名失效的会清掉，不留死链。
+- 优先收能免费用或者有免费额度的，纯付费的会标价格区间。
+- 说明里写「需自备网络」的，指国内直接访问不稳，需要自备工具，不是链接有问题。
+
+## 目录
+
+- [效率办公](#效率办公) · 201 条
+- [开发工具](#开发工具) · 168 条
+- [在线工具](#在线工具) · 125 条
+- [设计工具](#设计工具) · 93 条
+- [AI 对话](#ai-对话) · 85 条
+- [AI 视频音频](#ai-视频音频) · 61 条
+- [数据分析](#数据分析) · 44 条
+- [AI 绘画](#ai-绘画) · 30 条
+
+---
+
+## 效率办公
+
+- **[1Password](https://1password.com)** — 密码管理器，每个站独立强密码，只需要记一个主密码（付费）
+- **[7-Zip](https://www.7-zip.org)** — 开源压缩解压，rar/7z/zip 全支持，无广告（免费）
+- **[ABBYY FineReader PDF](https://pdf.abbyy.com)** — 识别扫描文档并编辑和转换PDF（付费）
+- **[ActivityWatch](https://activitywatch.net)** — 开源时间追踪，数据存在本地（开源免费）
+- **[AIMP](https://www.aimp.ru)** — 音乐播放器，界面好看功能全（免费）
+- **[Airtable](https://airtable.com)** — 表格加数据库，管项目超灵活（免费 + 付费）
+- **[Alfred](https://www.alfredapp.com)** — Mac 老牌启动器，工作流能自定义（免费 + 付费）
+- **[AnyDesk](https://anydesk.com)** — 远程桌面，延迟低连接稳（免费 + 付费）
+- **[AnyTXT](https://anytxt.net)** — 全文搜索文件内容，找资料快（免费）
+- **[AnyType](https://anytype.io)** — 本地优先的知识库，离线也能用（免费 + 付费）
+- **[aria2](https://aria2.github.io)** — 命令行下载器，脚本里常用（开源免费）
+- **[Asana](https://asana.com)** — 团队任务和排期，跨国团队常用（免费 + 付费）
+- **[AutoHotkey](https://www.autohotkey.com)** — 写脚本自动化键鼠，重复操作交给它（开源免费）
+- **[balenaEtcher](https://etcher.balena.io)** — 刷系统镜像到 U 盘，三步搞定（开源免费）
+- **[Bandizip](https://www.bandisoft.com/bandizip/)** — 解压软件，压缩包预览好用，支持格式全（免费 + 付费）
+- **[Bear](https://bear.app)** — Mac 上的 Markdown 笔记，极简（免费 + 付费）
+- **[Beautiful.ai](https://beautiful.ai)** — 自动排版演示文稿并保持样式统一（付费）
+- **[Beyond Compare](https://www.scootersoftware.com)** — 文件和文件夹对比，查差异准（付费）
+- **[BleachBit](https://bleachbit.org)** — 清理缓存和临时文件释放磁盘空间（开源免费）
+- **[Bob](https://bobtranslate.com)** — Mac 划词翻译，快捷键就能调（免费 + 付费）
+- **[BookStack](https://www.bookstackapp.com)** — 开源文档管理，结构像书架（开源免费）
+- **[Calendly](https://calendly.com)** — 分享空闲时间让对方自助预约会议（免费 + 付费）
+- **[Calibre](https://calibre-ebook.com)** — 电子书管理，格式转换全（开源免费）
+- **[Chrome Remote Desktop](https://remotedesktop.google.com)** — 谷歌远程桌面，浏览器就能连，需自备网络（免费）
+- **[ClickUp](https://clickup.com)** — 任务文档目标一个工具全管（免费 + 付费）
+- **[Clockify](https://clockify.me)** — 免费时间追踪，团队也能用（免费 + 付费）
+- **[Confluence](https://www.atlassian.com/software/confluence)** — 团队知识库，和 Jira 打通（免费 + 付费）
+- **[CopyQ](https://hluk.github.io/CopyQ/)** — 管理文字和图片的剪贴板历史（开源免费）
+- **[Craft](https://www.craft.do)** — 苹果生态的文档笔记，排版好看（免费 + 付费）
+- **[Cron](https://cron.com)** — Mac 上的日历，快捷键飞快（付费）
+- **[Cryptomator](https://cryptomator.org)** — 给云盘文件加密，上传前就锁上（开源免费）
+- **[CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)** — 看硬盘健康度，提前发现坏道（免费）
+- **[Cubox](https://cubox.pro)** — 国产稍后读，自动打标签（免费 + 付费）
+- **[DeepL](https://www.deepl.com)** — 翻译质量最好的一档，中英互译比机器翻译自然（免费额度）
+- **[Discord](https://discord.com)** — 社群和语音频道，技术群常用，需自备网络（免费）
+- **[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)** — Windows 系统精简和维护工具（开源免费）
+- **[Ditto](https://ditto-cp.sourceforge.io)** — 保存复制历史并搜索粘贴旧内容（开源免费）
+- **[Dropbox](https://www.dropbox.com)** — 老牌同步盘，跨平台稳，需自备网络（免费 + 付费）
+- **[Duplicati](https://www.duplicati.com)** — 开源备份工具，能加密传云（开源免费）
+- **[Elicit](https://elicit.com)** — 检索研究论文并提取对比证据（免费 + 付费）
+- **[eM Client](https://emclient.com)** — 在桌面管理邮箱日历和联系人（免费 + 付费）
+- **[Everything](https://www.voidtools.com)** — Windows 本地文件秒搜，比系统搜索快几个数量级（免费）
+- **[Excel](https://www.microsoft.com/microsoft-365/excel)** — 表格标准工具，函数透视表齐全（付费）
+- **[Fantastical](https://flexibits.com/fantastical)** — 用自然语言创建日程并整合日历（免费 + 付费）
+- **[Fathom](https://fathom.video)** — 记录视频会议并整理重点摘要（免费 + 付费）
+- **[Feedly](https://feedly.com)** — 订阅网站更新并集中阅读资讯（免费 + 付费）
+- **[Fireflies.ai](https://fireflies.ai)** — 记录会议并生成摘要和待办事项（免费 + 付费）
+- **[flomo](https://flomoapp.com)** — 碎片想法随手记，微信里就能发，不打断思路（免费 + 付费）
+- **[foobar2000](https://www.foobar2000.org)** — 音乐播放器，占资源少音质好（免费）
+- **[Foxmail](https://www.foxmail.com)** — 国产邮件客户端，多账号好管（免费）
+- **[FreeFileSync](https://freefilesync.org)** — 比较文件夹差异并备份同步文件（开源免费）
+- **[FreshRSS](https://freshrss.org)** — 自建 RSS 阅读器，数据自己管（开源免费）
+- **[Gamma](https://gamma.app)** — 输入大纲生成可编辑的演示文稿（免费 + 付费）
+- **[Geek Uninstaller](https://geekuninstaller.com)** — 彻底卸载软件，清残留注册表（免费）
+- **[Google Calendar](https://calendar.google.com)** — 管理日程并与他人共享会议时间（免费 + 付费）
+- **[Google Sheets](https://sheets.google.com)** — 在线表格，多人同时编辑，需自备网络（免费）
+- **[Grammarly](https://grammarly.com)** — 检查英文语法并改进句子表达（免费 + 付费）
+- **[Habitica](https://habitica.com)** — 把习惯养成做成游戏，打怪升级（免费）
+- **[Heptabase](https://heptabase.com)** — 卡片式白板笔记，适合做研究，需自备网络（付费）
+- **[Honeyview](https://www.bandisoft.com/honeyview/)** — 看图快，压缩包里的图也能直接看（免费）
+- **[IDM](https://www.internetdownloadmanager.com)** — 多线程下载，速度能拉满（付费）
+- **[Inoreader](https://inoreader.com)** — 用订阅源和规则整理网站更新（免费 + 付费）
+- **[Instapaper](https://www.instapaper.com)** — 纯阅读模式，去掉干扰（免费 + 付费）
+- **[Intel Driver & Support Assistant](https://intel.com/content/www/us/en/support/detect.html)** — 检测英特尔硬件并查找官方驱动（免费）
+- **[IrfanView](https://www.irfanview.com)** — 看图工具，启动快占内存小（免费）
+- **[Jira](https://www.atlassian.com/software/jira)** — 研发缺陷和迭代管理，敏捷标配（免费 + 付费）
+- **[Joplin](https://joplinapp.org)** — 开源笔记，支持加密同步（开源免费）
+- **[Julius AI](https://julius.ai)** — 上传表格后通过对话分析和画图（免费 + 付费）
+- **[KeePass](https://keepass.info)** — 开源密码库，文件自己存（开源免费）
+- **[Koodo Reader](https://koodoreader.com)** — 开源电子书阅读器，格式支持多（开源免费）
+- **[LanguageTool](https://languagetool.org)** — 检查多种语言的拼写和语法错误（免费 + 付费）
+- **[LICEcap](https://www.cockos.com/licecap/)** — 极轻量的 GIF 录屏，一开就能录（开源免费）
+- **[Linear](https://linear.app)** — 研发团队的任务工具，速度快（免费 + 付费）
+- **[Listary](https://www.listary.com)** — Windows 快速找文件，随手调起（免费 + 付费）
+- **[LocalSend](https://localsend.org)** — 局域网互传文件，手机和电脑之间不用数据线（免费）
+- **[Logseq](https://logseq.com)** — 开源双向链接笔记，数据存在本地，适合长期积累（开源免费）
+- **[MEGA](https://mega.nz)** — 端到端加密网盘，免费 20G，需自备网络（免费 + 付费）
+- **[Microsoft To Do](https://to-do.office.com)** — 微软待办，和 Outlook 同步，需自备网络（免费）
+- **[Monday.com](https://monday.com)** — 可视化项目管理，模板很多（免费 + 付费）
+- **[Moonlight](https://moonlight-stream.org)** — 开源串流客户端，配 N 卡用（开源免费）
+- **[Morgen](https://www.morgen.so)** — 日历整合工具，多个日程一起看（免费 + 付费）
+- **[Motrix](https://motrix.app)** — 开源的下载工具，界面好看（免费）
+- **[mpv](https://mpv.io)** — 极简播放器，什么格式都能放（开源免费）
+- **[NanaZip](https://github.com/M2Team/NanaZip)** — Win11 右键菜单能用的解压工具（开源免费）
+- **[Nextcloud](https://nextcloud.com)** — 自建文件云盘并共享同步团队资料（开源免费）
+- **[Notion](https://www.notion.so)** — 文档、笔记、数据库一体的协作工具（免费额度）
+- **[O&O ShutUp10](https://www.oo-software.com/en/shutup10)** — 关掉 Windows 遥测和推送（免费）
+- **[OBS Studio](https://obsproject.com)** — 开源录屏和直播推流，教程视频都用它（免费）
+- **[Obsidian](https://obsidian.md)** — 本地 Markdown 笔记，数据在自己电脑上（个人免费）
+- **[OneDrive](https://onedrive.live.com)** — 微软网盘，和 Office 集成好，需自备网络（免费 + 付费）
+- **[OneNote](https://www.onenote.com)** — 微软笔记，手写和截图都能塞（免费）
+- **[Otter.ai](https://otter.ai)** — 转写会议对话并提取会议要点（免费 + 付费）
+- **[Outline](https://www.getoutline.com)** — 开源团队 Wiki，界面清爽（免费 + 付费）
+- **[Paperpal](https://paperpal.com)** — 检查学术英语语法并润色论文表达（免费 + 付费）
+- **[Parsec](https://parsec.app)** — 低延迟远程串流，远程打游戏也行（免费 + 付费）
+- **[Paste](https://pasteapp.io)** — 跨苹果设备保存和搜索复制历史（付费）
+- **[PDF-XChange Editor](https://pdf-xchange.com)** — 给PDF加批注并编辑页面和文字（免费 + 付费）
+- **[PeaZip](https://peazip.github.io)** — 压缩解压多种格式并管理加密压缩包（开源免费）
+- **[PingCode](https://pingcode.com)** — 国产研发管理，需求迭代测试都管（免费 + 付费）
+- **[Pitch](https://pitch.com)** — 用模板和AI起草团队演示文稿（免费 + 付费）
+- **[PixPin](https://pixpin.cn)** — 国产截图工具，截图后能直接贴图、OCR 取字（免费）
+- **[Pocket](https://getpocket.com)** — 稍后读老牌，收藏网页慢慢看（免费）
+- **[PotPlayer](https://potplayer.tv/)** — Windows 上画质和解码都能打的播放器，可以调字幕（免费）
+- **[PowerToys](https://learn.microsoft.com/windows/powertoys/)** — 微软官方系统增强，分屏改名好用（免费）
+- **[Presentations.AI](https://presentations.ai)** — 把文字需求转换为演示文稿初稿（免费 + 付费）
+- **[Proton Mail](https://proton.me/mail)** — 加密邮箱，隐私保护好，需自备网络（免费 + 付费）
+- **[qBittorrent](https://www.qbittorrent.org)** — 开源 BT 客户端，无广告，需自备网络（开源免费）
+- **[QuillBot](https://quillbot.com)** — 改写英文句子并检查语法问题（免费 + 付费）
+- **[Raindrop.io](https://raindrop.io)** — 按标签和文件夹保存网页书签（免费 + 付费）
+- **[Raycast](https://www.raycast.com)** — Mac 启动器，扩展生态强（免费 + 付费）
+- **[Readwise Reader](https://readwise.io/read)** — 收集网页和PDF并高亮阅读内容（付费）
+- **[Reclaim](https://reclaim.ai)** — 自动安排日程，给专注时间让路（免费 + 付费）
+- **[RescueTime](https://www.rescuetime.com)** — 自动记录电脑使用，看时间去哪（免费 + 付费）
+- **[Rezi](https://rezi.ai)** — 辅助起草简历并检查求职关键词（免费 + 付费）
+- **[Rime](https://rime.im)** — 可定制词库和方案的中文输入法（开源免费）
+- **[Rows](https://rows.com)** — 在表格里用AI解释和整理数据（免费 + 付费）
+- **[Rufus](https://rufus.ie)** — 做启动 U 盘，装系统必备（开源免费）
+- **[RustDesk](https://rustdesk.com)** — 远程控制电脑并支持自建连接服务（开源免费）
+- **[SciSpace](https://scispace.com)** — 解释论文段落并辅助检索相关研究（免费 + 付费）
+- **[scrcpy](https://github.com/Genymobile/scrcpy)** — 通过USB或网络在电脑控制安卓屏幕（开源免费）
+- **[ScreenToGif](https://www.screentogif.com)** — 录屏转 GIF，能逐帧编辑（开源免费）
+- **[SeaTable](https://seatable.cn)** — 国产表格数据库，可私有部署（免费 + 付费）
+- **[ShareX](https://getsharex.com)** — 截图、录屏、上传一条龙，开源免费无广告（免费）
+- **[Slack](https://slack.com)** — 团队聊天，频道分开事不混（免费 + 付费）
+- **[Snipaste](https://zh.snipaste.com)** — 截图贴图工具，Windows 上最顺手的截图软件（免费）
+- **[Spark Mail](https://sparkmailapp.com)** — 集中收邮件并整理收件箱优先级（免费 + 付费）
+- **[Standard Notes](https://standardnotes.com)** — 端到端加密笔记，隐私优先（免费 + 付费）
+- **[SumatraPDF](https://www.sumatrapdfreader.org)** — 极轻量 PDF 阅读器，开大文件快（开源免费）
+- **[Syncthing](https://syncthing.net)** — 在设备之间直接同步指定文件夹（开源免费）
+- **[Tally](https://tally.so)** — 免费不限量的表单工具，界面干净（免费）
+- **[Tana](https://tana.inc)** — 结构化笔记，自动整理标签（免费 + 付费）
+- **[Teal](https://tealhq.com)** — 按职位要求修改简历并追踪求职（免费 + 付费）
+- **[Teambition](https://www.teambition.com)** — 阿里的项目协作，国内团队顺手（免费 + 付费）
+- **[TextIn](https://www.textin.com)** — 文档识别和结构化，接口也好用（免费 + 付费）
+- **[Things](https://culturedcode.com/things/)** — 苹果待办，交互做得最舒服（付费）
+- **[Thunderbird](https://thunderbird.net)** — 在桌面集中管理多个邮箱和日历（开源免费）
+- **[TickTick](https://ticktick.com)** — 滴答清单国际版，跨平台同步（免费 + 付费）
+- **[Tiny Tiny RSS](https://tt-rss.org)** — 老牌自建 RSS，插件生态多（开源免费）
+- **[ToDesk](https://www.todesk.com)** — 远程控制电脑，免费版够用，跨设备传文件方便（免费 + 付费）
+- **[Todoist](https://todoist.com)** — 老牌待办工具，自然语言输入任务很快（免费 + 付费）
+- **[Toggl](https://toggl.com)** — 记录时间花在哪，按项目统计（免费 + 付费）
+- **[Total Commander](https://www.ghisler.com)** — 双栏文件管理器，批量操作快（免费 + 付费）
+- **[Tower](https://tower.im)** — 国内老牌项目协作，简单够用（免费 + 付费）
+- **[TreeSize](https://www.jam-software.com/treesize_free)** — 磁盘空间分析，找大文件夹（免费 + 付费）
+- **[Trello](https://trello.com)** — 看板式任务管理，拖卡片就行（免费 + 付费）
+- **[Trilium](https://trilium.rocks)** — 层级笔记，知识树结构清晰（开源免费）
+- **[Trinka](https://trinka.ai)** — 检查学术和技术写作中的语言问题（免费 + 付费）
+- **[Typeform](https://www.typeform.com)** — 一问一屏的表单，填起来轻松（免费 + 付费）
+- **[Typora](https://typora.io)** — 所见即所得的 Markdown 编辑器，写文档不折腾（付费）
+- **[uTools](https://u.tools)** — 插件式启动器，搜索计算翻译一体（免费）
+- **[Ventoy](https://www.ventoy.net)** — U 盘装多个系统镜像，开机选一个（开源免费）
+- **[VeraCrypt](https://www.veracrypt.fr)** — 磁盘加密，开源可审计（开源免费）
+- **[VLC](https://www.videolan.org)** — 什么格式都能放的播放器，开源无广告（开源免费）
+- **[Wiki.js](https://js.wiki)** — 自建知识库，支持多人编辑（开源免费）
+- **[WinMerge](https://winmerge.org)** — 开源文件对比，Windows 上顺手（开源免费）
+- **[WizTree](https://diskanalyzer.com)** — 秒级扫磁盘，看谁占了空间（免费）
+- **[Wordtune](https://wordtune.com)** — 改写英文句子并调整语气和长短（免费 + 付费）
+- **[WPS](https://www.wps.cn)** — 国产办公套件，Word、Excel、PPT 都能开，体积小（免费 + 付费）
+- **[Writefull](https://writefull.com)** — 按学术语料改进英文论文表达，需自备网络（免费 + 付费）
+- **[Xmind](https://xmind.cn)** — 思维导图工具，整理思路和做方案常用（免费试用）
+- **[XnView](https://www.xnview.com)** — 看图加批量转换，格式支持多（免费）
+- **[Zoom](https://zoom.us)** — 国际通用的视频会议，跨国沟通和录播都稳（免费 + 付费）
+- **[万兴 PDF](https://pdf.wondershare.cn)** — PDF 编辑转换，国产好用（免费 + 付费）
+- **[为知笔记](https://www.wiz.cn)** — 老牌云笔记，支持 markdown（免费 + 付费）
+- **[印象笔记](https://www.yinxiang.com)** — 老牌笔记工具，网页剪藏和跨端同步做得好（免费 + 付费）
+- **[向日葵](https://sunlogin.oray.com)** — 国产远程控制，内网穿透方便（免费 + 付费）
+- **[坚果云](https://www.jianguoyun.com)** — 国内同步盘，增量同步快（免费 + 付费）
+- **[夸克网盘](https://pan.quark.cn)** — 阿里系网盘，下载速度快（免费 + 付费）
+- **[幕布](https://mubu.com)** — 大纲笔记，写完一键转思维导图，理思路好用（免费 + 付费）
+- **[彩云小译](https://fanyi.caiyunapp.com)** — 中日英互译，双语对照好用（免费 + 付费）
+- **[微信读书](https://weread.qq.com)** — 腾讯的电子书，书库大（免费 + 付费）
+- **[微信输入法](https://z.weixin.qq.com)** — 微信出的输入法，无广告（免费）
+- **[思源笔记](https://b3log.org/siyuan/)** — 本地优先的双链笔记，中文好用（开源免费）
+- **[搜狗输入法](https://shurufa.sogou.com)** — 国内常用输入法，词库大（免费）
+- **[有道云笔记](https://note.youdao.com)** — 网易的云笔记，多端同步稳（免费 + 付费）
+- **[有道翻译](https://fanyi.youdao.com)** — 国内常用翻译，文档也能整篇翻（免费 + 付费）
+- **[欧路词典](https://www.eudic.net)** — 支持导入词库的词典，学英语常用（免费 + 付费）
+- **[沉浸式翻译](https://immersivetranslate.com)** — 在网页和PDF中对照阅读双语译文（免费 + 付费）
+- **[滴答清单](https://dida365.com)** — 待办和日程管理，多端同步，习惯打卡也能做（免费 + 付费）
+- **[火绒安全](https://www.huorong.cn)** — 国产杀毒，不弹广告不捆绑，装完基本忘了它存在（免费）
+- **[白描](https://baimiao.uzero.cn)** — 中文 OCR 识别，准确率高（免费 + 付费）
+- **[百度网盘](https://pan.baidu.com)** — 国内用得最多的网盘，资源多，但非会员限速明显（免费 + 付费）
+- **[百度翻译](https://fanyi.baidu.com)** — 百度翻译，中英日韩都支持（免费 + 付费）
+- **[石墨文档](https://shimo.im)** — 在线文档和表格，协作改稿不冲突，界面干净（免费 + 付费）
+- **[秘塔写作猫](https://xiezuocat.com)** — 检查中文错字并辅助修改文稿（免费 + 付费）
+- **[简悦](https://simpread.pro)** — 网页转阅读模式，能导出笔记（免费）
+- **[网易邮箱大师](https://mail.163.com/client/)** — 网易的邮件客户端，手机电脑同步（免费）
+- **[腾讯会议](https://meeting.tencent.com)** — 国内最常用的视频会议，免费版够小团队开一小时（免费 + 付费）
+- **[腾讯微云](https://www.weiyun.com)** — 腾讯网盘，和微信打通（免费 + 付费）
+- **[腾讯文档](https://docs.qq.com)** — 在线表格和文档，多人同时编辑，微信直接分享（免费）
+- **[腾讯问卷](https://wj.qq.com)** — 腾讯的表单工具，免费够用（免费）
+- **[讯飞听见](https://iflyrec.com)** — 转写录音并整理中文会议记录（免费 + 付费）
+- **[讯飞输入法](https://srf.xunfei.cn)** — 语音输入强，说话就变文字（免费）
+- **[语雀](https://www.yuque.com)** — 阿里出品的知识库，写文档很顺手（免费额度）
+- **[超级简历](https://www.wondercv.com)** — 在线写简历，模板过 HR 初筛，实时给修改建议（免费 + 付费）
+- **[迅雷](https://www.xunlei.com)** — 下载工具，老牌速度快（免费 + 付费）
+- **[金数据](https://jinshuju.net)** — 表单和报名，国内合规好用（免费 + 付费）
+- **[钉钉](https://www.dingtalk.com)** — 企业沟通和审批，打卡请假报销一条龙（免费 + 付费）
+- **[问卷星](https://www.wjx.cn)** — 国内问卷工具，发出去就能收数据（免费 + 付费）
+- **[阿里云盘](https://www.alipan.com)** — 不限速的网盘，传大文件比百度网盘舒服（免费 + 付费）
+- **[飞书](https://www.feishu.cn)** — 字节出品的企业协作套件，文档+表格+IM（免费版）
+
+## 开发工具
+
+- **[1Panel](https://1panel.cn)** — 开源的服务器面板，装数据库和网站比命令行直观（开源免费）
+- **[Aider](https://aider.chat)** — 在终端对话修改仓库里的代码（开源免费）
+- **[Alacritty](https://alacritty.org)** — 使用GPU绘制界面的轻量终端（开源免费）
+- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** — 补全代码并辅助排查云端应用问题（免费 + 付费）
+- **[Android Studio](https://developer.android.com/studio)** — 安卓开发官方 IDE，模拟器一体，需自备网络（免费）
+- **[Ansible](https://www.ansible.com)** — 批量配置服务器，不用装客户端（开源免费）
+- **[Apifox](https://apifox.com)** — 接口文档、调试、Mock 一站搞定，国内团队常用（免费 + 付费）
+- **[Appsmith](https://appsmith.com)** — 拖拽组件连接数据库搭建内部管理页（开源免费）
+- **[Appwrite](https://appwrite.io)** — 开源自托管后端，能自己部署（开源免费）
+- **[Argo CD](https://argo-cd.readthedocs.io)** — 按Git仓库配置同步部署集群应用（开源免费）
+- **[Astro](https://astro.build)** — 做内容站的框架，默认不加载 JS（开源免费）
+- **[Augment Code](https://augmentcode.com)** — 结合代码库上下文协助修改项目（付费）
+- **[Beekeeper Studio](https://www.beekeeperstudio.io)** — 开源数据库客户端，能连多种库（免费 + 付费）
+- **[Biome](https://biomejs.dev)** — 检查加格式化二合一，比 ESLint 快（开源免费）
+- **[Bitbucket](https://bitbucket.org)** — Atlassian 的代码托管，私有库免费（免费 + 付费）
+- **[Bitwarden](https://bitwarden.com)** — 开源密码管理器，跨设备同步，免费够用（免费）
+- **[Bolt.new](https://bolt.new)** — 通过对话在浏览器生成网页应用（免费 + 付费）
+- **[Bruno](https://usebruno.com)** — 把API请求存为文件并在本地调试（免费 + 付费）
+- **[Budibase](https://budibase.com)** — 低代码搭内部工具，半天出系统（免费 + 付费）
+- **[Bun](https://bun.sh)** — 极快的 JS 运行时，打包测试一体（开源免费）
+- **[Caddy](https://caddyserver.com)** — 自动申请证书的 Web 服务器（开源免费）
+- **[Carbon](https://carbon.now.sh)** — 把代码变成好看的图片，发帖用（免费）
+- **[Cline](https://cline.bot)** — 在编辑器中分步骤执行编程任务（开源免费）
+- **[Cloudflare](https://www.cloudflare.com)** — 域名解析、CDN、防攻击，免费版就够个人站用（免费 + 付费）
+- **[Cloudflare Pages](https://pages.cloudflare.com)** — 静态站免费托管，全球加速（免费）
+- **[CockroachDB](https://www.cockroachlabs.com)** — 分布式数据库，跨机房强一致（免费 + 付费）
+- **[Codeberg](https://codeberg.org)** — 非营利 Git 托管，无广告不追踪（免费）
+- **[CodeBuddy](https://codebuddy.ai)** — 腾讯编程助手协助写代码和改项目（免费 + 付费）
+- **[CodeGeeX](https://codegeex.cn)** — 补全代码并用中文解释程序（免费 + 付费）
+- **[CodeRabbit](https://coderabbit.ai)** — 自动审查合并请求并指出代码问题（免费 + 付费）
+- **[CodeSandbox](https://codesandbox.io)** — 在线写前端，不用装环境（免费 + 付费）
+- **[Continue](https://continue.dev)** — 在编辑器接入模型进行代码对话（开源免费）
+- **[Cursor](https://cursor.com)** — 内置 AI 的代码编辑器，能直接改整个项目（免费额度 + $20/月）
+- **[Cypress](https://www.cypress.io)** — 前端端到端测试，调试体验好（免费 + 付费）
+- **[Datadog](https://www.datadoghq.com)** — 全栈监控平台，指标日志链路一起看（付费）
+- **[DB Browser for SQLite](https://sqlitebrowser.org)** — 通过图形界面查看和编辑SQLite文件（开源免费）
+- **[DBeaver](https://dbeaver.io)** — 免费数据库客户端，MySQL、PG、SQLite 一个软件全连（开源免费）
+- **[Deno](https://deno.com)** — Node 作者做的运行时，自带安全权限（开源免费）
+- **[Docker Hub](https://hub.docker.com)** — 容器镜像仓库，部署服务的基础设施（免费额度）
+- **[Docusaurus](https://docusaurus.io)** — 搭文档站最快，写 Markdown 就行（开源免费）
+- **[Elasticsearch](https://www.elastic.co)** — 全文搜索和日志分析引擎（免费 + 付费）
+- **[ESLint](https://eslint.org)** — JS 代码检查，统一团队风格（开源免费）
+- **[Firebase](https://firebase.google.com)** — 谷歌的后端服务，登录数据库推送全有，需自备网络（免费 + 付费）
+- **[Fly.io](https://fly.io)** — 部署应用到全球节点，配置简单（免费 + 付费）
+- **[frp](https://gofrp.org)** — 将本地服务映射到可访问的公网端口（开源免费）
+- **[fzf](https://github.com/junegunn/fzf)** — 命令行模糊搜索，找文件找历史（开源免费）
+- **[Gitea](https://gitea.com)** — 轻量自建 Git 服务，一台小机器就够（开源免费）
+- **[Gitee](https://gitee.com)** — 国内代码托管，访问快，开源项目不少（免费 + 付费）
+- **[GitHub](https://github.com)** — 全球最大代码托管平台，开源项目都在这里（免费）
+- **[GitHub Copilot](https://github.com/features/copilot)** — 在编辑器中补全代码并回答代码问题（免费 + 付费）
+- **[GitLab](https://gitlab.com)** — 代码托管加 CI/CD 一体，可以自己部署私有仓库（免费 + 付费）
+- **[Gitpod](https://www.gitpod.io)** — 浏览器里的开发环境，打开就写（免费 + 付费）
+- **[Go](https://go.dev)** — 谷歌出的编程语言，编译快部署省事（开源免费）
+- **[Graylog](https://graylog.org)** — 集中收集日志并搜索和设置告警（免费 + 付费）
+- **[HBuilderX](https://www.dcloud.io/hbuilderx.html)** — 国产前端 IDE，做小程序方便（免费）
+- **[Homebrew](https://brew.sh)** — Mac 上的包管理器，装软件一条命令（开源免费）
+- **[Hoppscotch](https://hoppscotch.io)** — 在浏览器发送请求并调试API（开源免费）
+- **[HTTPie](https://httpie.io)** — 命令行调接口，比 curl 好读（免费 + 付费）
+- **[InfluxDB](https://www.influxdata.com)** — 时序数据库，监控指标专用（免费 + 付费）
+- **[Insomnia](https://insomnia.rest)** — 组织接口请求并调试REST和GraphQL（免费 + 付费）
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** — Java 开发首选 IDE，重构强（免费 + 付费）
+- **[Jenkins](https://jenkins.io)** — 配置流水线自动构建测试和部署（开源免费）
+- **[JetBrains](https://www.jetbrains.com)** — IDEA、PyCharm、WebStorm 的厂商，写代码最顺手的 IDE（免费 + 付费）
+- **[JMeter](https://jmeter.apache.org)** — 老牌压测工具，图形界面配置（开源免费）
+- **[jq](https://jqlang.github.io/jq/)** — 命令行处理 JSON，提取字段神器（开源免费）
+- **[jsDelivr](https://www.jsdelivr.com)** — 免费的 CDN，引 JS 和字体很快（免费）
+- **[JSON Crack](https://jsoncrack.com)** — 把JSON数据结构转换成可展开的关系图（免费 + 付费）
+- **[k6](https://k6.io)** — 压测工具，脚本用 JS 写（免费 + 付费）
+- **[Kafka](https://kafka.apache.org)** — 高吞吐消息流平台，日志管道常用（开源免费）
+- **[Kubernetes](https://kubernetes.io)** — 容器编排标准，集群运维的基础（开源免费）
+- **[Lens](https://k8slens.dev)** — K8s 图形界面，管集群不用背命令（免费）
+- **[Lovable](https://lovable.dev)** — 用自然语言搭建并修改网页应用（免费 + 付费）
+- **[MariaDB](https://mariadb.org)** — MySQL 分支，完全兼容更好维护（开源免费）
+- **[Mermaid](https://mermaid.js.org)** — 用文字画流程图，Markdown 里能渲染（开源免费）
+- **[mitmproxy](https://mitmproxy.org)** — 拦截和修改HTTP流量以调试应用（开源免费）
+- **[Mockoon](https://mockoon.com)** — 本地模拟接口，前后端联调不用等（开源免费）
+- **[MongoDB](https://www.mongodb.com)** — 文档型数据库，存结构不固定的数据比关系库省事（免费 + 付费）
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)** — MySQL 官方客户端，建模调优都能做（免费）
+- **[n8n](https://n8n.io)** — 开源自动化工作流，能自己部署（开源免费）
+- **[Navicat](https://www.navicat.com)** — 老牌数据库客户端，图形界面管 MySQL 很顺手，收费（付费）
+- **[Neo4j](https://neo4j.com)** — 图数据库，关系网络查询快（免费 + 付费）
+- **[Neon](https://neon.tech)** — Serverless Postgres，按用量计费，需自备网络（免费 + 付费）
+- **[Neovim](https://neovim.io)** — 终端里的编辑器，配置好了效率极高，折腾成本也高（开源免费）
+- **[Netlify](https://netlify.com)** — 连接代码仓库自动构建并托管网站（免费 + 付费）
+- **[Next.js](https://nextjs.org)** — React 全栈框架，服务端渲染省心（开源免费）
+- **[Nginx](https://nginx.org)** — 反向代理和静态服务器，最常用的那个（开源免费）
+- **[NocoDB](https://nocodb.com)** — 把数据库变成表格界面，像用 Excel（开源免费）
+- **[Node-RED](https://nodered.org)** — 拖节点连线做物联网自动化（开源免费）
+- **[Node.js](https://nodejs.org)** — 服务端 JavaScript 运行环境（开源免费）
+- **[npm](https://www.npmjs.com)** — JS 包仓库，找依赖都在这（免费）
+- **[OpenTelemetry](https://opentelemetry.io)** — 可观测性标准，日志指标链路统一（开源免费）
+- **[Oracle Database](https://www.oracle.com/database/)** — 老牌商业数据库，金融电信常用（免费 + 付费）
+- **[PicGo](https://picgo.github.io/PicGo-Doc/)** — 上传图片到自选存储并复制图片链接（开源免费）
+- **[PlanetScale](https://planetscale.com)** — 托管 MySQL，改表不用停机（免费 + 付费）
+- **[PlantUML](https://plantuml.com)** — 文字转 UML 图，写文档配图快（开源免费）
+- **[Plausible](https://plausible.io)** — 轻量网站统计，不采集个人信息（免费 + 付费）
+- **[Playwright](https://playwright.dev)** — 浏览器自动化测试，爬虫也好用（开源免费）
+- **[pnpm](https://pnpm.io)** — 省磁盘的包管理器，装依赖快（开源免费）
+- **[PocketBase](https://pocketbase.io)** — 单文件后端，一个可执行文件搞定（开源免费）
+- **[Portainer](https://portainer.io)** — 用网页管理容器和集群资源（免费 + 付费）
+- **[PostgreSQL](https://www.postgresql.org)** — 开源关系型数据库，稳定可靠（免费开源）
+- **[PostHog](https://posthog.com)** — 开源产品分析，埋点加录屏一起（免费 + 付费）
+- **[Postman](https://www.postman.com)** — 接口调试工具，测 HTTP 请求必备（免费额度）
+- **[Prettier](https://prettier.io)** — 代码格式化，保存就自动排版（开源免费）
+- **[Prometheus](https://prometheus.io)** — 采集服务指标并按规则触发告警（开源免费）
+- **[Pulumi](https://www.pulumi.com)** — 用编程语言写基础设施，比配置语言灵活（免费 + 付费）
+- **[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)** — 通过SSH和串口连接远程设备（开源免费）
+- **[PyCharm](https://www.jetbrains.com/pycharm/)** — Python 开发 IDE，调试舒服（免费 + 付费）
+- **[PyPI](https://pypi.org)** — Python 包仓库，pip 装的东西都在这（免费）
+- **[Python](https://www.python.org)** — 官方站点，下载解释器和全套文档（开源免费）
+- **[Qodo](https://qodo.ai)** — 检查代码改动并辅助生成测试（免费 + 付费）
+- **[RabbitMQ](https://www.rabbitmq.com)** — 消息队列，任务异步处理常用（开源免费）
+- **[Railway](https://railway.app)** — 连上仓库就自动部署，省运维（免费 + 付费）
+- **[Rancher](https://rancher.com)** — 集中管理多个Kubernetes集群（开源免费）
+- **[RapidAPI](https://rapidapi.com)** — 接口市场，找现成 API 接进来（免费 + 付费）
+- **[React](https://react.dev)** — 最主流的前端框架，组件化开发（开源免费）
+- **[Redis](https://redis.io)** — 内存数据库，做缓存和队列的事实标准（开源免费）
+- **[RegExr](https://regexr.com)** — 在线测试正则匹配并查看语法说明（开源免费）
+- **[Render](https://render.com)** — 免费额度部署 Web 服务，够做小项目，需自备网络（免费 + 付费）
+- **[Replit](https://replit.com)** — 在浏览器通过对话创建并运行应用（免费 + 付费）
+- **[Roo Code](https://roocode.com)** — 按不同角色分析项目并修改代码（开源免费）
+- **[Rust](https://www.rust-lang.org)** — 内存安全的系统级语言，性能高（开源免费）
+- **[Selenium](https://www.selenium.dev)** — 老牌浏览器自动化，生态最全（开源免费）
+- **[Sentry](https://sentry.io)** — 线上报错监控，能看到堆栈和现场（免费 + 付费）
+- **[shadcn/ui](https://ui.shadcn.com)** — 复制即用的组件库，改起来自由（开源免费）
+- **[ShellGPT](https://github.com/TheR1D/shell_gpt)** — 在命令行询问模型并生成脚本命令（开源免费）
+- **[Snyk](https://snyk.io)** — 依赖漏洞扫描，装包前先查一遍（免费 + 付费）
+- **[SonarQube](https://www.sonarsource.com)** — 代码质量扫描，找坏味道和漏洞（免费 + 付费）
+- **[Sourcegraph](https://sourcegraph.com)** — 跨仓库搜代码，读大项目快（免费 + 付费）
+- **[Sourcery](https://sourcery.ai)** — 审查代码并给出重构修改建议（免费 + 付费）
+- **[SQL Server](https://www.microsoft.com/sql-server)** — 微软数据库，企业里用得最多（免费 + 付费）
+- **[SQLAI.ai](https://sqlai.ai)** — 按自然语言生成并优化数据库查询（免费 + 付费）
+- **[SQLCoder](https://github.com/defog-ai/sqlcoder)** — 将自然语言问题转换为SQL查询（开源免费）
+- **[SQLite](https://www.sqlite.org)** — 单文件数据库，不用装服务，小项目首选（开源免费）
+- **[Starship](https://starship.rs)** — 跨 shell 的命令行提示符，信息一眼看清（开源免费）
+- **[Sublime Text](https://www.sublimetext.com)** — 启动极快的轻量编辑器，打开大文件不卡（免费 + 付费）
+- **[Supabase](https://supabase.com)** — 开源版 Firebase，数据库带登录存储（免费 + 付费）
+- **[Swagger](https://swagger.io)** — 接口文档标准，写完能直接调试（开源免费）
+- **[Tabby](https://tabby.sh)** — 在同一界面使用本地终端和SSH连接（开源免费）
+- **[TablePlus](https://tableplus.com)** — 多数据库客户端，界面清爽（免费 + 付费）
+- **[Tabnine](https://tabnine.com)** — 根据代码上下文提供补全建议（付费）
+- **[Tailwind CSS](https://tailwindcss.com)** — 原子化 CSS，写样式不用起名（开源免费）
+- **[Termius](https://termius.com)** — 跨平台 SSH 客户端，服务器多了用它管比较清楚（免费 + 付费）
+- **[Terraform](https://www.terraform.io)** — 用代码管云资源，改完能回滚（免费 + 付费）
+- **[tmux](https://github.com/tmux/tmux)** — 终端复用，断线不中断任务（开源免费）
+- **[ToolJet](https://tooljet.com)** — 开源低代码平台，连数据库拖界面（开源免费）
+- **[Trae](https://trae.ai)** — 通过对话修改项目并生成代码（免费 + 付费）
+- **[Traefik](https://traefik.io)** — 容器环境的反向代理，配置自动发现（开源免费）
+- **[Turso](https://turso.tech)** — 分布式的 SQLite，边缘读取快（免费 + 付费）
+- **[Umami](https://umami.is)** — 自建网站统计，替代谷歌统计（开源免费）
+- **[Uptime Kuma](https://uptime.kuma.pet)** — 监测网站和服务可用性并发送告警（开源免费）
+- **[v0](https://v0.dev)** — 根据需求和截图生成网页界面代码（免费 + 付费）
+- **[Vercel](https://vercel.com)** — 前端一键部署，推代码就上线，个人项目免费，需自备网络（免费 + 付费）
+- **[Vite](https://vitejs.dev)** — 前端构建工具，启动和热更新极快（开源免费）
+- **[VitePress](https://vitepress.dev)** — 轻量文档站生成器，出页面快（开源免费）
+- **[VS Code](https://code.visualstudio.com)** — 微软出品的代码编辑器，插件生态最大（免费）
+- **[Vue](https://vuejs.org)** — 上手快的前端框架，中文文档全（开源免费）
+- **[Warp](https://warp.dev)** — 在终端用自然语言生成和解释命令（免费 + 付费）
+- **[WebStorm](https://www.jetbrains.com/webstorm/)** — 前端开发 IDE，框架支持好（付费）
+- **[Windows Terminal](https://github.com/microsoft/terminal)** — 在多标签中使用命令行和WSL（开源免费）
+- **[Windsurf](https://windsurf.com)** — 结合项目上下文生成和修改代码，需自备网络（免费 + 付费）
+- **[Wireshark](https://wireshark.org)** — 捕获网络数据包并分析协议通信（开源免费）
+- **[Xcode](https://developer.apple.com/xcode/)** — 苹果开发官方工具，做 iOS 必装（免费）
+- **[YAML Lint](https://yamllint.com)** — 在网页校验YAML语法并定位格式错误（免费）
+- **[宝塔面板](https://www.bt.cn)** — 国内最常见的服务器面板，装环境点几下就行（免费 + 付费）
+- **[腾讯云](https://cloud.tencent.com)** — 国内云厂商，轻量服务器便宜，新用户优惠多（付费）
+- **[通义灵码](https://lingma.aliyun.com)** — 在编辑器里补全代码并解释报错（免费 + 付费）
+- **[阿里云](https://www.aliyun.com)** — 国内云服务器和对象存储，买服务器第一选择（付费）
+
+## 在线工具
+
+- **[10 Minute Mail](https://10minutemail.com)** — 提供短时可用的临时收件邮箱（免费）
+- **[123apps](https://123apps.com)** — 音频视频在线处理合集，免安装（免费）
+- **[17CE](https://www.17ce.com)** — 国内多地测速，看各地能不能开（免费）
+- **[Aconvert](https://www.aconvert.com)** — 格式转换站，文档、图片、音视频、电子书都能转（免费）
+- **[Arc](https://arc.net)** — 侧边栏设计的浏览器，标签不乱（免费）
+- **[AutoDraw](https://www.autodraw.com)** — 画个大概，谷歌帮你变成规整的图（免费）
+- **[Base64 Guru](https://base64.guru)** — Base64 编解码，顺带讲清原理（免费）
+- **[Base64 Image](https://www.base64-image.de)** — 图片转 Base64，直接嵌网页（免费）
+- **[Base64Decode.org](https://base64decode.org)** — 在浏览器编码和解码Base64文本（免费）
+- **[Bigjpg](https://bigjpg.com)** — 用AI放大插画和照片并减少噪点（免费 + 付费）
+- **[Bitly](https://bitly.com)** — 短链接，能看点击统计（免费 + 付费）
+- **[Chrome](https://www.google.cn/chrome/)** — 谷歌浏览器，扩展生态最大（免费）
+- **[Cleanup.pictures](https://cleanup.pictures)** — 擦掉图里的东西，AI 自动补背景（免费 + 付费）
+- **[Clideo](https://clideo.com)** — 在线剪视频，压缩加字幕都行（免费 + 付费）
+- **[Clipdrop](https://clipdrop.co)** — 在线去背景并调整图片光照效果（免费 + 付费）
+- **[CloudConvert](https://cloudconvert.com)** — 格式转换，视频音频文档图片都能转（免费额度）
+- **[CodePen](https://codepen.io)** — 在线写前端，改完立刻看效果（免费 + 付费）
+- **[ColorHexa](https://www.colorhexa.com)** — 颜色代码互转，配色建议也给（免费）
+- **[Compressor.io](https://compressor.io)** — 在线压缩常见图片格式的文件体积（免费 + 付费）
+- **[Convertio](https://convertio.co)** — 在网页转换文档图片和音视频格式（免费 + 付费）
+- **[CoolSymbol](https://coolsymbol.com)** — 特殊符号大全，复制就能用（免费）
+- **[crontab.guru](https://crontab.guru)** — 看懂 cron 表达式，调定时任务（免费）
+- **[CSS Minifier](https://cssminifier.com)** — CSS 压缩，去掉空格注释（免费）
+- **[CSVJSON](https://csvjson.com)** — CSV 和 JSON 互转，处理数据常用（免费）
+- **[CyberChef](https://gchq.github.io/CyberChef/)** — 编码解码、加密、格式转换的瑞士军刀，全在浏览器本地跑（开源免费）
+- **[Desmos](https://www.desmos.com)** — 在线画函数图像，教学常用（免费）
+- **[Diffchecker](https://www.diffchecker.com)** — 对比两段文字或两个文件的差异，改稿校对省眼睛（免费 + 付费）
+- **[Dillinger](https://dillinger.io)** — 在线 Markdown，导出格式多（免费）
+- **[DNSChecker](https://dnschecker.org)** — 查看域名在不同地区的DNS解析结果（免费）
+- **[DNSlytics](https://dnslytics.com)** — 查域名解析和历史记录（免费 + 付费）
+- **[Edge](https://www.microsoft.com/edge)** — 微软浏览器，自带阅读和翻译（免费）
+- **[Emojipedia](https://emojipedia.org)** — 查 emoji 含义和各平台样式（免费）
+- **[Epoch Converter](https://epochconverter.com)** — 在时间戳和可读日期之间转换（免费）
+- **[EZGIF](https://ezgif.com)** — 在线制作裁剪和压缩GIF动画（免费）
+- **[Filemail](https://www.filemail.com)** — 大文件传输，免费额度 5G（免费 + 付费）
+- **[Firefox](https://www.mozilla.org/firefox/)** — 火狐浏览器，隐私保护好（免费）
+- **[FreeConvert](https://freeconvert.com)** — 在线转换文件格式并压缩视频（免费 + 付费）
+- **[GitMind](https://gitmind.cn)** — 国产思维导图，能 AI 生成（免费 + 付费）
+- **[GTmetrix](https://gtmetrix.com)** — 网站性能测试，出详细报告（免费 + 付费）
+- **[Guerrilla Mail](https://www.guerrillamail.com)** — 一次性邮箱，用完就扔（免费）
+- **[HandBrake](https://handbrake.fr)** — 开源视频转码工具，压体积、换格式、批量转都行（开源免费）
+- **[iLoveIMG](https://iloveimg.com)** — 在网页批量压缩裁剪和转换图片（免费 + 付费）
+- **[iLovePDF](https://www.ilovepdf.com)** — PDF 合并、拆分、压缩、转 Word，全在网页上做（免费 + 付费）
+- **[Imgur](https://imgur.com)** — 老牌图床，社区也活跃，需自备网络（免费）
+- **[IPinfo](https://ipinfo.io)** — 查询公网IP的归属和网络运营信息（免费 + 付费）
+- **[JSCompress](https://jscompress.com)** — JS 压缩，减小文件体积（免费）
+- **[JSFiddle](https://jsfiddle.net)** — 在线跑 JS 片段，分享方便（免费）
+- **[JSON Editor Online](https://jsoneditoronline.org)** — 树形编辑 JSON，大文件也能开（免费 + 付费）
+- **[JSON 格式化](https://jsonlint.com)** — JSON 校验与美化，调试接口常用（免费）
+- **[json.cn](https://www.json.cn)** — 国产 JSON 格式化，中文界面（免费）
+- **[Loom](https://www.loom.com)** — 录屏加讲解，发个链接就能看（免费 + 付费）
+- **[Magic Eraser](https://www.magiceraser.io)** — 去杂物比 PS 快，涂抹就消失，需自备网络（免费 + 付费）
+- **[Mail.tm](https://mail.tm)** — 临时邮箱，接口也能调（免费）
+- **[Markdown to HTML](https://markdowntohtml.com)** — Markdown 转 HTML，直接复制（免费）
+- **[MindMeister](https://www.mindmeister.com)** — 在线思维导图，协作方便（免费 + 付费）
+- **[Miro](https://miro.com)** — 多人在网页白板上画图和整理想法（免费 + 付费）
+- **[Mockaroo](https://www.mockaroo.com)** — 生成测试假数据，字段能自己定（免费）
+- **[MP3Cut](https://mp3cut.net)** — 在线剪音频，做铃声很方便（免费）
+- **[MXToolbox](https://mxtoolbox.com)** — 检查邮件域名解析和服务器配置（免费 + 付费）
+- **[MySSL](https://myssl.com)** — 国产 SSL 检测，证书链也能查（免费）
+- **[Online Audio Converter](https://online-audio-converter.com)** — 音频格式转换，免注册（免费）
+- **[Online-Convert](https://online-convert.com)** — 调整参数后在线转换文件格式（免费 + 付费）
+- **[Optimizilla](https://imagecompressor.com)** — 批量压图片，画质损失小（免费）
+- **[PageSpeed Insights](https://pagespeed.web.dev)** — 谷歌测网页速度，给优化建议，需自备网络（免费）
+- **[PDF Candy](https://pdfcandy.com)** — PDF 工具合集，常用功能都免费（免费 + 付费）
+- **[PDF24](https://www.pdf24.org)** — 完全免费的 PDF 工具箱，离线版也能装（免费）
+- **[PDFgear](https://www.pdfgear.com)** — 免费 PDF 工具，能编辑能转换（免费）
+- **[Programiz](https://www.programiz.com)** — 在线运行多种语言，教程也全（免费）
+- **[QR Code Monkey](https://www.qrcode-monkey.com)** — 做带 logo 的二维码，免费可商用（免费）
+- **[Random.org](https://www.random.org)** — 真随机数，抽奖摇号都用它（免费）
+- **[Regex101](https://regex101.com)** — 正则表达式在线调试，每段匹配都有解释（免费）
+- **[Regexper](https://regexper.com)** — 把正则画成图，复杂规则能看懂（免费）
+- **[Screely](https://www.screely.com)** — 截图加浏览器外框，做展示图好看（免费）
+- **[ScreenApp](https://screenapp.io)** — 在浏览器录制屏幕并转写录音（免费 + 付费）
+- **[Screencastify](https://www.screencastify.com)** — 浏览器录屏，录完直接分享（免费 + 付费）
+- **[Sejda](https://www.sejda.com)** — PDF 编辑，免费额度够用（免费 + 付费）
+- **[Send Anywhere](https://send-anywhere.com)** — 用短码或链接跨设备发送文件（免费 + 付费）
+- **[SimilarWeb](https://www.similarweb.com)** — 看网站流量和来源构成（免费 + 付费）
+- **[SM.MS](https://sm.ms)** — 免费图床，外链稳定（免费）
+- **[Smallpdf](https://smallpdf.com)** — PDF 工具合集，界面清爽，偶尔用一次不用装软件（免费 + 付费）
+- **[Speedtest](https://www.speedtest.net)** — 测网速，下载上传和延迟一次测完（免费）
+- **[Squoosh](https://squoosh.app)** — 谷歌出的图片压缩，能实时看压缩前后对比（免费）
+- **[SSL Labs](https://www.ssllabs.com/ssltest/)** — 测网站 SSL 配置，给出评分（免费）
+- **[StackEdit](https://stackedit.io)** — 在线 Markdown 编辑器，能同步云盘（免费）
+- **[Stirling PDF](https://www.stirlingpdf.com)** — 开源自建的 PDF 工具箱（开源免费）
+- **[SVG to PNG](https://svgtopng.com)** — SVG 转 PNG，调整尺寸再导出（免费）
+- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** — SVG 压缩，图片能瘦一大圈（免费）
+- **[SwissTransfer](https://swisstransfer.com)** — 上传大文件后生成临时分享链接（免费）
+- **[Symbolab](https://www.symbolab.com)** — 解数学题给步骤，复习好用（免费 + 付费）
+- **[TableConvert](https://tableconvert.com)** — 表格格式互转，Excel 转 Markdown（免费）
+- **[Tables Generator](https://www.tablesgenerator.com)** — 生成表格代码，Markdown 和 LaTeX，需自备网络（免费）
+- **[TEC-IT 条码](https://barcode.tec-it.com)** — 生成条形码，各种标准都有（免费）
+- **[Temp Mail](https://temp-mail.org)** — 生成临时邮箱接收短期使用的邮件（免费 + 付费）
+- **[timeanddate](https://www.timeanddate.com)** — 查各地时区，约跨国会议用（免费）
+- **[TinyPNG](https://tinypng.com)** — 图片无损压缩，网页图片瘦身必备（免费）
+- **[TinyURL](https://tinyurl.com)** — 免费短链，不用注册（免费）
+- **[tldraw](https://tldraw.com)** — 在浏览器画草图和共享白板（免费 + 付费）
+- **[TransferNow](https://www.transfernow.net)** — 传大文件，不用注册（免费 + 付费）
+- **[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)** — 开源截图取字工具，批量识别图片里的文字，离线可用（开源免费）
+- **[UnitConverters](https://www.unitconverters.net)** — 单位换算大全，长度重量温度都有（免费）
+- **[Upscale.media](https://upscale.media)** — 上传图片后放大尺寸并增强细节（免费 + 付费）
+- **[Upscayl](https://upscayl.org)** — 开源图片放大，本地跑不传云（开源免费）
+- **[URL Decoder](https://www.urldecoder.org)** — URL 编解码，链接转义一次搞定（免费）
+- **[Vector Magic](https://vectormagic.com)** — 位图转矢量图，边缘干净（免费 + 付费）
+- **[Waifu2x](https://waifu2x.udp.jp)** — 动漫图放大，还能顺带降噪（免费）
+- **[Watermarkly](https://watermarkly.com)** — 批量给图片添加文字或标志水印（免费 + 付费）
+- **[Wayback Machine](https://web.archive.org)** — 网页历史存档，能看旧版本，需自备网络（免费）
+- **[WebPageTest](https://www.webpagetest.org)** — 多地点测速，看加载瀑布图（免费）
+- **[WeTransfer](https://wetransfer.com)** — 不注册也能传大文件，给个链接让对方下载（免费 + 付费）
+- **[WhatIsMyIP](https://whatismyipaddress.com)** — 查自己的公网 IP 和位置（免费）
+- **[WhatTheFont](https://www.myfonts.com/pages/whatthefont)** — 上传图片认字体，识别率高（免费）
+- **[WHOIS](https://www.whois.com)** — 查域名注册信息，看谁买的（免费）
+- **[Witeboard](https://witeboard.com)** — 打开就能用的共享白板（免费）
+- **[Wolfram Alpha](https://www.wolframalpha.com)** — 能算能查的计算引擎，答案带推导（免费 + 付费）
+- **[Wormhole](https://wormhole.app)** — 通过浏览器加密发送文件并分享链接（免费）
+- **[XE](https://www.xe.com)** — 实时汇率换算，出国换钱前查（免费）
+- **[YouGetSignal](https://yougetsignal.com)** — 在线检查公网端口是否可连接（免费）
+- **[Zamzar](https://www.zamzar.com)** — 老牌在线转换，支持一千多种格式，不装软件（免费 + 付费）
+- **[ZXing 解码](https://zxing.org/w/decode.jspx)** — 二维码解码，上传图片读内容（免费）
+- **[字客网](https://www.fontke.com)** — 字体识别和下载，中文字体齐（免费）
+- **[文叔叔](https://www.wenshushu.cn)** — 国产传文件，不限速（免费）
+- **[站长工具](https://tool.chinaz.com)** — SEO 和站长工具合集，一个站全有（免费 + 付费）
+- **[草料二维码](https://cli.im)** — 生成二维码，网址、文字、名片都能转，免费够用（免费 + 付费）
+- **[路过图床](https://imgse.com)** — 国内图床，打开速度快（免费）
+- **[迅捷 PDF](https://www.xunjiepdf.com)** — 在线 PDF 转换，国内常用（免费 + 付费）
+
+## 设计工具
+
+- **[Adobe Color](https://color.adobe.com)** — 按色彩规则生成配色并提取图片色板（免费）
+- **[Affinity Designer](https://affinity.serif.com/designer/)** — 买断制矢量设计，替代 Illustrator（付费）
+- **[Affinity Photo](https://affinity.serif.com/photo/)** — 买断制修图软件，能替代 PS（付费）
+- **[After Effects](https://www.adobe.com/products/aftereffects.html)** — 动效和合成，做片头必备（付费）
+- **[Apple HIG](https://developer.apple.com/design/)** — 苹果设计规范，做 iOS 必读（免费）
+- **[Audacity](https://www.audacityteam.org)** — 开源音频编辑，录音降噪剪接都能做（开源免费）
+- **[Awwwards](https://www.awwwards.com)** — 网页设计评奖，能看到最好的站（免费）
+- **[Axure RP](https://axure.com)** — 用条件和变量制作复杂交互原型（付费）
+- **[Behance](https://www.behance.net)** — 完整项目展示，能看设计过程，需自备网络（免费）
+- **[Blender](https://www.blender.org)** — 开源三维软件，建模、渲染、动画全都能做（开源免费）
+- **[Blush](https://blush.design)** — 可定制插画，改配色就行（免费 + 付费）
+- **[Boardmix](https://boardmix.cn)** — 国产在线白板，模板多（免费 + 付费）
+- **[Bootstrap Icons](https://icons.getbootstrap.com)** — Bootstrap 配套图标，免费（开源免费）
+- **[Burst](https://burst.shopify.com)** — 免费商用图库，电商风照片多（免费）
+- **[Canva](https://www.canva.cn)** — 模板化设计，做海报和封面不用会设计（免费额度）
+- **[Cinema 4D](https://www.maxon.net/cinema-4d)** — 动效和三维设计，广告片常用（付费）
+- **[Color Hunt](https://colorhunt.co)** — 浏览按主题整理的颜色组合（免费）
+- **[Colormind](http://colormind.io)** — AI 生成配色方案（免费）
+- **[Coolors](https://coolors.co)** — 快速生成色板并调整颜色搭配（免费 + 付费）
+- **[CorelDRAW](https://www.coreldraw.com)** — 矢量排版，印刷行业常用（付费）
+- **[Coverr](https://coverr.co)** — 免费视频素材，做背景很合适（免费）
+- **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** — 专业剪辑和调色软件，免费版功能就够强（免费 + 付费）
+- **[DiceBear](https://www.dicebear.com)** — 生成头像，接口直接调（开源免费）
+- **[draw.io](https://app.diagrams.net)** — 免费在线画流程图、架构图，不用登录（免费）
+- **[Dribbble](https://dribbble.com)** — 设计师作品社区，找灵感（免费 + 付费）
+- **[Excalidraw](https://excalidraw.com)** — 手绘风白板，画流程图和架构图很快（免费）
+- **[Feather Icons](https://feathericons.com)** — 极简线性图标，前端常用（开源免费）
+- **[FigJam](https://www.figma.com/figjam/)** — Figma 的白板，团队一起画（免费 + 付费）
+- **[Figma](https://www.figma.com)** — 在线 UI 设计协作，设计稿能直接给前端（免费额度）
+- **[Flaticon](https://www.flaticon.com)** — 图标素材库，量大能商用（免费 + 付费）
+- **[Font Awesome](https://fontawesome.com)** — 为网页和应用提供成套图标（免费 + 付费）
+- **[Font Squirrel](https://fontsquirrel.com)** — 查找可商用字体并核对字体授权（免费）
+- **[Fontjoy](https://fontjoy.com)** — 一键生成字体搭配，省事（免费）
+- **[Fontpair](https://www.fontpair.co)** — 字体搭配参考，中英都有（免费）
+- **[Fotor](https://www.fotor.com)** — 在线修图和拼图，模板很多，需自备网络（免费 + 付费）
+- **[Framer](https://framer.com)** — 通过可视化界面设计并发布网站（免费 + 付费）
+- **[Freepik](https://www.freepik.com)** — 素材大全，插画照片矢量都有（免费 + 付费）
+- **[Freesound](https://freesound.org)** — 免费音效库，社区上传（免费）
+- **[GIMP](https://www.gimp.org)** — 开源的图像处理软件，PS 的免费替代（开源免费）
+- **[Godly](https://godly.website)** — 高质量网站灵感，更新很快（免费）
+- **[Google Fonts](https://fonts.google.com)** — 查找可用于网页和设计的开放字体（免费）
+- **[Happy Hues](https://www.happyhues.co)** — 现成配色方案，直接抄就行（免费）
+- **[Heroicons](https://heroicons.com)** — 提供适合界面使用的SVG图标（开源免费）
+- **[Humaaans](https://www.humaaans.com)** — 人物插画组件，自己拼场景（免费）
+- **[Iconfont](https://iconfont.cn)** — 搜索矢量图标并管理项目图标集合（免费）
+- **[Iconify](https://iconify.design)** — 开源图标集合，一个接口全都有（开源免费）
+- **[Icons8](https://icons8.com)** — 图标插画照片都有，风格统一（免费 + 付费）
+- **[Illustrator](https://www.adobe.com/products/illustrator.html)** — 矢量绘图标准工具，做 logo 必备（付费）
+- **[Inkscape](https://inkscape.org)** — 开源矢量图工具，做 logo 和图标不用买 AI（开源免费）
+- **[Krita](https://krita.org)** — 开源数字绘画软件，画插画和漫画顺手（开源免费）
+- **[Land-book](https://land-book.com)** — 落地页参考库，能按行业筛（免费）
+- **[LottieFiles](https://lottiefiles.com)** — 查找和编辑可用于网页的矢量动画（免费 + 付费）
+- **[Lucidchart](https://www.lucidchart.com)** — 专业流程图，团队协作顺（免费 + 付费）
+- **[Lucide](https://lucide.dev)** — 提供可调线宽的开源线性图标（开源免费）
+- **[Lunacy](https://icons8.com/lunacy)** — 设计界面和矢量图并使用内置素材（免费 + 付费）
+- **[MasterGo](https://mastergo.com)** — 国产在线设计工具，协作方便（免费 + 付费）
+- **[Material Design](https://m3.material.io)** — 谷歌设计规范，组件规则清楚（免费）
+- **[Mixkit](https://mixkit.co)** — 提供附带使用许可的视频和音效素材（免费）
+- **[Mural](https://www.mural.co)** — 在线白板，工作坊和讨论常用（免费 + 付费）
+- **[Open Peeps](https://www.openpeeps.com)** — 手绘人物插画，免费商用（免费）
+- **[Paletton](https://paletton.com)** — 配色搭配工具，能看对比效果（免费）
+- **[Penpot](https://penpot.app)** — 用开放格式协作设计界面和交互原型（开源免费）
+- **[Pexels](https://pexels.com)** — 搜索可按许可使用的照片和视频素材（免费）
+- **[Phosphor Icons](https://phosphoricons.com)** — 开源图标，线条风格统一（开源免费）
+- **[Photopea](https://www.photopea.com)** — 网页版 PS，不用装软件，能直接开 PSD 文件（免费）
+- **[Photoshop](https://www.adobe.com/products/photoshop.html)** — 图像处理行业标准，修图都用它（付费）
+- **[Pixabay](https://pixabay.com)** — 免费图片和视频，可商用（免费）
+- **[Pixlr](https://pixlr.com)** — 在线修图，像简化版 PS，需自备网络（免费 + 付费）
+- **[Pixso](https://pixso.cn)** — 国产在线原型和 UI 设计，团队协作方便，有免费版（免费 + 付费）
+- **[Premiere Pro](https://www.adobe.com/products/premiere.html)** — 专业剪辑标准工具，行业通用（付费）
+- **[ProcessOn](https://www.processon.com)** — 国产在线画图，流程图思维导图（免费 + 付费）
+- **[ProtoPie](https://protopie.io)** — 制作带传感器和设备联动的交互原型（免费 + 付费）
+- **[Remove.bg](https://www.remove.bg)** — 一键抠图去背景，人物和商品都切得比较干净（免费 + 付费）
+- **[Rive](https://rive.app)** — 制作可由程序实时控制的矢量动画（免费 + 付费）
+- **[Sketch](https://sketch.com)** — 在Mac上绘制界面并管理设计组件（付费）
+- **[SketchUp](https://www.sketchup.com)** — 建筑和室内建模，上手快（免费 + 付费）
+- **[Spline](https://spline.design)** — 网页里的 3D 设计工具，能嵌进站点（免费 + 付费）
+- **[Storyset](https://storyset.com)** — 选择风格和颜色生成可编辑插画（免费 + 付费）
+- **[SVGator](https://svgator.com)** — 在浏览器给SVG图形制作动画（免费 + 付费）
+- **[Tabler Icons](https://tabler.io/icons)** — 提供统一风格的开源线条图标（开源免费）
+- **[unDraw](https://undraw.co)** — 提供可改主题色的开放插画素材（免费）
+- **[Unsplash](https://unsplash.com)** — 搜索可按许可使用的摄影图片（免费 + 付费）
+- **[Vectary](https://www.vectary.com)** — 在线 3D 设计，能嵌进网页（免费 + 付费）
+- **[Videvo](https://www.videvo.net)** — 免费视频素材和音效（免费 + 付费）
+- **[Whimsical](https://whimsical.com)** — 画流程图和线框图，出图快（免费 + 付费）
+- **[Womp](https://womp.com)** — 浏览器里做 3D，新手也能上手（免费 + 付费）
+- **[亿图图示](https://www.edrawsoft.cn)** — 画流程图和思维导图，模板多（免费 + 付费）
+- **[剪映专业版](https://www.capcut.cn)** — 免费视频剪辑，自动字幕、配音、转场都有（免费）
+- **[即时设计](https://js.design)** — 国产在线 UI 设计工具，Figma 的国内替代（免费 + 付费）
+- **[字由](https://www.hellofont.cn)** — 中文字体管理，商用授权清楚（免费 + 付费）
+- **[摹客](https://www.mockplus.cn)** — 国产原型和设计协作工具（免费 + 付费）
+- **[稿定设计](https://www.gaoding.com)** — 在线做海报、封面、电商图，套模板改字就行（免费 + 付费）
+- **[蓝湖](https://lanhuapp.com)** — 设计稿交付平台，标注自动出（免费 + 付费）
+
+## AI 对话
+
+- **[360 智脑](https://chat.360.cn)** — 360 的 AI 助手，网页和文档总结都能做（免费 + 付费）
+- **[AI21](https://www.ai21.com)** — Jamba 系列模型，长上下文处理强（免费 + 付费）
+- **[AlphaSense](https://alpha-sense.com)** — 检索企业财报和研究资料并提炼要点（付费）
+- **[Andi](https://andisearch.com)** — 对话式搜索，给摘要不堆链接（免费）
+- **[AnythingLLM](https://anythingllm.com)** — 在本机围绕私有文档进行模型问答（开源免费）
+- **[AutoGPT](https://agpt.co)** — 自动分解任务的 AI 代理，开山之作（开源免费）
+- **[Character.AI](https://character.ai)** — 和虚拟角色聊天，角色社区最大，需自备网络（免费 + 付费）
+- **[Chatbox](https://chatboxai.app)** — 桌面版 AI 客户端，对话记录存本地（免费 + 付费）
+- **[ChatGPT](https://chat.openai.com)** — OpenAI 出品，通用能力全面，需自备网络（免费额度 + 订阅）
+- **[ChatPDF](https://www.chatpdf.com)** — 上传 PDF 直接提问，写论文常备，需自备网络（免费 + 付费）
+- **[Cherry Studio](https://cherry-ai.com)** — 桌面端接入多种模型并管理知识库（开源免费）
+- **[Claude](https://claude.ai)** — Anthropic 出品，长文写作和代码理解强，需自备网络（免费额度 + 订阅）
+- **[CoCounsel](https://thomsonreuters.com/en/cocounsel.html)** — 面向专业人员整理证据和审阅文档（付费）
+- **[Cohere](https://cohere.com)** — 面向企业的模型，检索增强做得好，需自备网络（免费 + 付费）
+- **[Connected Papers](https://www.connectedpapers.com)** — 输入一篇论文，画出相关论文图（免费 + 付费）
+- **[Consensus](https://consensus.app)** — 从研究论文中寻找问题相关证据（免费 + 付费）
+- **[Copilot](https://copilot.microsoft.com)** — 微软 AI 助手，Windows 自带，写文档做表格都能搭把手（免费）
+- **[Coze](https://www.coze.com)** — 字节的智能体平台，拖拽就能搭（免费 + 付费）
+- **[CrewAI](https://www.crewai.com)** — 多智能体协作框架，写代码的人用（开源免费）
+- **[DeepSeek](https://chat.deepseek.com)** — 国产大模型，代码和推理能力强，网页版免费（免费）
+- **[Dify](https://dify.ai)** — 搭建带知识库和工作流的AI应用（开源免费）
+- **[Exa](https://exa.ai)** — 面向 AI 的搜索引擎，给开发者用（免费 + 付费）
+- **[FastGPT](https://fastgpt.io)** — 用资料库和可视化流程搭建问答应用（开源免费）
+- **[Flowise](https://flowiseai.com)** — 拖拽节点搭建模型问答和智能体流程（开源免费）
+- **[Gemini](https://gemini.google.com)** — 谷歌大模型，能直接读网页和 YouTube，免费额度大，需自备网络（免费 + 付费）
+- **[Google AI Studio](https://aistudio.google.com)** — 谷歌官方模型试验台，能调参数，需自备网络（免费）
+- **[Grok](https://grok.com)** — xAI 出品，能读 X 上的实时信息，风格直接，需自备网络（免费 + 付费）
+- **[Groq](https://groq.com)** — 推理极快的模型服务，输出几乎秒出（免费 + 付费）
+- **[Harvey](https://harvey.ai)** — 面向法律团队检索和分析法律文档（付费）
+- **[Helicone](https://www.helicone.ai)** — 大模型调用监控，统计成本和延迟（免费 + 付费）
+- **[HuggingChat](https://huggingface.co/chat)** — 抱抱脸的开源模型聊天，免费用，需自备网络（免费）
+- **[Humata](https://www.humata.ai)** — 面向文档的 AI，能对比多份文件（免费 + 付费）
+- **[Jan](https://jan.ai)** — 在电脑本地运行模型并聊天（开源免费）
+- **[Kagi Assistant](https://kagi.com)** — 结合搜索结果回答问题并标明来源（付费）
+- **[Kimi](https://kimi.moonshot.cn)** — 月之暗面出品，长文本处理是强项，能读整本书（免费）
+- **[Komo](https://komo.ai)** — 轻量 AI 搜索，界面极简没广告（免费 + 付费）
+- **[LangChain](https://www.langchain.com)** — 大模型应用开发框架，最主流的那个（开源免费）
+- **[Langflow](https://langflow.org)** — 用可视化节点搭建模型应用和智能体（开源免费）
+- **[LangSmith](https://smith.langchain.com)** — 调试和评估大模型应用的平台（免费 + 付费）
+- **[LibreChat](https://www.librechat.ai)** — 开源聊天界面，团队可以自己部署（开源免费）
+- **[LiteLLM](https://www.litellm.ai)** — 统一调用上百个模型的代理层（开源免费）
+- **[LlamaIndex](https://www.llamaindex.ai)** — 搭检索问答应用的框架，文档全（开源免费）
+- **[LM Studio](https://lmstudio.ai)** — 用桌面界面下载和运行本地模型（免费）
+- **[LobeChat](https://lobechat.com)** — 开源聊天前端，插件和知识库都支持（开源免费）
+- **[Merlin](https://www.getmerlin.in)** — 浏览器里的 AI 助手，多个模型随便切（免费 + 付费）
+- **[Meta AI](https://www.meta.ai)** — Meta 的大模型助手，问答和画图都有，需自备网络（免费 + 付费）
+- **[MetaGPT](https://www.deepwisdom.ai)** — 多角色 AI 协作做软件，能出文档（开源免费）
+- **[Mistral](https://chat.mistral.ai)** — 欧洲开源大模型，轻量快速，有免费网页版，需自备网络（免费 + 付费）
+- **[Monica](https://monica.im)** — 插件式 AI 助手，一键总结和翻译网页，需自备网络（免费 + 付费）
+- **[NotebookLM](https://notebooklm.google.com)** — 围绕上传资料问答并生成音频概览，需自备网络（免费 + 付费）
+- **[Ollama](https://ollama.com)** — 在本机下载并运行开放模型（开源免费）
+- **[Open WebUI](https://openwebui.com)** — 为本地或在线模型提供聊天界面（开源免费）
+- **[OpenEvidence](https://openevidence.com)** — 面向医护检索医学文献和临床证据（免费 + 付费）
+- **[OpenRouter](https://openrouter.ai)** — 一个入口调各家模型，比价方便（免费 + 付费）
+- **[Perplexity](https://www.perplexity.ai)** — AI 搜索引擎，答案带出处链接，查资料比普通搜索省事，需自备网络（免费 + 付费）
+- **[Phind](https://www.phind.com)** — 面向程序员的 AI 搜索，直接给代码（免费 + 付费）
+- **[Pi](https://pi.ai)** — 语气最像人的聊天助手，适合练口语（免费）
+- **[Poe](https://poe.com)** — 一个页面聚合十几个模型，切换着用，比较省订阅费，需自备网络（免费 + 付费）
+- **[Portkey](https://portkey.ai)** — 大模型网关，统一管理和限流（免费 + 付费）
+- **[Qwen Chat](https://chat.qwen.ai)** — 通义千问国际版，英文和代码都强（免费）
+- **[RAGFlow](https://ragflow.io)** — 解析复杂文档并搭建检索问答知识库（开源免费）
+- **[Replicate](https://replicate.com)** — 跑开源模型的地方，图片视频模型最多（免费 + 付费）
+- **[Semantic Scholar](https://www.semanticscholar.org)** — 免费论文搜索，AI 生成摘要（免费）
+- **[SillyTavern](https://sillytavern.app)** — 本地角色扮演前端，接自己的模型（开源免费）
+- **[Tavily](https://tavily.com)** — 给 AI 应用用的搜索接口，接起来快（免费 + 付费）
+- **[Together AI](https://www.together.ai)** — 开源模型托管平台，有免费额度（免费 + 付费）
+- **[Whisper](https://github.com/openai/whisper)** — OpenAI 开源的语音转文字，中文识别很准（免费）
+- **[You.com](https://you.com)** — 检索网页并结合来源回答问题（免费 + 付费）
+- **[书生浦语](https://internlm.intern-ai.org.cn)** — 上海 AI 实验室的开源模型，可试用（开源免费）
+- **[商汤商量](https://chat.sensetime.com)** — 商汤的对话助手，文档问答和多轮对话（免费 + 付费）
+- **[天工 AI](https://www.tiangong.cn)** — 昆仑万维的 AI 助手，搜索和写作能一起用（免费）
+- **[扣子](https://coze.cn)** — 通过知识库和工作流搭建对话智能体（免费 + 付费）
+- **[文心一言](https://yiyan.baidu.com)** — 百度的大模型，中文理解好，国内直接访问（免费）
+- **[智谱清言](https://chatglm.cn)** — 清华系 GLM 模型，支持联网和智能体（免费）
+- **[海螺 AI](https://hailuoai.com)** — MiniMax 出品，语音和多模态做得不错，有免费额度（免费 + 付费）
+- **[百小应](https://yi.baichuan-ai.com)** — 百川推出的联网问答和资料阅读助手（免费）
+- **[秘塔 AI 搜索](https://metaso.cn)** — 联网检索资料并整理带来源的回答（免费 + 付费）
+- **[纳米 AI 搜索](https://n.cn)** — 用自然语言搜索并整理网络信息（免费 + 付费）
+- **[腾讯元宝](https://yuanbao.tencent.com)** — 腾讯的 AI 助手，能读公众号文章，微信里直接用（免费）
+- **[腾讯混元](https://hunyuan.tencent.com)** — 腾讯自研大模型，能画图能写文，跟微信生态打通（免费）
+- **[讯飞星火](https://xinghuo.xfyun.cn)** — 科大讯飞出的大模型，语音识别和中文问答是强项（免费）
+- **[豆包](https://www.doubao.com)** — 字节出品，语音对话体验好，手机端方便（免费）
+- **[跃问](https://yuewen.cn)** — 阶跃星辰推出的多模态问答助手（免费）
+- **[通义千问](https://tongyi.aliyun.com)** — 阿里出品，支持文档解析、图片理解（免费）
+- **[零一万物](https://www.lingyiwanwu.com)** — 李开复团队的模型，网页版和接口都有（免费 + 付费）
+
+## AI 视频音频
+
+- **[Adobe Podcast](https://podcast.adobe.com)** — 在线增强录音人声并减少杂音（免费 + 付费）
+- **[AIVA](https://www.aiva.ai)** — AI 作曲，能做影视配乐（免费 + 付费）
+- **[Auphonic](https://auphonic.com)** — 自动平衡人声响度并减少底噪（免费 + 付费）
+- **[Captions](https://www.captions.ai)** — 口播视频一键加字幕和剪辑（免费 + 付费）
+- **[Clipchamp](https://clipchamp.com)** — 微软自带剪辑，网页版就能用（免费 + 付费）
+- **[Colossyan](https://colossyan.com)** — 把文档转成数字人培训视频（免费 + 付费）
+- **[D-ID](https://d-id.com)** — 让照片按输入文稿开口说话（免费 + 付费）
+- **[Descript](https://descript.com)** — 像改文稿一样剪辑音频和视频（免费 + 付费）
+- **[Elai](https://elai.io)** — 数字人讲稿视频，培训课常用（付费）
+- **[ElevenLabs](https://elevenlabs.io)** — 把文字转成自然语音并制作配音（免费 + 付费）
+- **[Fliki](https://fliki.ai)** — 文字转视频，配音字幕一次生成（免费 + 付费）
+- **[Genmo](https://www.genmo.ai)** — 开源视频模型 Mochi，免费额度大（免费 + 付费）
+- **[Gling](https://www.gling.ai)** — 自动剪掉废镜头和静音段（免费 + 付费）
+- **[Hedra](https://hedra.com)** — 让人物图像跟随音频生成说话视频（免费 + 付费）
+- **[HeyGen](https://heygen.com)** — 用数字人和多语配音制作讲解视频（免费 + 付费）
+- **[InVideo](https://invideo.io)** — 模板加 AI，做营销短视频快，需自备网络（免费 + 付费）
+- **[iZotope RX](https://izotope.com)** — 修复录音里的爆音和环境噪声（付费）
+- **[Kaiber](https://kaiber.ai)** — 音乐视频风格化，做 MV 常用（付费）
+- **[Kapwing](https://kapwing.com)** — 在线协作剪片并生成翻译字幕（免费 + 付费）
+- **[Krisp](https://krisp.ai)** — 实时消除通话里的环境噪声（免费 + 付费）
+- **[LALAL.AI](https://www.lalal.ai)** — 人声和伴奏分离，精度很高（免费 + 付费）
+- **[LOVO](https://lovo.ai)** — 用多种音色为视频生成旁白，需自备网络（免费 + 付费）
+- **[LTX Studio](https://ltx.studio)** — 从故事脚本规划分镜并生成镜头（免费 + 付费）
+- **[Luma Dream Machine](https://lumalabs.ai)** — 用文字或图片生成短视频镜头，需自备网络（免费 + 付费）
+- **[Moises](https://moises.ai)** — 分轨和降速，练乐器的人常用（免费 + 付费）
+- **[Mubert](https://mubert.com)** — 生成无版权背景音乐（免费 + 付费）
+- **[Murf](https://murf.ai)** — 为演示和视频生成多语言旁白（免费 + 付费）
+- **[OpusClip](https://www.opus.pro)** — 长视频自动切片成竖屏短视频（免费 + 付费）
+- **[Pictory](https://pictory.ai)** — 长文章自动剪成短视频（付费）
+- **[PixVerse](https://pixverse.ai)** — 把图片和提示词变成动态短片（免费 + 付费）
+- **[PlayHT](https://play.ht)** — 文字转语音，音色自然支持中文，需自备网络（免费 + 付费）
+- **[Resemble AI](https://www.resemble.ai)** — 声音克隆，能复刻自己的音色（付费）
+- **[Respeecher](https://www.respeecher.com)** — 影视级变声，保留情绪细节（付费）
+- **[Rev](https://www.rev.com)** — 人工加 AI 转写，准确率高（付费）
+- **[Riffusion](https://www.riffusion.com)** — 免费生成音乐，风格随便写（免费）
+- **[Riverside](https://riverside.fm)** — 远程录制播客并转写和剪辑内容（免费 + 付费）
+- **[Sora](https://sora.com)** — OpenAI 的视频生成，画面连贯度最高，需自备网络（付费）
+- **[Soundraw](https://soundraw.io)** — 按情绪和时长生成配乐（免费 + 付费）
+- **[Speechify](https://speechify.com)** — 把网页和 PDF 读出来，通勤听资料（免费 + 付费）
+- **[Submagic](https://www.submagic.co)** — 短视频自动加字幕和特效（付费）
+- **[Suno](https://suno.com)** — 输入描述生成带人声和伴奏的歌曲，需自备网络（免费 + 付费）
+- **[Synthesia](https://synthesia.io)** — 输入文稿制作数字人口播视频（免费 + 付费）
+- **[tl;dv](https://tldv.io)** — 录会议并自动打时间戳（免费）
+- **[Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)** — 视频修复和放大，老片翻新（付费）
+- **[TTSMaker](https://ttsmaker.com)** — 免费在线文字转语音，不用注册，需自备网络（免费）
+- **[Udio](https://udio.com)** — 按文字描述生成音乐并续写片段，需自备网络（免费 + 付费）
+- **[VEED](https://veed.io)** — 在线剪视频并自动生成字幕（免费 + 付费）
+- **[Veo](https://deepmind.google/models/veo/)** — 谷歌的视频模型，音画同步做得好（付费）
+- **[Vidu](https://vidu.cn)** — 参考图片和文字生成视频片段（免费 + 付费）
+- **[Vizard](https://vizard.ai)** — 长视频转短视频，自动加字幕（免费 + 付费）
+- **[Voicemod](https://www.voicemod.net)** — 实时变声，直播和开黑用（免费 + 付费）
+- **[WellSaid](https://wellsaidlabs.com)** — 为培训课程制作英语合成配音（付费）
+- **[Wisecut](https://wisecut.ai)** — 自动去掉停顿，口播视频提速（免费 + 付费）
+- **[一帧秒创](https://aigc.yizhentv.com)** — 图文一键转视频，适合做解说（免费 + 付费）
+- **[万兴喵影](https://www.wondershare.cn)** — 国产剪辑软件，模板多上手快（免费 + 付费）
+- **[度加创作](https://aigc.baidu.com)** — 百度的视频创作工具，剪辑加配音（免费）
+- **[必剪](https://bcut.bilibili.cn)** — B 站官方剪辑，投稿一键上传（免费）
+- **[讯飞智作](https://peiyin.xunfei.cn)** — 讯飞的配音工具，中文音色最多（免费 + 付费）
+- **[通义听悟](https://tingwu.aliyun.com)** — 阿里的录音转写，中文识别准（免费 + 付费）
+- **[飞书妙记](https://www.feishu.cn/product/minutes)** — 飞书的录音转文字，开会必用（免费）
+- **[魔音工坊](https://www.moyin.com)** — 中文 AI 配音，短视频常用（免费 + 付费）
+
+## 数据分析
+
+- **[Airflow](https://airflow.apache.org)** — 调度数据任务，依赖关系可视化（开源免费）
+- **[Apache Doris](https://doris.apache.org)** — 实时分析数据库，查询毫秒级（开源免费）
+- **[Apache ECharts](https://echarts.apache.org)** — 百度出的图表库，中文文档全（开源免费）
+- **[Apache Flink](https://flink.apache.org)** — 实时流计算引擎，低延迟处理数据（开源免费）
+- **[Apache Hive](https://hive.apache.org)** — 用 SQL 查大数据，Hadoop 生态（开源免费）
+- **[Apache Spark](https://spark.apache.org)** — 大数据处理引擎，批流一体（开源免费）
+- **[Apache Superset](https://superset.apache.org)** — 开源数据可视化平台，适合大数据量（免费开源）
+- **[Chart.js](https://www.chartjs.org)** — 轻量图表库，几行代码出图（开源免费）
+- **[ClickHouse](https://clickhouse.com)** — 列式数据库，查几亿行数据秒回，做日志分析很快（开源免费）
+- **[Datawrapper](https://www.datawrapper.de)** — 记者用的制图工具，出图专业（免费 + 付费）
+- **[dbt](https://www.getdbt.com)** — 用 SQL 做数据转换，版本可控（免费 + 付费）
+- **[Deepnote](https://deepnote.com)** — 云端数据笔记本，多人实时编辑（免费 + 付费）
+- **[DuckDB](https://duckdb.org)** — 嵌入式分析数据库，本地跑 SQL 分析 CSV 极快（免费开源）
+- **[FineBI](https://www.finebi.com)** — 帆软的国产 BI，中文界面，适合企业内部报表（免费 + 付费）
+- **[FineReport](https://www.fanruan.com)** — 国产报表工具，中国式复杂报表能画（免费 + 付费）
+- **[Flourish](https://flourish.studio)** — 做动态图表和数据故事，模板多（免费 + 付费）
+- **[Google Colab](https://colab.research.google.com)** — 免费 GPU 笔记本，跑模型不用买卡（免费）
+- **[Grafana](https://grafana.com)** — 监控大盘，做实时数据展示（免费开源）
+- **[H2O.ai](https://h2o.ai)** — 自动机器学习平台，少写代码出模型（免费 + 付费）
+- **[Hadoop](https://hadoop.apache.org)** — 分布式存储和计算框架，大数据基础（开源免费）
+- **[Hex](https://hex.tech)** — 团队协作的 SQL 和 Python 笔记本（免费 + 付费）
+- **[Jupyter](https://jupyter.org)** — 写 Python 做分析的标准环境，代码和图表能在同一页（开源免费）
+- **[Kaggle](https://www.kaggle.com)** — 数据竞赛平台，数据集和笔记本都免费（免费）
+- **[KNIME](https://www.knime.com)** — 拖拽式数据分析，不用写代码（免费 + 付费）
+- **[Looker Studio](https://lookerstudio.google.com)** — 谷歌的免费报表工具，连数据源出看板，需自备网络（免费）
+- **[Metabase](https://www.metabase.com)** — 开源 BI 工具，连上数据库就能做图表看板（开源版免费）
+- **[MLflow](https://mlflow.org)** — 模型生命周期管理，实验和部署都管（开源免费）
+- **[NumPy](https://numpy.org)** — Python 数值计算基础库，数组运算快（开源免费）
+- **[Observable](https://observablehq.com)** — 在线写 D3 的可视化笔记本（免费 + 付费）
+- **[Orange](https://orangedatamining.com)** — 可视化数据挖掘，教学和探索好用（开源免费）
+- **[pandas](https://pandas.pydata.org)** — Python 表格处理标准库，几乎人人用（开源免费）
+- **[Plotly](https://plotly.com)** — 交互式图表，Python 和 JS 都能用（免费 + 付费）
+- **[Polars](https://pola.rs)** — 比 pandas 快的表格库，内存占用低（开源免费）
+- **[Power BI](https://powerbi.microsoft.com)** — 微软的 BI 工具，跟 Excel 打通，做报表看板快（免费 + 付费）
+- **[PyTorch](https://pytorch.org)** — 深度学习框架，研究和工业界都用（开源免费）
+- **[Redash](https://redash.io)** — 开源 BI 工具，连库写 SQL 出图（开源免费）
+- **[scikit-learn](https://scikit-learn.org)** — 经典机器学习库，分类回归聚类都有（开源免费）
+- **[StarRocks](https://www.starrocks.io)** — 高性能分析库，替代 ClickHouse 的选择（开源免费）
+- **[Streamlit](https://streamlit.io)** — 几十行代码把分析脚本变成网页，做内部工具很快（开源免费）
+- **[Tableau](https://www.tableau.com)** — 拖拽式数据分析，图表好看，企业里用得广（付费）
+- **[TensorFlow](https://www.tensorflow.org)** — 谷歌的深度学习框架，部署方案全，需自备网络（开源免费）
+- **[Trino](https://trino.io)** — 跨数据源查询引擎，一个 SQL 查多处（开源免费）
+- **[Weights & Biases](https://wandb.ai)** — 训练实验记录，对比不同参数效果（免费 + 付费）
+- **[神策数据](https://www.sensorsdata.cn)** — 用户行为分析，埋点和漏斗都能做（免费 + 付费）
+
+## AI 绘画
+
+- **[6pen](https://6pen.art)** — 国内 AI 绘画，支持多种画风（免费 + 付费）
+- **[Adobe Firefly](https://firefly.adobe.com)** — Adobe 的绘图 AI，商用授权最放心（免费 + 付费）
+- **[Artbreeder](https://www.artbreeder.com)** — 混图造脸，人物设定常用，需自备网络（免费 + 付费）
+- **[Civitai](https://civitai.com)** — 模型和风格包最大的社区，下载前看样例，需自备网络（免费 + 付费）
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** — 开源本地绘图工作流，可跑 Stable Diffusion，需自己部署（免费开源）
+- **[Craiyon](https://www.craiyon.com)** — 最简单的免费画图，出图粗糙但够玩，需自备网络（免费）
+- **[Draw Things](https://drawthings.ai)** — 苹果设备本地跑 SD，不用联网（免费）
+- **[Flux](https://blackforestlabs.ai)** — 出图质量强的开源模型，本地也能跑（开源免费）
+- **[Freepik AI](https://www.freepik.com/ai/image-generator)** — 素材站自带绘图，出图能直接下载（免费 + 付费）
+- **[Getimg](https://getimg.ai)** — 图片生成和编辑一体，扩图很好用，需自备网络（免费 + 付费）
+- **[Ideogram](https://ideogram.ai)** — 图里写文字最准的一档，做海报和 logo 好用，需自备网络（免费 + 付费）
+- **[Krea](https://www.krea.ai)** — 实时出图的 AI 画板，边画边生成，需自备网络（免费 + 付费）
+- **[Leonardo AI](https://leonardo.ai)** — 游戏美术风格的 AI 绘图，免费额度每天刷新，需自备网络（免费 + 付费）
+- **[Lexica](https://lexica.art)** — 搜 AI 图和提示词，找参考最快，需自备网络（免费）
+- **[LiblibAI](https://www.liblib.art)** — 国内的 SD 模型和作品社区，不用自己配环境就能出图（免费 + 付费）
+- **[Midjourney](https://www.midjourney.com)** — 出图质量高，需要 Discord 使用，需自备网络（订阅 $10/月起）
+- **[NightCafe](https://creator.nightcafe.studio)** — AI 绘画社区，每天有免费额度，需自备网络（免费 + 付费）
+- **[Pika](https://pika.art)** — 轻量 AI 视频工具，改视频里的小元素很方便，需自备网络（免费 + 付费）
+- **[Playground](https://playground.com)** — 画布式 AI 绘图，能局部重绘（免费 + 付费）
+- **[Recraft](https://www.recraft.ai)** — 生成矢量图和图标，出图能直接改，适合做设计素材，需自备网络（免费 + 付费）
+- **[Runway](https://runwayml.com)** — 专业级 AI 视频生成，影视和广告圈用得多，需自备网络（免费 + 付费）
+- **[SeaArt](https://www.seaart.ai)** — 在线 AI 绘画社区，模型提示词都有，需自备网络（免费 + 付费）
+- **[Stable Diffusion](https://stability.ai)** — 开源图像模型，本地部署免费，可控性最强，需自备网络（开源免费）
+- **[即梦 AI](https://jimeng.jianying.com)** — 字节出品，文生图、图生视频，中文提示词友好（免费额度）
+- **[可灵 AI](https://klingai.kuaishou.com)** — 快手出的视频生成模型，图生视频效果好，国内可用（免费 + 付费）
+- **[商汤秒画](https://miaohua.sensetime.com)** — 商汤的绘图平台，出图偏商业风（免费 + 付费）
+- **[堆友](https://d.design)** — 阿里的设计素材加 AI 绘图，都免费（免费）
+- **[文心一格](https://yige.baidu.com)** — 百度的 AI 绘画，中文提示词友好（免费 + 付费）
+- **[无界 AI](https://www.wujieai.com)** — 国内 AI 绘画平台，模型风格齐全（免费 + 付费）
+- **[通义万相](https://tongyi.aliyun.com/wanxiang)** — 阿里出品，图片和视频生成（免费额度）
+
+---
+
+清单本身是数据，不是广告。想找的没收录，去 [@gongju_nav_bot](https://t.me/gongju_nav_bot) 把词发过来，问的人多了就补进去。

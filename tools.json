@@ -1,0 +1,11768 @@
+{
+ "meta": {
+  "name": "工具导航索引",
+  "version": "0.2",
+  "note": "只收录公开可访问的正规工具官网。盗版、破解、资源站一律不收录。"
+ },
+ "items": [
+  {
+   "name": "ChatGPT",
+   "cat": "AI 对话",
+   "desc": "OpenAI 出品，通用能力全面，需自备网络",
+   "url": "https://chat.openai.com",
+   "kw": [
+    "chatgpt",
+    "openai",
+    "gpt"
+   ],
+   "price": "免费额度 + 订阅"
+  },
+  {
+   "name": "Claude",
+   "cat": "AI 对话",
+   "desc": "Anthropic 出品，长文写作和代码理解强，需自备网络",
+   "url": "https://claude.ai",
+   "kw": [
+    "claude",
+    "anthropic",
+    "写作"
+   ],
+   "price": "免费额度 + 订阅"
+  },
+  {
+   "name": "Copilot",
+   "cat": "AI 对话",
+   "desc": "微软 AI 助手，Windows 自带，写文档做表格都能搭把手",
+   "url": "https://copilot.microsoft.com",
+   "price": "免费",
+   "kw": [
+    "copilot",
+    "微软",
+    "microsoft",
+    "ai",
+    "office",
+    "助手"
+   ]
+  },
+  {
+   "name": "DeepSeek",
+   "cat": "AI 对话",
+   "desc": "国产大模型，代码和推理能力强，网页版免费",
+   "url": "https://chat.deepseek.com",
+   "kw": [
+    "deepseek",
+    "深度求索",
+    "大模型",
+    "ai",
+    "写代码"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "Gemini",
+   "cat": "AI 对话",
+   "desc": "谷歌大模型，能直接读网页和 YouTube，免费额度大，需自备网络",
+   "url": "https://gemini.google.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "gemini",
+    "谷歌",
+    "google",
+    "大模型",
+    "ai",
+    "巴德"
+   ]
+  },
+  {
+   "name": "Grok",
+   "cat": "AI 对话",
+   "desc": "xAI 出品，能读 X 上的实时信息，风格直接，需自备网络",
+   "url": "https://grok.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "grok",
+    "xai",
+    "马斯克",
+    "推特",
+    "ai"
+   ]
+  },
+  {
+   "name": "Kimi",
+   "cat": "AI 对话",
+   "desc": "月之暗面出品，长文本处理是强项，能读整本书",
+   "url": "https://kimi.moonshot.cn",
+   "kw": [
+    "kimi",
+    "月之暗面",
+    "长文本",
+    "读文档"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "Mistral",
+   "cat": "AI 对话",
+   "desc": "欧洲开源大模型，轻量快速，有免费网页版，需自备网络",
+   "url": "https://chat.mistral.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "mistral",
+    "欧洲",
+    "开源模型",
+    "ai"
+   ]
+  },
+  {
+   "name": "Perplexity",
+   "cat": "AI 对话",
+   "desc": "AI 搜索引擎，答案带出处链接，查资料比普通搜索省事，需自备网络",
+   "url": "https://www.perplexity.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "perplexity",
+    "ai 搜索",
+    "搜索",
+    "查资料",
+    "带来源"
+   ]
+  },
+  {
+   "name": "Poe",
+   "cat": "AI 对话",
+   "desc": "一个页面聚合十几个模型，切换着用，比较省订阅费，需自备网络",
+   "url": "https://poe.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "poe",
+    "聚合",
+    "多个模型",
+    "quora",
+    "ai"
+   ]
+  },
+  {
+   "name": "Whisper",
+   "cat": "AI 对话",
+   "desc": "OpenAI 开源的语音转文字，中文识别很准",
+   "url": "https://github.com/openai/whisper",
+   "price": "免费",
+   "kw": [
+    "语音转文字",
+    "转写",
+    "字幕",
+    "录音",
+    "听写",
+    "whisper",
+    "音频转文字",
+    "语音识别",
+    "会议纪要"
+   ]
+  },
+  {
+   "name": "天工 AI",
+   "cat": "AI 对话",
+   "desc": "昆仑万维的 AI 助手，搜索和写作能一起用",
+   "url": "https://www.tiangong.cn",
+   "price": "免费",
+   "kw": [
+    "天工",
+    "昆仑万维",
+    "skywork",
+    "ai",
+    "搜索"
+   ]
+  },
+  {
+   "name": "文心一言",
+   "cat": "AI 对话",
+   "desc": "百度的大模型，中文理解好，国内直接访问",
+   "url": "https://yiyan.baidu.com",
+   "price": "免费",
+   "kw": [
+    "文心一言",
+    "文心",
+    "百度",
+    "ernie",
+    "大模型",
+    "ai"
+   ]
+  },
+  {
+   "name": "智谱清言",
+   "cat": "AI 对话",
+   "desc": "清华系 GLM 模型，支持联网和智能体",
+   "url": "https://chatglm.cn",
+   "kw": [
+    "智谱",
+    "清言",
+    "glm",
+    "chatglm"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "海螺 AI",
+   "cat": "AI 对话",
+   "desc": "MiniMax 出品，语音和多模态做得不错，有免费额度",
+   "url": "https://hailuoai.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "海螺",
+    "hailuo",
+    "minimax",
+    "语音",
+    "ai"
+   ]
+  },
+  {
+   "name": "腾讯元宝",
+   "cat": "AI 对话",
+   "desc": "腾讯的 AI 助手，能读公众号文章，微信里直接用",
+   "url": "https://yuanbao.tencent.com",
+   "price": "免费",
+   "kw": [
+    "元宝",
+    "腾讯",
+    "yuanbao",
+    "公众号",
+    "ai",
+    "助手"
+   ]
+  },
+  {
+   "name": "腾讯混元",
+   "cat": "AI 对话",
+   "desc": "腾讯自研大模型，能画图能写文，跟微信生态打通",
+   "url": "https://hunyuan.tencent.com",
+   "price": "免费",
+   "kw": [
+    "混元",
+    "腾讯",
+    "hunyuan",
+    "大模型",
+    "ai"
+   ]
+  },
+  {
+   "name": "讯飞星火",
+   "cat": "AI 对话",
+   "desc": "科大讯飞出的大模型，语音识别和中文问答是强项",
+   "url": "https://xinghuo.xfyun.cn",
+   "price": "免费",
+   "kw": [
+    "星火",
+    "讯飞",
+    "iflytek",
+    "大模型",
+    "语音",
+    "ai"
+   ]
+  },
+  {
+   "name": "豆包",
+   "cat": "AI 对话",
+   "desc": "字节出品，语音对话体验好，手机端方便",
+   "url": "https://www.doubao.com",
+   "kw": [
+    "豆包",
+    "字节",
+    "语音"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "通义千问",
+   "cat": "AI 对话",
+   "desc": "阿里出品，支持文档解析、图片理解",
+   "url": "https://tongyi.aliyun.com",
+   "kw": [
+    "通义",
+    "千问",
+    "阿里",
+    "qwen"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "ComfyUI",
+   "cat": "AI 绘画",
+   "desc": "开源本地绘图工作流，可跑 Stable Diffusion，需自己部署",
+   "url": "https://github.com/comfyanonymous/ComfyUI",
+   "kw": [
+    "comfyui",
+    "sd",
+    "stable diffusion",
+    "本地部署",
+    "开源",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ],
+   "price": "免费开源"
+  },
+  {
+   "name": "Ideogram",
+   "cat": "AI 绘画",
+   "desc": "图里写文字最准的一档，做海报和 logo 好用，需自备网络",
+   "url": "https://ideogram.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "ideogram",
+    "海报设计",
+    "logo",
+    "字体排版",
+    "英文海报",
+    "ai 绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Leonardo AI",
+   "cat": "AI 绘画",
+   "desc": "游戏美术风格的 AI 绘图，免费额度每天刷新，需自备网络",
+   "url": "https://leonardo.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "leonardo",
+    "ai 绘图",
+    "生图",
+    "游戏美术",
+    "画图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "LiblibAI",
+   "cat": "AI 绘画",
+   "desc": "国内的 SD 模型和作品社区，不用自己配环境就能出图",
+   "url": "https://www.liblib.art",
+   "price": "免费 + 付费",
+   "kw": [
+    "liblib",
+    "哩布",
+    "sd",
+    "模型",
+    "ai 绘图",
+    "生图",
+    "lora",
+    "画图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Midjourney",
+   "cat": "AI 绘画",
+   "desc": "出图质量高，需要 Discord 使用，需自备网络",
+   "url": "https://www.midjourney.com",
+   "kw": [
+    "mj",
+    "midjourney",
+    "绘画",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ],
+   "price": "订阅 $10/月起"
+  },
+  {
+   "name": "Pika",
+   "cat": "AI 绘画",
+   "desc": "轻量 AI 视频工具，改视频里的小元素很方便，需自备网络",
+   "url": "https://pika.art",
+   "price": "免费 + 付费",
+   "kw": [
+    "pika",
+    "ai 视频",
+    "视频生成",
+    "特效"
+   ]
+  },
+  {
+   "name": "Recraft",
+   "cat": "AI 绘画",
+   "desc": "生成矢量图和图标，出图能直接改，适合做设计素材，需自备网络",
+   "url": "https://www.recraft.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "recraft",
+    "矢量",
+    "icon",
+    "图标",
+    "素材",
+    "ai 绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Runway",
+   "cat": "AI 绘画",
+   "desc": "专业级 AI 视频生成，影视和广告圈用得多，需自备网络",
+   "url": "https://runwayml.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "runway",
+    "ai 视频",
+    "视频生成",
+    "文生视频",
+    "剪辑"
+   ]
+  },
+  {
+   "name": "Stable Diffusion",
+   "cat": "AI 绘画",
+   "desc": "开源图像模型，本地部署免费，可控性最强，需自备网络",
+   "url": "https://stability.ai",
+   "price": "开源免费",
+   "kw": [
+    "stable diffusion",
+    "sd",
+    "开源",
+    "本地部署",
+    "画图",
+    "ai 绘图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "即梦 AI",
+   "cat": "AI 绘画",
+   "desc": "字节出品，文生图、图生视频，中文提示词友好",
+   "url": "https://jimeng.jianying.com",
+   "kw": [
+    "即梦",
+    "绘画",
+    "文生图",
+    "生成图片",
+    "视频生成",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "可灵 AI",
+   "cat": "AI 绘画",
+   "desc": "快手出的视频生成模型，图生视频效果好，国内可用",
+   "url": "https://klingai.kuaishou.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "可灵",
+    "kling",
+    "快手",
+    "视频生成",
+    "图生视频",
+    "ai 视频",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "通义万相",
+   "cat": "AI 绘画",
+   "desc": "阿里出品，图片和视频生成",
+   "url": "https://tongyi.aliyun.com/wanxiang",
+   "kw": [
+    "万相",
+    "绘画",
+    "生图",
+    "画图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "Aconvert",
+   "cat": "在线工具",
+   "desc": "格式转换站，文档、图片、音视频、电子书都能转",
+   "url": "https://www.aconvert.com",
+   "price": "免费",
+   "kw": [
+    "aconvert",
+    "格式转换",
+    "转换",
+    "转格式",
+    "文档转换",
+    "音频转换"
+   ]
+  },
+  {
+   "name": "CloudConvert",
+   "cat": "在线工具",
+   "desc": "格式转换，视频音频文档图片都能转",
+   "url": "https://cloudconvert.com",
+   "kw": [
+    "格式转换",
+    "转换",
+    "convert",
+    "视频转"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "CyberChef",
+   "cat": "在线工具",
+   "desc": "编码解码、加密、格式转换的瑞士军刀，全在浏览器本地跑",
+   "url": "https://gchq.github.io/CyberChef/",
+   "price": "开源免费",
+   "kw": [
+    "cyberchef",
+    "编码",
+    "解码",
+    "base64",
+    "加密",
+    "转换",
+    "哈希"
+   ]
+  },
+  {
+   "name": "Diffchecker",
+   "cat": "在线工具",
+   "desc": "对比两段文字或两个文件的差异，改稿校对省眼睛",
+   "url": "https://www.diffchecker.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "diffchecker",
+    "对比",
+    "差异",
+    "文本对比",
+    "文件对比",
+    "diff"
+   ]
+  },
+  {
+   "name": "HandBrake",
+   "cat": "在线工具",
+   "desc": "开源视频转码工具，压体积、换格式、批量转都行",
+   "url": "https://handbrake.fr",
+   "price": "开源免费",
+   "kw": [
+    "handbrake",
+    "视频转换",
+    "转码",
+    "压缩视频",
+    "格式工厂",
+    "mp4",
+    "压片"
+   ]
+  },
+  {
+   "name": "JSON 格式化",
+   "cat": "在线工具",
+   "desc": "JSON 校验与美化，调试接口常用",
+   "url": "https://jsonlint.com",
+   "kw": [
+    "json",
+    "格式化",
+    "校验"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "PDF24",
+   "cat": "在线工具",
+   "desc": "完全免费的 PDF 工具箱，离线版也能装",
+   "url": "https://www.pdf24.org",
+   "price": "免费",
+   "kw": [
+    "pdf24",
+    "pdf",
+    "pdf 工具",
+    "免费 pdf",
+    "合并",
+    "转换"
+   ]
+  },
+  {
+   "name": "Regex101",
+   "cat": "在线工具",
+   "desc": "正则表达式在线调试，每段匹配都有解释",
+   "url": "https://regex101.com",
+   "price": "免费",
+   "kw": [
+    "regex101",
+    "正则",
+    "正则表达式",
+    "regex",
+    "匹配",
+    "调试"
+   ]
+  },
+  {
+   "name": "Smallpdf",
+   "cat": "在线工具",
+   "desc": "PDF 工具合集，界面清爽，偶尔用一次不用装软件",
+   "url": "https://smallpdf.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "smallpdf",
+    "pdf",
+    "pdf 转换",
+    "合并",
+    "压缩 pdf"
+   ]
+  },
+  {
+   "name": "Speedtest",
+   "cat": "在线工具",
+   "desc": "测网速，下载上传和延迟一次测完",
+   "url": "https://www.speedtest.net",
+   "price": "免费",
+   "kw": [
+    "speedtest",
+    "测网速",
+    "网速",
+    "测速",
+    "带宽",
+    "ping"
+   ]
+  },
+  {
+   "name": "Squoosh",
+   "cat": "在线工具",
+   "desc": "谷歌出的图片压缩，能实时看压缩前后对比",
+   "url": "https://squoosh.app",
+   "price": "免费",
+   "kw": [
+    "squoosh",
+    "图片压缩",
+    "压缩图片",
+    "压图",
+    "谷歌",
+    "webp"
+   ]
+  },
+  {
+   "name": "TinyPNG",
+   "cat": "在线工具",
+   "desc": "图片无损压缩，网页图片瘦身必备",
+   "url": "https://tinypng.com",
+   "kw": [
+    "压缩",
+    "图片",
+    "tinypng",
+    "瘦身"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "Umi-OCR",
+   "cat": "在线工具",
+   "desc": "开源截图取字工具，批量识别图片里的文字，离线可用",
+   "url": "https://github.com/hiroi-sora/Umi-OCR",
+   "price": "开源免费",
+   "kw": [
+    "umi-ocr",
+    "ocr",
+    "文字识别",
+    "取字",
+    "截图识字",
+    "识别图片文字",
+    "离线"
+   ]
+  },
+  {
+   "name": "WeTransfer",
+   "cat": "在线工具",
+   "desc": "不注册也能传大文件，给个链接让对方下载",
+   "url": "https://wetransfer.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "wetransfer",
+    "传文件",
+    "大文件",
+    "文件传输",
+    "分享链接"
+   ]
+  },
+  {
+   "name": "Zamzar",
+   "cat": "在线工具",
+   "desc": "老牌在线转换，支持一千多种格式，不装软件",
+   "url": "https://www.zamzar.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "zamzar",
+    "格式转换",
+    "转换",
+    "在线转换",
+    "文件格式"
+   ]
+  },
+  {
+   "name": "iLovePDF",
+   "cat": "在线工具",
+   "desc": "PDF 合并、拆分、压缩、转 Word，全在网页上做",
+   "url": "https://www.ilovepdf.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "ilovepdf",
+    "pdf",
+    "合并 pdf",
+    "pdf 转 word",
+    "压缩 pdf",
+    "拆分"
+   ]
+  },
+  {
+   "name": "草料二维码",
+   "cat": "在线工具",
+   "desc": "生成二维码，网址、文字、名片都能转，免费够用",
+   "url": "https://cli.im",
+   "price": "免费 + 付费",
+   "kw": [
+    "草料",
+    "二维码",
+    "生成二维码",
+    "扫码",
+    "qrcode"
+   ]
+  },
+  {
+   "name": "1Panel",
+   "cat": "开发工具",
+   "desc": "开源的服务器面板，装数据库和网站比命令行直观",
+   "url": "https://1panel.cn",
+   "price": "开源免费",
+   "kw": [
+    "1panel",
+    "面板",
+    "服务器",
+    "运维",
+    "docker"
+   ]
+  },
+  {
+   "name": "Apifox",
+   "cat": "开发工具",
+   "desc": "接口文档、调试、Mock 一站搞定，国内团队常用",
+   "url": "https://apifox.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "apifox",
+    "接口",
+    "api",
+    "postman",
+    "调试",
+    "mock"
+   ]
+  },
+  {
+   "name": "Bitwarden",
+   "cat": "开发工具",
+   "desc": "开源密码管理器，跨设备同步，免费够用",
+   "url": "https://bitwarden.com",
+   "price": "免费",
+   "kw": [
+    "密码",
+    "密码管理",
+    "密码本",
+    "账号管理"
+   ]
+  },
+  {
+   "name": "Cloudflare",
+   "cat": "开发工具",
+   "desc": "域名解析、CDN、防攻击，免费版就够个人站用",
+   "url": "https://www.cloudflare.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "cloudflare",
+    "cdn",
+    "域名",
+    "dns",
+    "加速",
+    "防攻击"
+   ]
+  },
+  {
+   "name": "Cursor",
+   "cat": "开发工具",
+   "desc": "内置 AI 的代码编辑器，能直接改整个项目",
+   "url": "https://cursor.com",
+   "kw": [
+    "cursor",
+    "ai编程",
+    "写代码"
+   ],
+   "price": "免费额度 + $20/月"
+  },
+  {
+   "name": "DBeaver",
+   "cat": "开发工具",
+   "desc": "免费数据库客户端，MySQL、PG、SQLite 一个软件全连",
+   "url": "https://dbeaver.io",
+   "price": "开源免费",
+   "kw": [
+    "dbeaver",
+    "数据库",
+    "客户端",
+    "sql",
+    "mysql",
+    "连接"
+   ]
+  },
+  {
+   "name": "Docker Hub",
+   "cat": "开发工具",
+   "desc": "容器镜像仓库，部署服务的基础设施",
+   "url": "https://hub.docker.com",
+   "kw": [
+    "docker",
+    "容器",
+    "镜像",
+    "部署"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "GitHub",
+   "cat": "开发工具",
+   "desc": "全球最大代码托管平台，开源项目都在这里",
+   "url": "https://github.com",
+   "kw": [
+    "github",
+    "代码",
+    "开源",
+    "仓库"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "GitLab",
+   "cat": "开发工具",
+   "desc": "代码托管加 CI/CD 一体，可以自己部署私有仓库",
+   "url": "https://gitlab.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "gitlab",
+    "git",
+    "代码托管",
+    "私有仓库",
+    "ci"
+   ]
+  },
+  {
+   "name": "Gitee",
+   "cat": "开发工具",
+   "desc": "国内代码托管，访问快，开源项目不少",
+   "url": "https://gitee.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "gitee",
+    "码云",
+    "git",
+    "代码托管",
+    "国内"
+   ]
+  },
+  {
+   "name": "JetBrains",
+   "cat": "开发工具",
+   "desc": "IDEA、PyCharm、WebStorm 的厂商，写代码最顺手的 IDE",
+   "url": "https://www.jetbrains.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "jetbrains",
+    "idea",
+    "pycharm",
+    "webstorm",
+    "ide",
+    "编辑器",
+    "写代码"
+   ]
+  },
+  {
+   "name": "MongoDB",
+   "cat": "开发工具",
+   "desc": "文档型数据库，存结构不固定的数据比关系库省事",
+   "url": "https://www.mongodb.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "mongodb",
+    "mongo",
+    "数据库",
+    "nosql",
+    "文档数据库"
+   ]
+  },
+  {
+   "name": "Navicat",
+   "cat": "开发工具",
+   "desc": "老牌数据库客户端，图形界面管 MySQL 很顺手，收费",
+   "url": "https://www.navicat.com",
+   "price": "付费",
+   "kw": [
+    "navicat",
+    "数据库",
+    "客户端",
+    "mysql",
+    "图形界面",
+    "sql"
+   ]
+  },
+  {
+   "name": "Neovim",
+   "cat": "开发工具",
+   "desc": "终端里的编辑器，配置好了效率极高，折腾成本也高",
+   "url": "https://neovim.io",
+   "price": "开源免费",
+   "kw": [
+    "neovim",
+    "vim",
+    "终端",
+    "编辑器",
+    "linux"
+   ]
+  },
+  {
+   "name": "PostgreSQL",
+   "cat": "开发工具",
+   "desc": "开源关系型数据库，稳定可靠",
+   "url": "https://www.postgresql.org",
+   "kw": [
+    "postgres",
+    "pg",
+    "数据库"
+   ],
+   "price": "免费开源"
+  },
+  {
+   "name": "Postman",
+   "cat": "开发工具",
+   "desc": "接口调试工具，测 HTTP 请求必备",
+   "url": "https://www.postman.com",
+   "kw": [
+    "postman",
+    "接口",
+    "api",
+    "调试"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "Redis",
+   "cat": "开发工具",
+   "desc": "内存数据库，做缓存和队列的事实标准",
+   "url": "https://redis.io",
+   "price": "开源免费",
+   "kw": [
+    "redis",
+    "缓存",
+    "内存数据库",
+    "队列",
+    "kv"
+   ]
+  },
+  {
+   "name": "SQLite",
+   "cat": "开发工具",
+   "desc": "单文件数据库，不用装服务，小项目首选",
+   "url": "https://www.sqlite.org",
+   "price": "开源免费",
+   "kw": [
+    "sqlite",
+    "数据库",
+    "单文件",
+    "嵌入式",
+    "轻量"
+   ]
+  },
+  {
+   "name": "Sublime Text",
+   "cat": "开发工具",
+   "desc": "启动极快的轻量编辑器，打开大文件不卡",
+   "url": "https://www.sublimetext.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "sublime",
+    "编辑器",
+    "轻量",
+    "大文件"
+   ]
+  },
+  {
+   "name": "Termius",
+   "cat": "开发工具",
+   "desc": "跨平台 SSH 客户端，服务器多了用它管比较清楚",
+   "url": "https://termius.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "termius",
+    "ssh",
+    "终端",
+    "连接服务器",
+    "远程",
+    "运维"
+   ]
+  },
+  {
+   "name": "VS Code",
+   "cat": "开发工具",
+   "desc": "微软出品的代码编辑器，插件生态最大",
+   "url": "https://code.visualstudio.com",
+   "kw": [
+    "vscode",
+    "编辑器",
+    "ide"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "Vercel",
+   "cat": "开发工具",
+   "desc": "前端一键部署，推代码就上线，个人项目免费，需自备网络",
+   "url": "https://vercel.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "vercel",
+    "部署",
+    "上线",
+    "前端",
+    "托管",
+    "免费建站"
+   ]
+  },
+  {
+   "name": "宝塔面板",
+   "cat": "开发工具",
+   "desc": "国内最常见的服务器面板，装环境点几下就行",
+   "url": "https://www.bt.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "宝塔",
+    "bt",
+    "面板",
+    "服务器",
+    "建站",
+    "lnmp"
+   ]
+  },
+  {
+   "name": "腾讯云",
+   "cat": "开发工具",
+   "desc": "国内云厂商，轻量服务器便宜，新用户优惠多",
+   "url": "https://cloud.tencent.com",
+   "price": "付费",
+   "kw": [
+    "腾讯云",
+    "tencent cloud",
+    "云服务器",
+    "轻量",
+    "服务器",
+    "vps"
+   ]
+  },
+  {
+   "name": "阿里云",
+   "cat": "开发工具",
+   "desc": "国内云服务器和对象存储，买服务器第一选择",
+   "url": "https://www.aliyun.com",
+   "price": "付费",
+   "kw": [
+    "阿里云",
+    "aliyun",
+    "云服务器",
+    "ecs",
+    "服务器",
+    "vps",
+    "云主机"
+   ]
+  },
+  {
+   "name": "1Password",
+   "cat": "效率办公",
+   "desc": "密码管理器，每个站独立强密码，只需要记一个主密码",
+   "url": "https://1password.com",
+   "price": "付费",
+   "kw": [
+    "1password",
+    "密码",
+    "密码管理",
+    "账号",
+    "安全",
+    "vault"
+   ]
+  },
+  {
+   "name": "7-Zip",
+   "cat": "效率办公",
+   "desc": "开源压缩解压，rar/7z/zip 全支持，无广告",
+   "url": "https://www.7-zip.org",
+   "price": "免费",
+   "kw": [
+    "解压",
+    "压缩",
+    "rar",
+    "zip",
+    "解压缩"
+   ]
+  },
+  {
+   "name": "Bandizip",
+   "cat": "效率办公",
+   "desc": "解压软件，压缩包预览好用，支持格式全",
+   "url": "https://www.bandisoft.com/bandizip/",
+   "price": "免费 + 付费",
+   "kw": [
+    "bandizip",
+    "解压",
+    "压缩",
+    "压缩包",
+    "rar",
+    "zip",
+    "7z"
+   ]
+  },
+  {
+   "name": "DeepL",
+   "cat": "效率办公",
+   "desc": "翻译质量最好的一档，中英互译比机器翻译自然",
+   "url": "https://www.deepl.com",
+   "price": "免费额度",
+   "kw": [
+    "翻译",
+    "中英翻译",
+    "文档翻译",
+    "deepl"
+   ]
+  },
+  {
+   "name": "Everything",
+   "cat": "效率办公",
+   "desc": "Windows 本地文件秒搜，比系统搜索快几个数量级",
+   "url": "https://www.voidtools.com",
+   "price": "免费",
+   "kw": [
+    "搜索文件",
+    "找文件",
+    "文件搜索",
+    "本地搜索"
+   ]
+  },
+  {
+   "name": "LocalSend",
+   "cat": "效率办公",
+   "desc": "局域网互传文件，手机和电脑之间不用数据线",
+   "url": "https://localsend.org",
+   "price": "免费",
+   "kw": [
+    "传文件",
+    "文件传输",
+    "局域网",
+    "手机传电脑"
+   ]
+  },
+  {
+   "name": "Logseq",
+   "cat": "效率办公",
+   "desc": "开源双向链接笔记，数据存在本地，适合长期积累",
+   "url": "https://logseq.com",
+   "price": "开源免费",
+   "kw": [
+    "logseq",
+    "笔记",
+    "双向链接",
+    "本地",
+    "知识库",
+    "开源"
+   ]
+  },
+  {
+   "name": "Notion",
+   "cat": "效率办公",
+   "desc": "文档、笔记、数据库一体的协作工具",
+   "url": "https://www.notion.so",
+   "kw": [
+    "notion",
+    "笔记",
+    "文档",
+    "协作"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "OBS Studio",
+   "cat": "效率办公",
+   "desc": "开源录屏和直播推流，教程视频都用它",
+   "url": "https://obsproject.com",
+   "price": "免费",
+   "kw": [
+    "录屏",
+    "录像",
+    "直播",
+    "推流",
+    "录制"
+   ]
+  },
+  {
+   "name": "Obsidian",
+   "cat": "效率办公",
+   "desc": "本地 Markdown 笔记，数据在自己电脑上",
+   "url": "https://obsidian.md",
+   "kw": [
+    "obsidian",
+    "笔记",
+    "markdown",
+    "本地"
+   ],
+   "price": "个人免费"
+  },
+  {
+   "name": "PixPin",
+   "cat": "效率办公",
+   "desc": "国产截图工具，截图后能直接贴图、OCR 取字",
+   "url": "https://pixpin.cn",
+   "price": "免费",
+   "kw": [
+    "pixpin",
+    "截图",
+    "贴图",
+    "ocr",
+    "文字识别",
+    "长截图"
+   ]
+  },
+  {
+   "name": "PotPlayer",
+   "cat": "效率办公",
+   "desc": "Windows 上画质和解码都能打的播放器，可以调字幕",
+   "url": "https://potplayer.tv/",
+   "price": "免费",
+   "kw": [
+    "potplayer",
+    "播放器",
+    "视频播放",
+    "看视频",
+    "字幕",
+    "本地播放"
+   ]
+  },
+  {
+   "name": "ShareX",
+   "cat": "效率办公",
+   "desc": "截图、录屏、上传一条龙，开源免费无广告",
+   "url": "https://getsharex.com",
+   "price": "免费",
+   "kw": [
+    "截图",
+    "录屏",
+    "录制",
+    "屏幕录制",
+    "gif"
+   ]
+  },
+  {
+   "name": "Snipaste",
+   "cat": "效率办公",
+   "desc": "截图贴图工具，Windows 上最顺手的截图软件",
+   "url": "https://zh.snipaste.com",
+   "price": "免费",
+   "kw": [
+    "截图",
+    "截屏",
+    "贴图",
+    "屏幕截图",
+    "截图工具"
+   ]
+  },
+  {
+   "name": "ToDesk",
+   "cat": "效率办公",
+   "desc": "远程控制电脑，免费版够用，跨设备传文件方便",
+   "url": "https://www.todesk.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "todesk",
+    "远程控制",
+    "远程桌面",
+    "远控",
+    "向日葵",
+    "传文件"
+   ]
+  },
+  {
+   "name": "Todoist",
+   "cat": "效率办公",
+   "desc": "老牌待办工具，自然语言输入任务很快",
+   "url": "https://todoist.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "todoist",
+    "待办",
+    "todo",
+    "任务",
+    "清单",
+    "gtd"
+   ]
+  },
+  {
+   "name": "Typora",
+   "cat": "效率办公",
+   "desc": "所见即所得的 Markdown 编辑器，写文档不折腾",
+   "url": "https://typora.io",
+   "price": "付费",
+   "kw": [
+    "typora",
+    "markdown",
+    "编辑器",
+    "写文档",
+    "md"
+   ]
+  },
+  {
+   "name": "VLC",
+   "cat": "效率办公",
+   "desc": "什么格式都能放的播放器，开源无广告",
+   "url": "https://www.videolan.org",
+   "price": "开源免费",
+   "kw": [
+    "vlc",
+    "播放器",
+    "视频播放",
+    "看视频",
+    "万能播放器",
+    "开源"
+   ]
+  },
+  {
+   "name": "WPS",
+   "cat": "效率办公",
+   "desc": "国产办公套件，Word、Excel、PPT 都能开，体积小",
+   "url": "https://www.wps.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "wps",
+    "金山",
+    "office",
+    "word",
+    "excel",
+    "ppt",
+    "文档",
+    "表格",
+    "做表格"
+   ]
+  },
+  {
+   "name": "Xmind",
+   "cat": "效率办公",
+   "desc": "思维导图工具，整理思路和做方案常用",
+   "url": "https://xmind.cn",
+   "price": "免费试用",
+   "kw": [
+    "思维导图",
+    "脑图",
+    "导图",
+    "大纲"
+   ]
+  },
+  {
+   "name": "Zoom",
+   "cat": "效率办公",
+   "desc": "国际通用的视频会议，跨国沟通和录播都稳",
+   "url": "https://zoom.us",
+   "price": "免费 + 付费",
+   "kw": [
+    "zoom",
+    "会议",
+    "视频会议",
+    "开会",
+    "录制",
+    "跨国"
+   ]
+  },
+  {
+   "name": "flomo",
+   "cat": "效率办公",
+   "desc": "碎片想法随手记，微信里就能发，不打断思路",
+   "url": "https://flomoapp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "flomo",
+    "浮墨",
+    "笔记",
+    "碎片",
+    "灵感",
+    "记录"
+   ]
+  },
+  {
+   "name": "印象笔记",
+   "cat": "效率办公",
+   "desc": "老牌笔记工具，网页剪藏和跨端同步做得好",
+   "url": "https://www.yinxiang.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "印象笔记",
+    "evernote",
+    "笔记",
+    "剪藏",
+    "记录",
+    "收藏"
+   ]
+  },
+  {
+   "name": "幕布",
+   "cat": "效率办公",
+   "desc": "大纲笔记，写完一键转思维导图，理思路好用",
+   "url": "https://mubu.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "幕布",
+    "大纲",
+    "笔记",
+    "思维导图",
+    "脑图",
+    "整理思路"
+   ]
+  },
+  {
+   "name": "滴答清单",
+   "cat": "效率办公",
+   "desc": "待办和日程管理，多端同步，习惯打卡也能做",
+   "url": "https://dida365.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "滴答清单",
+    "待办",
+    "todo",
+    "日程",
+    "提醒",
+    "任务管理",
+    "清单"
+   ]
+  },
+  {
+   "name": "火绒安全",
+   "cat": "效率办公",
+   "desc": "国产杀毒，不弹广告不捆绑，装完基本忘了它存在",
+   "url": "https://www.huorong.cn",
+   "price": "免费",
+   "kw": [
+    "火绒",
+    "杀毒",
+    "安全软件",
+    "防病毒",
+    "弹窗拦截"
+   ]
+  },
+  {
+   "name": "百度网盘",
+   "cat": "效率办公",
+   "desc": "国内用得最多的网盘，资源多，但非会员限速明显",
+   "url": "https://pan.baidu.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "百度网盘",
+    "网盘",
+    "云盘",
+    "存文件",
+    "分享文件",
+    "度盘"
+   ]
+  },
+  {
+   "name": "石墨文档",
+   "cat": "效率办公",
+   "desc": "在线文档和表格，协作改稿不冲突，界面干净",
+   "url": "https://shimo.im",
+   "price": "免费 + 付费",
+   "kw": [
+    "石墨",
+    "石墨文档",
+    "在线文档",
+    "协作文档",
+    "表格",
+    "文档"
+   ]
+  },
+  {
+   "name": "腾讯会议",
+   "cat": "效率办公",
+   "desc": "国内最常用的视频会议，免费版够小团队开一小时",
+   "url": "https://meeting.tencent.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "腾讯会议",
+    "会议",
+    "视频会议",
+    "开会",
+    "线上会议",
+    "共享屏幕"
+   ]
+  },
+  {
+   "name": "腾讯文档",
+   "cat": "效率办公",
+   "desc": "在线表格和文档，多人同时编辑，微信直接分享",
+   "url": "https://docs.qq.com",
+   "price": "免费",
+   "kw": [
+    "腾讯文档",
+    "在线文档",
+    "在线表格",
+    "协作",
+    "共享表格",
+    "收集表"
+   ]
+  },
+  {
+   "name": "语雀",
+   "cat": "效率办公",
+   "desc": "阿里出品的知识库，写文档很顺手",
+   "url": "https://www.yuque.com",
+   "kw": [
+    "语雀",
+    "知识库",
+    "文档"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "超级简历",
+   "cat": "效率办公",
+   "desc": "在线写简历，模板过 HR 初筛，实时给修改建议",
+   "url": "https://www.wondercv.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "超级简历",
+    "简历",
+    "写简历",
+    "求职",
+    "模板",
+    "找工作",
+    "resume"
+   ]
+  },
+  {
+   "name": "钉钉",
+   "cat": "效率办公",
+   "desc": "企业沟通和审批，打卡请假报销一条龙",
+   "url": "https://www.dingtalk.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "钉钉",
+    "dingtalk",
+    "办公",
+    "审批",
+    "打卡",
+    "企业"
+   ]
+  },
+  {
+   "name": "阿里云盘",
+   "cat": "效率办公",
+   "desc": "不限速的网盘，传大文件比百度网盘舒服",
+   "url": "https://www.alipan.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "阿里云盘",
+    "网盘",
+    "云盘",
+    "存文件",
+    "不限速",
+    "分享文件"
+   ]
+  },
+  {
+   "name": "飞书",
+   "cat": "效率办公",
+   "desc": "字节出品的企业协作套件，文档+表格+IM",
+   "url": "https://www.feishu.cn",
+   "kw": [
+    "飞书",
+    "协作",
+    "文档",
+    "办公"
+   ],
+   "price": "免费版"
+  },
+  {
+   "name": "Apache Superset",
+   "cat": "数据分析",
+   "desc": "开源数据可视化平台，适合大数据量",
+   "url": "https://superset.apache.org",
+   "kw": [
+    "superset",
+    "bi",
+    "可视化",
+    "报表"
+   ],
+   "price": "免费开源"
+  },
+  {
+   "name": "ClickHouse",
+   "cat": "数据分析",
+   "desc": "列式数据库，查几亿行数据秒回，做日志分析很快",
+   "url": "https://clickhouse.com",
+   "price": "开源免费",
+   "kw": [
+    "clickhouse",
+    "列式",
+    "大数据",
+    "olap",
+    "数据库",
+    "日志分析"
+   ]
+  },
+  {
+   "name": "DuckDB",
+   "cat": "数据分析",
+   "desc": "嵌入式分析数据库，本地跑 SQL 分析 CSV 极快",
+   "url": "https://duckdb.org",
+   "kw": [
+    "duckdb",
+    "sql",
+    "csv",
+    "分析"
+   ],
+   "price": "免费开源"
+  },
+  {
+   "name": "FineBI",
+   "cat": "数据分析",
+   "desc": "帆软的国产 BI，中文界面，适合企业内部报表",
+   "url": "https://www.finebi.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "finebi",
+    "帆软",
+    "bi",
+    "报表",
+    "看板",
+    "国产"
+   ]
+  },
+  {
+   "name": "Grafana",
+   "cat": "数据分析",
+   "desc": "监控大盘，做实时数据展示",
+   "url": "https://grafana.com",
+   "kw": [
+    "grafana",
+    "监控",
+    "大盘",
+    "指标"
+   ],
+   "price": "免费开源"
+  },
+  {
+   "name": "Jupyter",
+   "cat": "数据分析",
+   "desc": "写 Python 做分析的标准环境，代码和图表能在同一页",
+   "url": "https://jupyter.org",
+   "price": "开源免费",
+   "kw": [
+    "jupyter",
+    "notebook",
+    "python",
+    "数据分析",
+    "跑代码",
+    "pandas"
+   ]
+  },
+  {
+   "name": "Metabase",
+   "cat": "数据分析",
+   "desc": "开源 BI 工具，连上数据库就能做图表看板",
+   "url": "https://www.metabase.com",
+   "kw": [
+    "metabase",
+    "bi",
+    "报表",
+    "看板",
+    "数据分析"
+   ],
+   "price": "开源版免费"
+  },
+  {
+   "name": "Power BI",
+   "cat": "数据分析",
+   "desc": "微软的 BI 工具，跟 Excel 打通，做报表看板快",
+   "url": "https://powerbi.microsoft.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "power bi",
+    "bi",
+    "报表",
+    "看板",
+    "微软",
+    "数据可视化",
+    "excel"
+   ]
+  },
+  {
+   "name": "Streamlit",
+   "cat": "数据分析",
+   "desc": "几十行代码把分析脚本变成网页，做内部工具很快",
+   "url": "https://streamlit.io",
+   "price": "开源免费",
+   "kw": [
+    "streamlit",
+    "python",
+    "网页",
+    "工具",
+    "数据应用",
+    "看板"
+   ]
+  },
+  {
+   "name": "Tableau",
+   "cat": "数据分析",
+   "desc": "拖拽式数据分析，图表好看，企业里用得广",
+   "url": "https://www.tableau.com",
+   "price": "付费",
+   "kw": [
+    "tableau",
+    "bi",
+    "报表",
+    "可视化",
+    "数据看板"
+   ]
+  },
+  {
+   "name": "Blender",
+   "cat": "设计工具",
+   "desc": "开源三维软件，建模、渲染、动画全都能做",
+   "url": "https://www.blender.org",
+   "price": "开源免费",
+   "kw": [
+    "blender",
+    "3d",
+    "建模",
+    "三维",
+    "渲染",
+    "动画",
+    "开源"
+   ]
+  },
+  {
+   "name": "Canva",
+   "cat": "设计工具",
+   "desc": "模板化设计，做海报和封面不用会设计",
+   "url": "https://www.canva.cn",
+   "kw": [
+    "canva",
+    "海报",
+    "模板",
+    "封面"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "DaVinci Resolve",
+   "cat": "设计工具",
+   "desc": "专业剪辑和调色软件，免费版功能就够强",
+   "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+   "price": "免费 + 付费",
+   "kw": [
+    "达芬奇",
+    "davinci",
+    "剪辑",
+    "剪视频",
+    "调色",
+    "视频剪辑",
+    "pr 替代"
+   ]
+  },
+  {
+   "name": "Excalidraw",
+   "cat": "设计工具",
+   "desc": "手绘风白板，画流程图和架构图很快",
+   "url": "https://excalidraw.com",
+   "kw": [
+    "excalidraw",
+    "画图",
+    "流程图",
+    "架构图",
+    "白板"
+   ],
+   "price": "免费"
+  },
+  {
+   "name": "Figma",
+   "cat": "设计工具",
+   "desc": "在线 UI 设计协作，设计稿能直接给前端",
+   "url": "https://www.figma.com",
+   "kw": [
+    "figma",
+    "ui",
+    "设计",
+    "原型"
+   ],
+   "price": "免费额度"
+  },
+  {
+   "name": "GIMP",
+   "cat": "设计工具",
+   "desc": "开源的图像处理软件，PS 的免费替代",
+   "url": "https://www.gimp.org",
+   "price": "开源免费",
+   "kw": [
+    "gimp",
+    "修图",
+    "图像处理",
+    "ps 替代",
+    "开源",
+    "免费 ps"
+   ]
+  },
+  {
+   "name": "Inkscape",
+   "cat": "设计工具",
+   "desc": "开源矢量图工具，做 logo 和图标不用买 AI",
+   "url": "https://inkscape.org",
+   "price": "开源免费",
+   "kw": [
+    "inkscape",
+    "矢量",
+    "svg",
+    "logo",
+    "图标",
+    "illustrator"
+   ]
+  },
+  {
+   "name": "Krita",
+   "cat": "设计工具",
+   "desc": "开源数字绘画软件，画插画和漫画顺手",
+   "url": "https://krita.org",
+   "price": "开源免费",
+   "kw": [
+    "krita",
+    "绘画",
+    "插画",
+    "画图",
+    "手绘",
+    "数位板"
+   ]
+  },
+  {
+   "name": "Photopea",
+   "cat": "设计工具",
+   "desc": "网页版 PS，不用装软件，能直接开 PSD 文件",
+   "url": "https://www.photopea.com",
+   "price": "免费",
+   "kw": [
+    "photopea",
+    "网页版 ps",
+    "在线 ps",
+    "ps",
+    "修图",
+    "改图",
+    "psd"
+   ]
+  },
+  {
+   "name": "Pixso",
+   "cat": "设计工具",
+   "desc": "国产在线原型和 UI 设计，团队协作方便，有免费版",
+   "url": "https://pixso.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "pixso",
+    "ui",
+    "原型",
+    "设计稿",
+    "figma 替代",
+    "国产",
+    "协作"
+   ]
+  },
+  {
+   "name": "Remove.bg",
+   "cat": "设计工具",
+   "desc": "一键抠图去背景，人物和商品都切得比较干净",
+   "url": "https://www.remove.bg",
+   "price": "免费 + 付费",
+   "kw": [
+    "remove bg",
+    "抠图",
+    "去背景",
+    "换背景",
+    "证件照",
+    "透明背景"
+   ]
+  },
+  {
+   "name": "draw.io",
+   "cat": "设计工具",
+   "desc": "免费在线画流程图、架构图，不用登录",
+   "url": "https://app.diagrams.net",
+   "price": "免费",
+   "kw": [
+    "流程图",
+    "架构图",
+    "画图",
+    "绘图",
+    "uml"
+   ]
+  },
+  {
+   "name": "剪映专业版",
+   "cat": "设计工具",
+   "desc": "免费视频剪辑，自动字幕、配音、转场都有",
+   "url": "https://www.capcut.cn",
+   "price": "免费",
+   "kw": [
+    "剪辑",
+    "视频剪辑",
+    "字幕",
+    "视频",
+    "剪视频"
+   ]
+  },
+  {
+   "name": "即时设计",
+   "cat": "设计工具",
+   "desc": "国产在线 UI 设计工具，Figma 的国内替代",
+   "url": "https://js.design",
+   "price": "免费 + 付费",
+   "kw": [
+    "即时设计",
+    "ui",
+    "原型",
+    "figma 替代",
+    "设计稿",
+    "国产"
+   ]
+  },
+  {
+   "name": "稿定设计",
+   "cat": "设计工具",
+   "desc": "在线做海报、封面、电商图，套模板改字就行",
+   "url": "https://www.gaoding.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "稿定",
+    "海报",
+    "封面",
+    "电商图",
+    "模板",
+    "做图",
+    "设计"
+   ]
+  },
+  {
+   "name": "Suno",
+   "cat": "AI 视频音频",
+   "desc": "输入描述生成带人声和伴奏的歌曲，需自备网络",
+   "url": "https://suno.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "suno",
+    "写歌",
+    "作曲",
+    "生成音乐",
+    "苏诺",
+    "ai音乐"
+   ]
+  },
+  {
+   "name": "Udio",
+   "cat": "AI 视频音频",
+   "desc": "按文字描述生成音乐并续写片段，需自备网络",
+   "url": "https://udio.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "udio",
+    "写歌",
+    "做音乐",
+    "音乐生成",
+    "作曲"
+   ]
+  },
+  {
+   "name": "ElevenLabs",
+   "cat": "AI 视频音频",
+   "desc": "把文字转成自然语音并制作配音",
+   "url": "https://elevenlabs.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "elevenlabs",
+    "配音",
+    "文字转语音",
+    "十一实验室",
+    "tts",
+    "有声书"
+   ]
+  },
+  {
+   "name": "Murf",
+   "cat": "AI 视频音频",
+   "desc": "为演示和视频生成多语言旁白",
+   "url": "https://murf.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "murf",
+    "配音",
+    "念稿",
+    "tts",
+    "旁白",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "LOVO",
+   "cat": "AI 视频音频",
+   "desc": "用多种音色为视频生成旁白，需自备网络",
+   "url": "https://lovo.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "lovo",
+    "配音",
+    "念文案",
+    "genny",
+    "旁白",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "WellSaid",
+   "cat": "AI 视频音频",
+   "desc": "为培训课程制作英语合成配音",
+   "url": "https://wellsaidlabs.com",
+   "price": "付费",
+   "kw": [
+    "wellsaid",
+    "英语配音",
+    "念稿",
+    "wellsaid labs",
+    "tts",
+    "课程旁白",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "Synthesia",
+   "cat": "AI 视频音频",
+   "desc": "输入文稿制作数字人口播视频",
+   "url": "https://synthesia.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "synthesia",
+    "数字人",
+    "做口播",
+    "虚拟主播",
+    "视频生成"
+   ]
+  },
+  {
+   "name": "HeyGen",
+   "cat": "AI 视频音频",
+   "desc": "用数字人和多语配音制作讲解视频",
+   "url": "https://heygen.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "heygen",
+    "数字人",
+    "做口播",
+    "虚拟人",
+    "视频翻译"
+   ]
+  },
+  {
+   "name": "D-ID",
+   "cat": "AI 视频音频",
+   "desc": "让照片按输入文稿开口说话",
+   "url": "https://d-id.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "d-id",
+    "照片说话",
+    "做口播",
+    "did",
+    "数字人",
+    "人像动画"
+   ]
+  },
+  {
+   "name": "Colossyan",
+   "cat": "AI 视频音频",
+   "desc": "把文档转成数字人培训视频",
+   "url": "https://colossyan.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "colossyan",
+    "数字人",
+    "做培训视频",
+    "口播",
+    "文档转视频"
+   ]
+  },
+  {
+   "name": "Luma Dream Machine",
+   "cat": "AI 视频音频",
+   "desc": "用文字或图片生成短视频镜头，需自备网络",
+   "url": "https://lumalabs.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "luma dream machine",
+    "图生视频",
+    "做视频",
+    "luma",
+    "梦境机器",
+    "文生视频"
+   ]
+  },
+  {
+   "name": "Vidu",
+   "cat": "AI 视频音频",
+   "desc": "参考图片和文字生成视频片段",
+   "url": "https://vidu.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "vidu",
+    "生视频",
+    "让图片动起来",
+    "生数科技",
+    "维度",
+    "图生视频"
+   ]
+  },
+  {
+   "name": "PixVerse",
+   "cat": "AI 视频音频",
+   "desc": "把图片和提示词变成动态短片",
+   "url": "https://pixverse.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "pixverse",
+    "图生视频",
+    "做短片",
+    "爱诗科技",
+    "拍我",
+    "文生视频"
+   ]
+  },
+  {
+   "name": "Hedra",
+   "cat": "AI 视频音频",
+   "desc": "让人物图像跟随音频生成说话视频",
+   "url": "https://hedra.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "hedra",
+    "生成视频",
+    "照片说话",
+    "数字人",
+    "口播",
+    "音频驱动视频"
+   ]
+  },
+  {
+   "name": "LTX Studio",
+   "cat": "AI 视频音频",
+   "desc": "从故事脚本规划分镜并生成镜头",
+   "url": "https://ltx.studio",
+   "price": "免费 + 付费",
+   "kw": [
+    "ltx studio",
+    "做分镜",
+    "拍短片",
+    "ltx",
+    "故事板",
+    "视频生成"
+   ]
+  },
+  {
+   "name": "Descript",
+   "cat": "AI 视频音频",
+   "desc": "像改文稿一样剪辑音频和视频",
+   "url": "https://descript.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "descript",
+    "剪播客",
+    "剪视频",
+    "描述剪辑",
+    "音频剪辑",
+    "字幕"
+   ]
+  },
+  {
+   "name": "VEED",
+   "cat": "AI 视频音频",
+   "desc": "在线剪视频并自动生成字幕",
+   "url": "https://veed.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "veed",
+    "剪视频",
+    "自动字幕",
+    "视频编辑",
+    "口播字幕"
+   ]
+  },
+  {
+   "name": "Kapwing",
+   "cat": "AI 视频音频",
+   "desc": "在线协作剪片并生成翻译字幕",
+   "url": "https://kapwing.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "kapwing",
+    "剪视频",
+    "加字幕",
+    "在线剪辑",
+    "字幕翻译"
+   ]
+  },
+  {
+   "name": "Riverside",
+   "cat": "AI 视频音频",
+   "desc": "远程录制播客并转写和剪辑内容",
+   "url": "https://riverside.fm",
+   "price": "免费 + 付费",
+   "kw": [
+    "riverside",
+    "录播客",
+    "录访谈",
+    "河畔",
+    "播客剪辑",
+    "录音转写"
+   ]
+  },
+  {
+   "name": "Krisp",
+   "cat": "AI 视频音频",
+   "desc": "实时消除通话里的环境噪声",
+   "url": "https://krisp.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "krisp",
+    "降噪",
+    "开会去杂音",
+    "克里斯普",
+    "通话降噪",
+    "麦克风"
+   ]
+  },
+  {
+   "name": "Auphonic",
+   "cat": "AI 视频音频",
+   "desc": "自动平衡人声响度并减少底噪",
+   "url": "https://auphonic.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "auphonic",
+    "音频修复",
+    "去底噪",
+    "响度均衡",
+    "播客后期"
+   ]
+  },
+  {
+   "name": "Adobe Podcast",
+   "cat": "AI 视频音频",
+   "desc": "在线增强录音人声并减少杂音",
+   "url": "https://podcast.adobe.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "adobe podcast",
+    "声音修复",
+    "录音变清晰",
+    "奥多比播客",
+    "人声增强",
+    "降噪"
+   ]
+  },
+  {
+   "name": "iZotope RX",
+   "cat": "AI 视频音频",
+   "desc": "修复录音里的爆音和环境噪声",
+   "url": "https://izotope.com",
+   "price": "付费",
+   "kw": [
+    "izotope rx",
+    "声音修复",
+    "去爆音",
+    "rx",
+    "音频降噪",
+    "修录音"
+   ]
+  },
+  {
+   "name": "通义灵码",
+   "cat": "开发工具",
+   "desc": "在编辑器里补全代码并解释报错",
+   "url": "https://lingma.aliyun.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "lingma",
+    "通义灵码",
+    "灵码",
+    "阿里",
+    "写代码",
+    "代码补全"
+   ]
+  },
+  {
+   "name": "CodeGeeX",
+   "cat": "开发工具",
+   "desc": "补全代码并用中文解释程序",
+   "url": "https://codegeex.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "codegeex",
+    "智谱代码助手",
+    "代码助手",
+    "写代码",
+    "代码解释",
+    "代码补全"
+   ]
+  },
+  {
+   "name": "Trae",
+   "cat": "开发工具",
+   "desc": "通过对话修改项目并生成代码",
+   "url": "https://trae.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "trae",
+    "字节编程",
+    "ai编辑器",
+    "写代码",
+    "做网站",
+    "特雷"
+   ]
+  },
+  {
+   "name": "CodeBuddy",
+   "cat": "开发工具",
+   "desc": "腾讯编程助手协助写代码和改项目",
+   "url": "https://codebuddy.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "codebuddy",
+    "腾讯云代码助手",
+    "代码伙伴",
+    "写代码",
+    "改bug",
+    "代码补全"
+   ]
+  },
+  {
+   "name": "GitHub Copilot",
+   "cat": "开发工具",
+   "desc": "在编辑器中补全代码并回答代码问题",
+   "url": "https://github.com/features/copilot",
+   "price": "免费 + 付费",
+   "kw": [
+    "github copilot",
+    "gh copilot",
+    "代码副驾驶",
+    "写代码",
+    "代码补全",
+    "程序解释"
+   ]
+  },
+  {
+   "name": "Windsurf",
+   "cat": "开发工具",
+   "desc": "结合项目上下文生成和修改代码，需自备网络",
+   "url": "https://windsurf.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "windsurf",
+    "codeium",
+    "风帆",
+    "写代码",
+    "ai编辑器",
+    "改bug"
+   ]
+  },
+  {
+   "name": "Tabnine",
+   "cat": "开发工具",
+   "desc": "根据代码上下文提供补全建议",
+   "url": "https://tabnine.com",
+   "price": "付费",
+   "kw": [
+    "tabnine",
+    "代码助手",
+    "写代码",
+    "代码补全",
+    "补代码"
+   ]
+  },
+  {
+   "name": "Qodo",
+   "cat": "开发工具",
+   "desc": "检查代码改动并辅助生成测试",
+   "url": "https://qodo.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "qodo",
+    "codiumai",
+    "代码审查",
+    "写单测",
+    "查bug",
+    "测试生成"
+   ]
+  },
+  {
+   "name": "Continue",
+   "cat": "开发工具",
+   "desc": "在编辑器接入模型进行代码对话",
+   "url": "https://continue.dev",
+   "price": "开源免费",
+   "kw": [
+    "continue",
+    "开源编程助手",
+    "续写",
+    "写代码",
+    "代码解释",
+    "本地模型"
+   ]
+  },
+  {
+   "name": "Aider",
+   "cat": "开发工具",
+   "desc": "在终端对话修改仓库里的代码",
+   "url": "https://aider.chat",
+   "price": "开源免费",
+   "kw": [
+    "aider",
+    "终端编程",
+    "aider cli",
+    "改代码",
+    "写代码",
+    "命令行ai"
+   ]
+  },
+  {
+   "name": "Cline",
+   "cat": "开发工具",
+   "desc": "在编辑器中分步骤执行编程任务",
+   "url": "https://cline.bot",
+   "price": "开源免费",
+   "kw": [
+    "cline",
+    "编程代理",
+    "改项目",
+    "写代码",
+    "vscode插件"
+   ]
+  },
+  {
+   "name": "Roo Code",
+   "cat": "开发工具",
+   "desc": "按不同角色分析项目并修改代码",
+   "url": "https://roocode.com",
+   "price": "开源免费",
+   "kw": [
+    "roo code",
+    "roo",
+    "袋鼠代码",
+    "改代码",
+    "代码解释",
+    "编程代理"
+   ]
+  },
+  {
+   "name": "Amazon Q Developer",
+   "cat": "开发工具",
+   "desc": "补全代码并辅助排查云端应用问题",
+   "url": "https://aws.amazon.com/q/developer/",
+   "price": "免费 + 付费",
+   "kw": [
+    "amazon q developer",
+    "亚马逊q",
+    "aws q",
+    "写代码",
+    "查报错",
+    "代码补全"
+   ]
+  },
+  {
+   "name": "Augment Code",
+   "cat": "开发工具",
+   "desc": "结合代码库上下文协助修改项目",
+   "url": "https://augmentcode.com",
+   "price": "付费",
+   "kw": [
+    "augment code",
+    "augment",
+    "代码助手",
+    "读代码",
+    "解释项目",
+    "改代码"
+   ]
+  },
+  {
+   "name": "Replit",
+   "cat": "开发工具",
+   "desc": "在浏览器通过对话创建并运行应用",
+   "url": "https://replit.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "replit",
+    "在线ide",
+    "做网站",
+    "写代码",
+    "运行程序"
+   ]
+  },
+  {
+   "name": "Bolt.new",
+   "cat": "开发工具",
+   "desc": "通过对话在浏览器生成网页应用",
+   "url": "https://bolt.new",
+   "price": "免费 + 付费",
+   "kw": [
+    "bolt.new",
+    "bolt",
+    "闪电开发",
+    "做网站",
+    "生成网页",
+    "全栈应用"
+   ]
+  },
+  {
+   "name": "Lovable",
+   "cat": "开发工具",
+   "desc": "用自然语言搭建并修改网页应用",
+   "url": "https://lovable.dev",
+   "price": "免费 + 付费",
+   "kw": [
+    "lovable",
+    "应用生成",
+    "做网站",
+    "做网页",
+    "原型开发"
+   ]
+  },
+  {
+   "name": "v0",
+   "cat": "开发工具",
+   "desc": "根据需求和截图生成网页界面代码",
+   "url": "https://v0.dev",
+   "price": "免费 + 付费",
+   "kw": [
+    "v0",
+    "vercel v0",
+    "界面生成",
+    "做网页",
+    "写前端",
+    "截图转代码"
+   ]
+  },
+  {
+   "name": "Warp",
+   "cat": "开发工具",
+   "desc": "在终端用自然语言生成和解释命令",
+   "url": "https://warp.dev",
+   "price": "免费 + 付费",
+   "kw": [
+    "warp",
+    "ai终端",
+    "写命令",
+    "解释命令",
+    "终端助手"
+   ]
+  },
+  {
+   "name": "ShellGPT",
+   "cat": "开发工具",
+   "desc": "在命令行询问模型并生成脚本命令",
+   "url": "https://github.com/TheR1D/shell_gpt",
+   "price": "开源免费",
+   "kw": [
+    "shellgpt",
+    "sgpt",
+    "终端ai",
+    "写命令",
+    "写脚本",
+    "命令解释"
+   ]
+  },
+  {
+   "name": "SQLAI.ai",
+   "cat": "开发工具",
+   "desc": "按自然语言生成并优化数据库查询",
+   "url": "https://sqlai.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "sqlai.ai",
+    "sqlai",
+    "sql助手",
+    "写sql",
+    "查数据库",
+    "查询优化"
+   ]
+  },
+  {
+   "name": "SQLCoder",
+   "cat": "开发工具",
+   "desc": "将自然语言问题转换为SQL查询",
+   "url": "https://github.com/defog-ai/sqlcoder",
+   "price": "开源免费",
+   "kw": [
+    "sqlcoder",
+    "defog",
+    "sql模型",
+    "写sql",
+    "查数据",
+    "文本转sql"
+   ]
+  },
+  {
+   "name": "CodeRabbit",
+   "cat": "开发工具",
+   "desc": "自动审查合并请求并指出代码问题",
+   "url": "https://coderabbit.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "coderabbit",
+    "代码兔",
+    "pr审查",
+    "审代码",
+    "查bug",
+    "代码审查"
+   ]
+  },
+  {
+   "name": "Sourcery",
+   "cat": "开发工具",
+   "desc": "审查代码并给出重构修改建议",
+   "url": "https://sourcery.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "sourcery",
+    "代码重构助手",
+    "重构",
+    "改代码",
+    "审代码",
+    "代码审查"
+   ]
+  },
+  {
+   "name": "Grammarly",
+   "cat": "效率办公",
+   "desc": "检查英文语法并改进句子表达",
+   "url": "https://grammarly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "grammarly",
+    "语法助手",
+    "英文润色",
+    "改英语",
+    "改作文",
+    "语法检查"
+   ]
+  },
+  {
+   "name": "QuillBot",
+   "cat": "效率办公",
+   "desc": "改写英文句子并检查语法问题",
+   "url": "https://quillbot.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "quillbot",
+    "羽毛笔",
+    "改写工具",
+    "改句子",
+    "英文润色",
+    "语法检查"
+   ]
+  },
+  {
+   "name": "LanguageTool",
+   "cat": "效率办公",
+   "desc": "检查多种语言的拼写和语法错误",
+   "url": "https://languagetool.org",
+   "price": "免费 + 付费",
+   "kw": [
+    "languagetool",
+    "语言工具",
+    "语法检查器",
+    "改错字",
+    "英文润色",
+    "拼写检查"
+   ]
+  },
+  {
+   "name": "Wordtune",
+   "cat": "效率办公",
+   "desc": "改写英文句子并调整语气和长短",
+   "url": "https://wordtune.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "wordtune",
+    "改写助手",
+    "改句子",
+    "英文润色",
+    "写邮件"
+   ]
+  },
+  {
+   "name": "沉浸式翻译",
+   "cat": "效率办公",
+   "desc": "在网页和PDF中对照阅读双语译文",
+   "url": "https://immersivetranslate.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "immersive translate",
+    "沉浸式翻译",
+    "双语翻译",
+    "翻译网页",
+    "读外文",
+    "pdf翻译"
+   ]
+  },
+  {
+   "name": "秘塔写作猫",
+   "cat": "效率办公",
+   "desc": "检查中文错字并辅助修改文稿",
+   "url": "https://xiezuocat.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "xiezuocat",
+    "秘塔写作猫",
+    "写作猫",
+    "改错字",
+    "写周报",
+    "润色"
+   ]
+  },
+  {
+   "name": "Paperpal",
+   "cat": "效率办公",
+   "desc": "检查学术英语语法并润色论文表达",
+   "url": "https://paperpal.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "paperpal",
+    "论文助手",
+    "学术润色",
+    "改论文",
+    "英文论文",
+    "语法检查"
+   ]
+  },
+  {
+   "name": "Writefull",
+   "cat": "效率办公",
+   "desc": "按学术语料改进英文论文表达，需自备网络",
+   "url": "https://writefull.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "writefull",
+    "论文润色",
+    "改论文",
+    "学术英语",
+    "语言校对"
+   ]
+  },
+  {
+   "name": "Trinka",
+   "cat": "效率办公",
+   "desc": "检查学术和技术写作中的语言问题",
+   "url": "https://trinka.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "trinka",
+    "学术语法助手",
+    "论文润色",
+    "改论文",
+    "英文校对",
+    "技术写作"
+   ]
+  },
+  {
+   "name": "SciSpace",
+   "cat": "效率办公",
+   "desc": "解释论文段落并辅助检索相关研究",
+   "url": "https://scispace.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "scispace",
+    "typeset",
+    "科研助手",
+    "读论文",
+    "查文献",
+    "论文解释"
+   ]
+  },
+  {
+   "name": "Elicit",
+   "cat": "效率办公",
+   "desc": "检索研究论文并提取对比证据",
+   "url": "https://elicit.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "elicit",
+    "文献助手",
+    "研究助手",
+    "查论文",
+    "做综述",
+    "文献检索"
+   ]
+  },
+  {
+   "name": "Gamma",
+   "cat": "效率办公",
+   "desc": "输入大纲生成可编辑的演示文稿",
+   "url": "https://gamma.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "gamma",
+    "伽马",
+    "ppt",
+    "做ppt",
+    "生成演示",
+    "做汇报"
+   ]
+  },
+  {
+   "name": "Beautiful.ai",
+   "cat": "效率办公",
+   "desc": "自动排版演示文稿并保持样式统一",
+   "url": "https://beautiful.ai",
+   "price": "付费",
+   "kw": [
+    "beautiful.ai",
+    "beautiful ai",
+    "智能ppt",
+    "做ppt",
+    "做汇报",
+    "幻灯片"
+   ]
+  },
+  {
+   "name": "Pitch",
+   "cat": "效率办公",
+   "desc": "用模板和AI起草团队演示文稿",
+   "url": "https://pitch.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pitch",
+    "皮奇",
+    "ppt协作",
+    "做ppt",
+    "做汇报",
+    "演示文稿"
+   ]
+  },
+  {
+   "name": "Presentations.AI",
+   "cat": "效率办公",
+   "desc": "把文字需求转换为演示文稿初稿",
+   "url": "https://presentations.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "presentations.ai",
+    "智能演示",
+    "ai幻灯片",
+    "做ppt",
+    "做课件",
+    "演示生成"
+   ]
+  },
+  {
+   "name": "Otter.ai",
+   "cat": "效率办公",
+   "desc": "转写会议对话并提取会议要点",
+   "url": "https://otter.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "otter.ai",
+    "otter",
+    "水獭",
+    "记会议",
+    "会议纪要",
+    "录音转文字"
+   ]
+  },
+  {
+   "name": "Fireflies.ai",
+   "cat": "效率办公",
+   "desc": "记录会议并生成摘要和待办事项",
+   "url": "https://fireflies.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "fireflies.ai",
+    "fireflies",
+    "萤火虫",
+    "记会议",
+    "会议纪要",
+    "录音转写"
+   ]
+  },
+  {
+   "name": "Fathom",
+   "cat": "效率办公",
+   "desc": "记录视频会议并整理重点摘要",
+   "url": "https://fathom.video",
+   "price": "免费 + 付费",
+   "kw": [
+    "fathom",
+    "会议助手",
+    "会议摘要",
+    "记会议",
+    "会议纪要",
+    "开会录音"
+   ]
+  },
+  {
+   "name": "讯飞听见",
+   "cat": "效率办公",
+   "desc": "转写录音并整理中文会议记录",
+   "url": "https://iflyrec.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "iflyrec",
+    "讯飞听见",
+    "听见",
+    "录音转文字",
+    "记会议",
+    "会议纪要"
+   ]
+  },
+  {
+   "name": "Rows",
+   "cat": "效率办公",
+   "desc": "在表格里用AI解释和整理数据",
+   "url": "https://rows.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "rows",
+    "智能表格",
+    "做表格",
+    "分析数据",
+    "表格分析"
+   ]
+  },
+  {
+   "name": "Julius AI",
+   "cat": "效率办公",
+   "desc": "上传表格后通过对话分析和画图",
+   "url": "https://julius.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "julius ai",
+    "julius",
+    "尤利乌斯",
+    "分析表格",
+    "做图表",
+    "数据分析"
+   ]
+  },
+  {
+   "name": "Teal",
+   "cat": "效率办公",
+   "desc": "按职位要求修改简历并追踪求职",
+   "url": "https://tealhq.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "teal",
+    "简历助手",
+    "改简历",
+    "找工作",
+    "求职管理"
+   ]
+  },
+  {
+   "name": "Rezi",
+   "cat": "效率办公",
+   "desc": "辅助起草简历并检查求职关键词",
+   "url": "https://rezi.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "rezi",
+    "简历助手",
+    "改简历",
+    "写简历",
+    "求职"
+   ]
+  },
+  {
+   "name": "百小应",
+   "cat": "AI 对话",
+   "desc": "百川推出的联网问答和资料阅读助手",
+   "url": "https://yi.baichuan-ai.com",
+   "price": "免费",
+   "kw": [
+    "baixiaoying",
+    "百小应",
+    "百川",
+    "问问题",
+    "查资料",
+    "联网问答"
+   ]
+  },
+  {
+   "name": "跃问",
+   "cat": "AI 对话",
+   "desc": "阶跃星辰推出的多模态问答助手",
+   "url": "https://yuewen.cn",
+   "price": "免费",
+   "kw": [
+    "yuewen",
+    "跃问",
+    "阶跃星辰",
+    "问问题",
+    "看图问答",
+    "大模型"
+   ]
+  },
+  {
+   "name": "扣子",
+   "cat": "AI 对话",
+   "desc": "通过知识库和工作流搭建对话智能体",
+   "url": "https://coze.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "coze",
+    "扣子",
+    "智能体平台",
+    "做知识库",
+    "搭ai助手",
+    "工作流"
+   ]
+  },
+  {
+   "name": "Langflow",
+   "cat": "AI 对话",
+   "desc": "用可视化节点搭建模型应用和智能体",
+   "url": "https://langflow.org",
+   "price": "开源免费",
+   "kw": [
+    "langflow",
+    "langchain",
+    "可视化ai",
+    "搭ai应用",
+    "做知识库",
+    "智能体"
+   ]
+  },
+  {
+   "name": "秘塔 AI 搜索",
+   "cat": "AI 对话",
+   "desc": "联网检索资料并整理带来源的回答",
+   "url": "https://metaso.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "metaso",
+    "秘塔",
+    "秘塔搜索",
+    "查资料",
+    "找答案",
+    "ai搜索"
+   ]
+  },
+  {
+   "name": "纳米 AI 搜索",
+   "cat": "AI 对话",
+   "desc": "用自然语言搜索并整理网络信息",
+   "url": "https://n.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "nami",
+    "纳米ai",
+    "纳米搜索",
+    "查资料",
+    "搜答案",
+    "ai搜索"
+   ]
+  },
+  {
+   "name": "You.com",
+   "cat": "AI 对话",
+   "desc": "检索网页并结合来源回答问题",
+   "url": "https://you.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "you.com",
+    "you",
+    "查资料",
+    "搜答案",
+    "ai搜索"
+   ]
+  },
+  {
+   "name": "Kagi Assistant",
+   "cat": "AI 对话",
+   "desc": "结合搜索结果回答问题并标明来源",
+   "url": "https://kagi.com",
+   "price": "付费",
+   "kw": [
+    "kagi assistant",
+    "kagi",
+    "卡吉",
+    "查资料",
+    "搜答案",
+    "联网问答"
+   ]
+  },
+  {
+   "name": "Consensus",
+   "cat": "AI 对话",
+   "desc": "从研究论文中寻找问题相关证据",
+   "url": "https://consensus.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "consensus",
+    "共识",
+    "学术搜索",
+    "查论文",
+    "找研究证据",
+    "文献检索"
+   ]
+  },
+  {
+   "name": "OpenEvidence",
+   "cat": "AI 对话",
+   "desc": "面向医护检索医学文献和临床证据",
+   "url": "https://openevidence.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "openevidence",
+    "医学检索",
+    "查医学文献",
+    "临床证据",
+    "医生工具"
+   ]
+  },
+  {
+   "name": "Harvey",
+   "cat": "AI 对话",
+   "desc": "面向法律团队检索和分析法律文档",
+   "url": "https://harvey.ai",
+   "price": "付费",
+   "kw": [
+    "harvey",
+    "法律助手",
+    "查法律资料",
+    "读合同",
+    "法律检索"
+   ]
+  },
+  {
+   "name": "CoCounsel",
+   "cat": "AI 对话",
+   "desc": "面向专业人员整理证据和审阅文档",
+   "url": "https://thomsonreuters.com/en/cocounsel.html",
+   "price": "付费",
+   "kw": [
+    "cocounsel",
+    "汤森路透",
+    "法律助手",
+    "查法律资料",
+    "审合同",
+    "文档审阅"
+   ]
+  },
+  {
+   "name": "AlphaSense",
+   "cat": "AI 对话",
+   "desc": "检索企业财报和研究资料并提炼要点",
+   "url": "https://alpha-sense.com",
+   "price": "付费",
+   "kw": [
+    "alphasense",
+    "金融检索",
+    "查财报",
+    "读研报",
+    "投研资料"
+   ]
+  },
+  {
+   "name": "NotebookLM",
+   "cat": "AI 对话",
+   "desc": "围绕上传资料问答并生成音频概览，需自备网络",
+   "url": "https://notebooklm.google.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "notebooklm",
+    "谷歌笔记",
+    "资料助手",
+    "读文档",
+    "总结资料",
+    "生成播客"
+   ]
+  },
+  {
+   "name": "Dify",
+   "cat": "AI 对话",
+   "desc": "搭建带知识库和工作流的AI应用",
+   "url": "https://dify.ai",
+   "price": "开源免费",
+   "kw": [
+    "dify",
+    "智能体平台",
+    "做知识库",
+    "搭ai应用",
+    "工作流"
+   ]
+  },
+  {
+   "name": "FastGPT",
+   "cat": "AI 对话",
+   "desc": "用资料库和可视化流程搭建问答应用",
+   "url": "https://fastgpt.io",
+   "price": "开源免费",
+   "kw": [
+    "fastgpt",
+    "快问答",
+    "知识库平台",
+    "做知识库",
+    "文档问答",
+    "智能体"
+   ]
+  },
+  {
+   "name": "RAGFlow",
+   "cat": "AI 对话",
+   "desc": "解析复杂文档并搭建检索问答知识库",
+   "url": "https://ragflow.io",
+   "price": "开源免费",
+   "kw": [
+    "ragflow",
+    "rag",
+    "知识库引擎",
+    "做知识库",
+    "读文档",
+    "文档问答"
+   ]
+  },
+  {
+   "name": "AnythingLLM",
+   "cat": "AI 对话",
+   "desc": "在本机围绕私有文档进行模型问答",
+   "url": "https://anythingllm.com",
+   "price": "开源免费",
+   "kw": [
+    "anythingllm",
+    "万能大模型",
+    "本地知识库",
+    "读文档",
+    "离线问答",
+    "本地ai"
+   ]
+  },
+  {
+   "name": "Open WebUI",
+   "cat": "AI 对话",
+   "desc": "为本地或在线模型提供聊天界面",
+   "url": "https://openwebui.com",
+   "price": "开源免费",
+   "kw": [
+    "open webui",
+    "openwebui",
+    "本地聊天界面",
+    "装本地ai",
+    "离线聊天",
+    "模型管理"
+   ]
+  },
+  {
+   "name": "Ollama",
+   "cat": "AI 对话",
+   "desc": "在本机下载并运行开放模型",
+   "url": "https://ollama.com",
+   "price": "开源免费",
+   "kw": [
+    "ollama",
+    "奥拉马",
+    "本地模型",
+    "装本地ai",
+    "离线聊天",
+    "跑大模型"
+   ]
+  },
+  {
+   "name": "LM Studio",
+   "cat": "AI 对话",
+   "desc": "用桌面界面下载和运行本地模型",
+   "url": "https://lmstudio.ai",
+   "price": "免费",
+   "kw": [
+    "lm studio",
+    "lmstudio",
+    "模型工作室",
+    "装本地ai",
+    "离线聊天",
+    "本地模型"
+   ]
+  },
+  {
+   "name": "Cherry Studio",
+   "cat": "AI 对话",
+   "desc": "桌面端接入多种模型并管理知识库",
+   "url": "https://cherry-ai.com",
+   "price": "开源免费",
+   "kw": [
+    "cherry studio",
+    "cherry",
+    "樱桃工作室",
+    "换模型聊天",
+    "读文档",
+    "知识库"
+   ]
+  },
+  {
+   "name": "Jan",
+   "cat": "AI 对话",
+   "desc": "在电脑本地运行模型并聊天",
+   "url": "https://jan.ai",
+   "price": "开源免费",
+   "kw": [
+    "jan",
+    "本地助手",
+    "装本地ai",
+    "离线聊天",
+    "本地模型"
+   ]
+  },
+  {
+   "name": "Flowise",
+   "cat": "AI 对话",
+   "desc": "拖拽节点搭建模型问答和智能体流程",
+   "url": "https://flowiseai.com",
+   "price": "开源免费",
+   "kw": [
+    "flowise",
+    "流程智能体",
+    "可视化ai",
+    "搭ai应用",
+    "做知识库",
+    "智能体"
+   ]
+  },
+  {
+   "name": "Google Calendar",
+   "cat": "效率办公",
+   "desc": "管理日程并与他人共享会议时间",
+   "url": "https://calendar.google.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "google calendar",
+    "谷歌日历",
+    "gcal",
+    "安排日程",
+    "约时间",
+    "会议提醒"
+   ]
+  },
+  {
+   "name": "Calendly",
+   "cat": "效率办公",
+   "desc": "分享空闲时间让对方自助预约会议",
+   "url": "https://calendly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "calendly",
+    "预约日历",
+    "约会工具",
+    "约时间",
+    "预约会议",
+    "日程"
+   ]
+  },
+  {
+   "name": "Fantastical",
+   "cat": "效率办公",
+   "desc": "用自然语言创建日程并整合日历",
+   "url": "https://flexibits.com/fantastical",
+   "price": "免费 + 付费",
+   "kw": [
+    "fantastical",
+    "日历助手",
+    "安排日程",
+    "记日程",
+    "提醒"
+   ]
+  },
+  {
+   "name": "Thunderbird",
+   "cat": "效率办公",
+   "desc": "在桌面集中管理多个邮箱和日历",
+   "url": "https://thunderbird.net",
+   "price": "开源免费",
+   "kw": [
+    "thunderbird",
+    "雷鸟",
+    "邮件客户端",
+    "收邮件",
+    "管邮箱",
+    "日历"
+   ]
+  },
+  {
+   "name": "Spark Mail",
+   "cat": "效率办公",
+   "desc": "集中收邮件并整理收件箱优先级",
+   "url": "https://sparkmailapp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "spark mail",
+    "spark",
+    "火花邮箱",
+    "收邮件",
+    "清理邮箱",
+    "邮件客户端"
+   ]
+  },
+  {
+   "name": "eM Client",
+   "cat": "效率办公",
+   "desc": "在桌面管理邮箱日历和联系人",
+   "url": "https://emclient.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "em client",
+    "emclient",
+    "邮件客户端",
+    "收邮件",
+    "管邮箱",
+    "联系人"
+   ]
+  },
+  {
+   "name": "Ditto",
+   "cat": "效率办公",
+   "desc": "保存复制历史并搜索粘贴旧内容",
+   "url": "https://ditto-cp.sourceforge.io",
+   "price": "开源免费",
+   "kw": [
+    "ditto",
+    "剪贴板",
+    "找复制记录",
+    "复制粘贴",
+    "剪贴板历史"
+   ]
+  },
+  {
+   "name": "CopyQ",
+   "cat": "效率办公",
+   "desc": "管理文字和图片的剪贴板历史",
+   "url": "https://hluk.github.io/CopyQ/",
+   "price": "开源免费",
+   "kw": [
+    "copyq",
+    "复制q",
+    "剪贴板",
+    "找复制记录",
+    "复制粘贴",
+    "剪贴板管理"
+   ]
+  },
+  {
+   "name": "Paste",
+   "cat": "效率办公",
+   "desc": "跨苹果设备保存和搜索复制历史",
+   "url": "https://pasteapp.io",
+   "price": "付费",
+   "kw": [
+    "paste",
+    "粘贴",
+    "剪贴板管理",
+    "找复制记录",
+    "复制粘贴",
+    "mac剪贴板"
+   ]
+  },
+  {
+   "name": "Syncthing",
+   "cat": "效率办公",
+   "desc": "在设备之间直接同步指定文件夹",
+   "url": "https://syncthing.net",
+   "price": "开源免费",
+   "kw": [
+    "syncthing",
+    "同步神器",
+    "文件同步",
+    "同步文件",
+    "同步文件夹",
+    "跨设备"
+   ]
+  },
+  {
+   "name": "FreeFileSync",
+   "cat": "效率办公",
+   "desc": "比较文件夹差异并备份同步文件",
+   "url": "https://freefilesync.org",
+   "price": "开源免费",
+   "kw": [
+    "freefilesync",
+    "ffs",
+    "文件同步",
+    "备份文件",
+    "同步文件夹",
+    "文件对比"
+   ]
+  },
+  {
+   "name": "Nextcloud",
+   "cat": "效率办公",
+   "desc": "自建文件云盘并共享同步团队资料",
+   "url": "https://nextcloud.com",
+   "price": "开源免费",
+   "kw": [
+    "nextcloud",
+    "私有云盘",
+    "同步文件",
+    "搭网盘",
+    "文件共享"
+   ]
+  },
+  {
+   "name": "Feedly",
+   "cat": "效率办公",
+   "desc": "订阅网站更新并集中阅读资讯",
+   "url": "https://feedly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "feedly",
+    "rss",
+    "订阅文章",
+    "看新闻",
+    "聚合阅读"
+   ]
+  },
+  {
+   "name": "Inoreader",
+   "cat": "效率办公",
+   "desc": "用订阅源和规则整理网站更新",
+   "url": "https://inoreader.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "inoreader",
+    "ino阅读器",
+    "rss",
+    "订阅文章",
+    "看新闻",
+    "信息订阅"
+   ]
+  },
+  {
+   "name": "Readwise Reader",
+   "cat": "效率办公",
+   "desc": "收集网页和PDF并高亮阅读内容",
+   "url": "https://readwise.io/read",
+   "price": "付费",
+   "kw": [
+    "readwise reader",
+    "reader",
+    "稍后读",
+    "收藏文章",
+    "读pdf",
+    "阅读标注"
+   ]
+  },
+  {
+   "name": "Raindrop.io",
+   "cat": "效率办公",
+   "desc": "按标签和文件夹保存网页书签",
+   "url": "https://raindrop.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "raindrop.io",
+    "raindrop",
+    "雨滴书签",
+    "收藏网址",
+    "整理书签",
+    "稍后读"
+   ]
+  },
+  {
+   "name": "Rime",
+   "cat": "效率办公",
+   "desc": "可定制词库和方案的中文输入法",
+   "url": "https://rime.im",
+   "price": "开源免费",
+   "kw": [
+    "rime",
+    "中州韵",
+    "小狼毫",
+    "鼠须管",
+    "打字",
+    "输入法"
+   ]
+  },
+  {
+   "name": "ABBYY FineReader PDF",
+   "cat": "效率办公",
+   "desc": "识别扫描文档并编辑和转换PDF",
+   "url": "https://pdf.abbyy.com",
+   "price": "付费",
+   "kw": [
+    "abbyy finereader pdf",
+    "finereader",
+    "abbyy",
+    "扫描件转文字",
+    "ocr",
+    "编辑pdf"
+   ]
+  },
+  {
+   "name": "PDF-XChange Editor",
+   "cat": "效率办公",
+   "desc": "给PDF加批注并编辑页面和文字",
+   "url": "https://pdf-xchange.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pdf-xchange editor",
+    "pdfx",
+    "方格pdf",
+    "改pdf",
+    "编辑pdf",
+    "pdf批注"
+   ]
+  },
+  {
+   "name": "PeaZip",
+   "cat": "效率办公",
+   "desc": "压缩解压多种格式并管理加密压缩包",
+   "url": "https://peazip.github.io",
+   "price": "开源免费",
+   "kw": [
+    "peazip",
+    "解压工具",
+    "解压文件",
+    "压缩文件",
+    "压缩包"
+   ]
+  },
+  {
+   "name": "BleachBit",
+   "cat": "效率办公",
+   "desc": "清理缓存和临时文件释放磁盘空间",
+   "url": "https://bleachbit.org",
+   "price": "开源免费",
+   "kw": [
+    "bleachbit",
+    "漂白工具",
+    "系统清理",
+    "清理垃圾",
+    "清缓存",
+    "磁盘清理"
+   ]
+  },
+  {
+   "name": "Intel Driver & Support Assistant",
+   "cat": "效率办公",
+   "desc": "检测英特尔硬件并查找官方驱动",
+   "url": "https://intel.com/content/www/us/en/support/detect.html",
+   "price": "免费",
+   "kw": [
+    "intel driver support assistant",
+    "intel dsa",
+    "英特尔驱动助手",
+    "更新驱动",
+    "装驱动",
+    "驱动检测"
+   ]
+  },
+  {
+   "name": "scrcpy",
+   "cat": "效率办公",
+   "desc": "通过USB或网络在电脑控制安卓屏幕",
+   "url": "https://github.com/Genymobile/scrcpy",
+   "price": "开源免费",
+   "kw": [
+    "scrcpy",
+    "安卓投屏",
+    "屏幕镜像",
+    "手机投电脑",
+    "投屏",
+    "控制手机"
+   ]
+  },
+  {
+   "name": "RustDesk",
+   "cat": "效率办公",
+   "desc": "远程控制电脑并支持自建连接服务",
+   "url": "https://rustdesk.com",
+   "price": "开源免费",
+   "kw": [
+    "rustdesk",
+    "远控",
+    "远程电脑",
+    "远程桌面",
+    "远程协助"
+   ]
+  },
+  {
+   "name": "Bruno",
+   "cat": "开发工具",
+   "desc": "把API请求存为文件并在本地调试",
+   "url": "https://usebruno.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "bruno",
+    "api客户端",
+    "调接口",
+    "测接口",
+    "接口调试"
+   ]
+  },
+  {
+   "name": "Hoppscotch",
+   "cat": "开发工具",
+   "desc": "在浏览器发送请求并调试API",
+   "url": "https://hoppscotch.io",
+   "price": "开源免费",
+   "kw": [
+    "hoppscotch",
+    "跳格子",
+    "api调试",
+    "调接口",
+    "测接口",
+    "接口测试"
+   ]
+  },
+  {
+   "name": "Insomnia",
+   "cat": "开发工具",
+   "desc": "组织接口请求并调试REST和GraphQL",
+   "url": "https://insomnia.rest",
+   "price": "免费 + 付费",
+   "kw": [
+    "insomnia",
+    "失眠",
+    "api客户端",
+    "调接口",
+    "测接口",
+    "graphql"
+   ]
+  },
+  {
+   "name": "JSON Crack",
+   "cat": "开发工具",
+   "desc": "把JSON数据结构转换成可展开的关系图",
+   "url": "https://jsoncrack.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "json crack",
+    "jsoncrack",
+    "json可视化",
+    "看json结构",
+    "整理json",
+    "json图表"
+   ]
+  },
+  {
+   "name": "Alacritty",
+   "cat": "开发工具",
+   "desc": "使用GPU绘制界面的轻量终端",
+   "url": "https://alacritty.org",
+   "price": "开源免费",
+   "kw": [
+    "alacritty",
+    "终端模拟器",
+    "开终端",
+    "命令行",
+    "gpu终端"
+   ]
+  },
+  {
+   "name": "Windows Terminal",
+   "cat": "开发工具",
+   "desc": "在多标签中使用命令行和WSL",
+   "url": "https://github.com/microsoft/terminal",
+   "price": "开源免费",
+   "kw": [
+    "windows terminal",
+    "wt",
+    "微软终端",
+    "开终端",
+    "命令行",
+    "wsl"
+   ]
+  },
+  {
+   "name": "Tabby",
+   "cat": "开发工具",
+   "desc": "在同一界面使用本地终端和SSH连接",
+   "url": "https://tabby.sh",
+   "price": "开源免费",
+   "kw": [
+    "tabby",
+    "ssh客户端",
+    "连服务器",
+    "开终端",
+    "远程终端"
+   ]
+  },
+  {
+   "name": "PuTTY",
+   "cat": "开发工具",
+   "desc": "通过SSH和串口连接远程设备",
+   "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
+   "price": "开源免费",
+   "kw": [
+    "putty",
+    "ssh",
+    "连服务器",
+    "串口调试",
+    "远程登录"
+   ]
+  },
+  {
+   "name": "RegExr",
+   "cat": "开发工具",
+   "desc": "在线测试正则匹配并查看语法说明",
+   "url": "https://regexr.com",
+   "price": "开源免费",
+   "kw": [
+    "regexr",
+    "正则测试器",
+    "正则",
+    "写正则",
+    "测试正则",
+    "正则表达式"
+   ]
+  },
+  {
+   "name": "Netlify",
+   "cat": "开发工具",
+   "desc": "连接代码仓库自动构建并托管网站",
+   "url": "https://netlify.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "netlify",
+    "奈特利",
+    "静态托管",
+    "部署网站",
+    "上线网页",
+    "网站托管"
+   ]
+  },
+  {
+   "name": "DB Browser for SQLite",
+   "cat": "开发工具",
+   "desc": "通过图形界面查看和编辑SQLite文件",
+   "url": "https://sqlitebrowser.org",
+   "price": "开源免费",
+   "kw": [
+    "db browser for sqlite",
+    "sqlitebrowser",
+    "sqlite浏览器",
+    "打开数据库",
+    "改sqlite",
+    "数据库客户端"
+   ]
+  },
+  {
+   "name": "Wireshark",
+   "cat": "开发工具",
+   "desc": "捕获网络数据包并分析协议通信",
+   "url": "https://wireshark.org",
+   "price": "开源免费",
+   "kw": [
+    "wireshark",
+    "鲨鱼",
+    "抓包工具",
+    "抓网络包",
+    "查网络问题",
+    "协议分析"
+   ]
+  },
+  {
+   "name": "YAML Lint",
+   "cat": "开发工具",
+   "desc": "在网页校验YAML语法并定位格式错误",
+   "url": "https://yamllint.com",
+   "price": "免费",
+   "kw": [
+    "yaml lint",
+    "yamllint",
+    "yaml校验",
+    "检查yaml",
+    "改配置格式",
+    "yaml格式化"
+   ]
+  },
+  {
+   "name": "mitmproxy",
+   "cat": "开发工具",
+   "desc": "拦截和修改HTTP流量以调试应用",
+   "url": "https://mitmproxy.org",
+   "price": "开源免费",
+   "kw": [
+    "mitmproxy",
+    "中间人代理",
+    "抓包",
+    "看请求",
+    "调接口",
+    "http调试"
+   ]
+  },
+  {
+   "name": "Portainer",
+   "cat": "开发工具",
+   "desc": "用网页管理容器和集群资源",
+   "url": "https://portainer.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "portainer",
+    "容器面板",
+    "管理容器",
+    "docker管理",
+    "容器编排"
+   ]
+  },
+  {
+   "name": "Rancher",
+   "cat": "开发工具",
+   "desc": "集中管理多个Kubernetes集群",
+   "url": "https://rancher.com",
+   "price": "开源免费",
+   "kw": [
+    "rancher",
+    "牧场主",
+    "k8s",
+    "管理集群",
+    "容器编排",
+    "kubernetes"
+   ]
+  },
+  {
+   "name": "Jenkins",
+   "cat": "开发工具",
+   "desc": "配置流水线自动构建测试和部署",
+   "url": "https://jenkins.io",
+   "price": "开源免费",
+   "kw": [
+    "jenkins",
+    "ci",
+    "自动部署",
+    "自动构建",
+    "cicd"
+   ]
+  },
+  {
+   "name": "Argo CD",
+   "cat": "开发工具",
+   "desc": "按Git仓库配置同步部署集群应用",
+   "url": "https://argo-cd.readthedocs.io",
+   "price": "开源免费",
+   "kw": [
+    "argo cd",
+    "argocd",
+    "持续部署",
+    "自动部署",
+    "gitops",
+    "k8s"
+   ]
+  },
+  {
+   "name": "Prometheus",
+   "cat": "开发工具",
+   "desc": "采集服务指标并按规则触发告警",
+   "url": "https://prometheus.io",
+   "price": "开源免费",
+   "kw": [
+    "prometheus",
+    "普罗米修斯",
+    "监控",
+    "监控服务器",
+    "发告警",
+    "指标采集"
+   ]
+  },
+  {
+   "name": "Uptime Kuma",
+   "cat": "开发工具",
+   "desc": "监测网站和服务可用性并发送告警",
+   "url": "https://uptime.kuma.pet",
+   "price": "开源免费",
+   "kw": [
+    "uptime kuma",
+    "kuma",
+    "监控熊",
+    "网站挂了",
+    "监控网站",
+    "可用性监控"
+   ]
+  },
+  {
+   "name": "Graylog",
+   "cat": "开发工具",
+   "desc": "集中收集日志并搜索和设置告警",
+   "url": "https://graylog.org",
+   "price": "免费 + 付费",
+   "kw": [
+    "graylog",
+    "灰日志",
+    "日志平台",
+    "查日志",
+    "分析日志",
+    "日志告警"
+   ]
+  },
+  {
+   "name": "frp",
+   "cat": "开发工具",
+   "desc": "将本地服务映射到可访问的公网端口",
+   "url": "https://gofrp.org",
+   "price": "开源免费",
+   "kw": [
+    "frp",
+    "内网穿透",
+    "反向代理",
+    "外网访问本地",
+    "映射端口",
+    "本地服务"
+   ]
+  },
+  {
+   "name": "PicGo",
+   "cat": "开发工具",
+   "desc": "上传图片到自选存储并复制图片链接",
+   "url": "https://picgo.github.io/PicGo-Doc/",
+   "price": "开源免费",
+   "kw": [
+    "picgo",
+    "图床工具",
+    "图片上传",
+    "上传图片",
+    "生成图片链接",
+    "图床管理"
+   ]
+  },
+  {
+   "name": "Appsmith",
+   "cat": "开发工具",
+   "desc": "拖拽组件连接数据库搭建内部管理页",
+   "url": "https://appsmith.com",
+   "price": "开源免费",
+   "kw": [
+    "appsmith",
+    "应用工匠",
+    "低代码",
+    "做后台",
+    "搭管理系统",
+    "内部工具"
+   ]
+  },
+  {
+   "name": "iLoveIMG",
+   "cat": "在线工具",
+   "desc": "在网页批量压缩裁剪和转换图片",
+   "url": "https://iloveimg.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "iloveimg",
+    "爱图片",
+    "图片工具",
+    "压缩图片",
+    "裁剪图片",
+    "加水印"
+   ]
+  },
+  {
+   "name": "Compressor.io",
+   "cat": "在线工具",
+   "desc": "在线压缩常见图片格式的文件体积",
+   "url": "https://compressor.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "compressor.io",
+    "compressor",
+    "图片压缩器",
+    "压缩图片",
+    "图片变小",
+    "压图"
+   ]
+  },
+  {
+   "name": "Upscale.media",
+   "cat": "在线工具",
+   "desc": "上传图片后放大尺寸并增强细节",
+   "url": "https://upscale.media",
+   "price": "免费 + 付费",
+   "kw": [
+    "upscale.media",
+    "upscale",
+    "图片放大",
+    "小图变清晰",
+    "放大图片",
+    "超分辨率"
+   ]
+  },
+  {
+   "name": "Bigjpg",
+   "cat": "在线工具",
+   "desc": "用AI放大插画和照片并减少噪点",
+   "url": "https://bigjpg.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "bigjpg",
+    "大jpg",
+    "图片放大",
+    "小图变清晰",
+    "放大照片",
+    "超分"
+   ]
+  },
+  {
+   "name": "Clipdrop",
+   "cat": "在线工具",
+   "desc": "在线去背景并调整图片光照效果",
+   "url": "https://clipdrop.co",
+   "price": "免费 + 付费",
+   "kw": [
+    "clipdrop",
+    "图片工具",
+    "抠图",
+    "去背景",
+    "图片补光"
+   ]
+  },
+  {
+   "name": "Watermarkly",
+   "cat": "在线工具",
+   "desc": "批量给图片添加文字或标志水印",
+   "url": "https://watermarkly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "watermarkly",
+    "水印工具",
+    "批量水印",
+    "加水印",
+    "图片盖章",
+    "保护照片"
+   ]
+  },
+  {
+   "name": "EZGIF",
+   "cat": "在线工具",
+   "desc": "在线制作裁剪和压缩GIF动画",
+   "url": "https://ezgif.com",
+   "price": "免费",
+   "kw": [
+    "ezgif",
+    "gif工具",
+    "做动图",
+    "压缩动图",
+    "视频转gif"
+   ]
+  },
+  {
+   "name": "Convertio",
+   "cat": "在线工具",
+   "desc": "在网页转换文档图片和音视频格式",
+   "url": "https://convertio.co",
+   "price": "免费 + 付费",
+   "kw": [
+    "convertio",
+    "格式转换器",
+    "转格式",
+    "图片转格式",
+    "文档转换"
+   ]
+  },
+  {
+   "name": "FreeConvert",
+   "cat": "在线工具",
+   "desc": "在线转换文件格式并压缩视频",
+   "url": "https://freeconvert.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "freeconvert",
+    "转换工具",
+    "转格式",
+    "压缩视频",
+    "文件转换"
+   ]
+  },
+  {
+   "name": "Online-Convert",
+   "cat": "在线工具",
+   "desc": "调整参数后在线转换文件格式",
+   "url": "https://online-convert.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "online-convert",
+    "在线转换",
+    "转换器",
+    "转格式",
+    "音频转换",
+    "图片转换"
+   ]
+  },
+  {
+   "name": "Wormhole",
+   "cat": "在线工具",
+   "desc": "通过浏览器加密发送文件并分享链接",
+   "url": "https://wormhole.app",
+   "price": "免费",
+   "kw": [
+    "wormhole",
+    "虫洞",
+    "文件中转",
+    "传文件",
+    "发大文件",
+    "临时分享"
+   ]
+  },
+  {
+   "name": "SwissTransfer",
+   "cat": "在线工具",
+   "desc": "上传大文件后生成临时分享链接",
+   "url": "https://swisstransfer.com",
+   "price": "免费",
+   "kw": [
+    "swisstransfer",
+    "瑞士传输",
+    "文件中转",
+    "传大文件",
+    "临时分享",
+    "文件分享"
+   ]
+  },
+  {
+   "name": "Send Anywhere",
+   "cat": "在线工具",
+   "desc": "用短码或链接跨设备发送文件",
+   "url": "https://send-anywhere.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "send anywhere",
+    "随处发送",
+    "文件中转",
+    "传文件",
+    "手机传电脑",
+    "分享文件"
+   ]
+  },
+  {
+   "name": "IPinfo",
+   "cat": "在线工具",
+   "desc": "查询公网IP的归属和网络运营信息",
+   "url": "https://ipinfo.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "ipinfo",
+    "ip信息",
+    "ip查询",
+    "查ip",
+    "查归属地",
+    "公网ip"
+   ]
+  },
+  {
+   "name": "DNSChecker",
+   "cat": "在线工具",
+   "desc": "查看域名在不同地区的DNS解析结果",
+   "url": "https://dnschecker.org",
+   "price": "免费",
+   "kw": [
+    "dnschecker",
+    "dns检查",
+    "解析查询",
+    "查dns",
+    "查域名解析",
+    "dns传播"
+   ]
+  },
+  {
+   "name": "MXToolbox",
+   "cat": "在线工具",
+   "desc": "检查邮件域名解析和服务器配置",
+   "url": "https://mxtoolbox.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "mxtoolbox",
+    "mx工具箱",
+    "邮件检测",
+    "查mx",
+    "查dns",
+    "邮件故障"
+   ]
+  },
+  {
+   "name": "YouGetSignal",
+   "cat": "在线工具",
+   "desc": "在线检查公网端口是否可连接",
+   "url": "https://yougetsignal.com",
+   "price": "免费",
+   "kw": [
+    "yougetsignal",
+    "端口检测",
+    "测端口",
+    "端口开没开",
+    "网络工具"
+   ]
+  },
+  {
+   "name": "Base64Decode.org",
+   "cat": "在线工具",
+   "desc": "在浏览器编码和解码Base64文本",
+   "url": "https://base64decode.org",
+   "price": "免费",
+   "kw": [
+    "base64decode.org",
+    "base64 decode",
+    "base64解码",
+    "解密乱码",
+    "编码解码",
+    "base64"
+   ]
+  },
+  {
+   "name": "Epoch Converter",
+   "cat": "在线工具",
+   "desc": "在时间戳和可读日期之间转换",
+   "url": "https://epochconverter.com",
+   "price": "免费",
+   "kw": [
+    "epoch converter",
+    "纪元转换",
+    "时间戳工具",
+    "转时间戳",
+    "时间戳转日期",
+    "unix时间"
+   ]
+  },
+  {
+   "name": "10 Minute Mail",
+   "cat": "在线工具",
+   "desc": "提供短时可用的临时收件邮箱",
+   "url": "https://10minutemail.com",
+   "price": "免费",
+   "kw": [
+    "10 minute mail",
+    "10minutemail",
+    "十分钟邮箱",
+    "收验证码",
+    "临时邮箱",
+    "临时收信"
+   ]
+  },
+  {
+   "name": "Temp Mail",
+   "cat": "在线工具",
+   "desc": "生成临时邮箱接收短期使用的邮件",
+   "url": "https://temp-mail.org",
+   "price": "免费 + 付费",
+   "kw": [
+    "temp mail",
+    "tempmail",
+    "临时邮件",
+    "临时邮箱",
+    "收验证码",
+    "临时收信"
+   ]
+  },
+  {
+   "name": "Miro",
+   "cat": "在线工具",
+   "desc": "多人在网页白板上画图和整理想法",
+   "url": "https://miro.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "miro",
+    "米罗",
+    "在线白板",
+    "一起画图",
+    "画流程图",
+    "头脑风暴"
+   ]
+  },
+  {
+   "name": "tldraw",
+   "cat": "在线工具",
+   "desc": "在浏览器画草图和共享白板",
+   "url": "https://tldraw.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "tldraw",
+    "涂鸦白板",
+    "在线白板",
+    "画草图",
+    "一起画图",
+    "画流程图"
+   ]
+  },
+  {
+   "name": "ScreenApp",
+   "cat": "在线工具",
+   "desc": "在浏览器录制屏幕并转写录音",
+   "url": "https://screenapp.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "screenapp",
+    "屏幕应用",
+    "在线录屏",
+    "录屏幕",
+    "录会议",
+    "录音转写"
+   ]
+  },
+  {
+   "name": "Penpot",
+   "cat": "设计工具",
+   "desc": "用开放格式协作设计界面和交互原型",
+   "url": "https://penpot.app",
+   "price": "开源免费",
+   "kw": [
+    "penpot",
+    "ui设计",
+    "画界面",
+    "做原型",
+    "设计稿"
+   ]
+  },
+  {
+   "name": "Sketch",
+   "cat": "设计工具",
+   "desc": "在Mac上绘制界面并管理设计组件",
+   "url": "https://sketch.com",
+   "price": "付费",
+   "kw": [
+    "sketch",
+    "ui设计",
+    "画界面",
+    "做设计稿",
+    "矢量设计"
+   ]
+  },
+  {
+   "name": "Lunacy",
+   "cat": "设计工具",
+   "desc": "设计界面和矢量图并使用内置素材",
+   "url": "https://icons8.com/lunacy",
+   "price": "免费 + 付费",
+   "kw": [
+    "lunacy",
+    "ui设计",
+    "画界面",
+    "做设计稿",
+    "矢量图"
+   ]
+  },
+  {
+   "name": "Framer",
+   "cat": "设计工具",
+   "desc": "通过可视化界面设计并发布网站",
+   "url": "https://framer.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "framer",
+    "网页设计",
+    "做网站",
+    "做落地页",
+    "交互原型"
+   ]
+  },
+  {
+   "name": "Axure RP",
+   "cat": "设计工具",
+   "desc": "用条件和变量制作复杂交互原型",
+   "url": "https://axure.com",
+   "price": "付费",
+   "kw": [
+    "axure rp",
+    "axure",
+    "阿克苏",
+    "做原型",
+    "画交互",
+    "产品原型"
+   ]
+  },
+  {
+   "name": "ProtoPie",
+   "cat": "设计工具",
+   "desc": "制作带传感器和设备联动的交互原型",
+   "url": "https://protopie.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "protopie",
+    "高保真原型",
+    "交互原型",
+    "做原型",
+    "做交互",
+    "动效原型"
+   ]
+  },
+  {
+   "name": "Rive",
+   "cat": "设计工具",
+   "desc": "制作可由程序实时控制的矢量动画",
+   "url": "https://rive.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "rive",
+    "交互动画",
+    "做动效",
+    "做动画",
+    "矢量动画"
+   ]
+  },
+  {
+   "name": "LottieFiles",
+   "cat": "设计工具",
+   "desc": "查找和编辑可用于网页的矢量动画",
+   "url": "https://lottiefiles.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "lottiefiles",
+    "lottie",
+    "找动效",
+    "做动画",
+    "动画素材"
+   ]
+  },
+  {
+   "name": "SVGator",
+   "cat": "设计工具",
+   "desc": "在浏览器给SVG图形制作动画",
+   "url": "https://svgator.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "svgator",
+    "svg动画工具",
+    "矢量动画",
+    "做动效",
+    "让图标动起来",
+    "svg"
+   ]
+  },
+  {
+   "name": "Iconfont",
+   "cat": "设计工具",
+   "desc": "搜索矢量图标并管理项目图标集合",
+   "url": "https://iconfont.cn",
+   "price": "免费",
+   "kw": [
+    "iconfont",
+    "阿里巴巴矢量图标库",
+    "阿里图标",
+    "找图标",
+    "下载图标",
+    "svg图标"
+   ]
+  },
+  {
+   "name": "Font Awesome",
+   "cat": "设计工具",
+   "desc": "为网页和应用提供成套图标",
+   "url": "https://fontawesome.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "font awesome",
+    "fa",
+    "图标字体",
+    "找图标",
+    "网站图标",
+    "图标库"
+   ]
+  },
+  {
+   "name": "Lucide",
+   "cat": "设计工具",
+   "desc": "提供可调线宽的开源线性图标",
+   "url": "https://lucide.dev",
+   "price": "开源免费",
+   "kw": [
+    "lucide",
+    "卢西德",
+    "线性图标",
+    "找图标",
+    "下载图标",
+    "图标库"
+   ]
+  },
+  {
+   "name": "Tabler Icons",
+   "cat": "设计工具",
+   "desc": "提供统一风格的开源线条图标",
+   "url": "https://tabler.io/icons",
+   "price": "开源免费",
+   "kw": [
+    "tabler icons",
+    "tabler",
+    "线条图标",
+    "找图标",
+    "下载图标",
+    "svg图标"
+   ]
+  },
+  {
+   "name": "Heroicons",
+   "cat": "设计工具",
+   "desc": "提供适合界面使用的SVG图标",
+   "url": "https://heroicons.com",
+   "price": "开源免费",
+   "kw": [
+    "heroicons",
+    "英雄图标",
+    "界面图标",
+    "找图标",
+    "下载图标",
+    "svg"
+   ]
+  },
+  {
+   "name": "unDraw",
+   "cat": "设计工具",
+   "desc": "提供可改主题色的开放插画素材",
+   "url": "https://undraw.co",
+   "price": "免费",
+   "kw": [
+    "undraw",
+    "开放插画",
+    "插画库",
+    "找插画",
+    "网页插画",
+    "改插画颜色",
+    "免版权",
+    "可商用",
+    "免费插画"
+   ]
+  },
+  {
+   "name": "Storyset",
+   "cat": "设计工具",
+   "desc": "选择风格和颜色生成可编辑插画",
+   "url": "https://storyset.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "storyset",
+    "故事插画",
+    "插画库",
+    "找插画",
+    "做插画",
+    "动画插画",
+    "免版权",
+    "可商用",
+    "免费插画"
+   ]
+  },
+  {
+   "name": "Coolors",
+   "cat": "设计工具",
+   "desc": "快速生成色板并调整颜色搭配",
+   "url": "https://coolors.co",
+   "price": "免费 + 付费",
+   "kw": [
+    "coolors",
+    "配色工具",
+    "找配色",
+    "搭颜色",
+    "色板",
+    "配色方案",
+    "调色板",
+    "选颜色"
+   ]
+  },
+  {
+   "name": "Adobe Color",
+   "cat": "设计工具",
+   "desc": "按色彩规则生成配色并提取图片色板",
+   "url": "https://color.adobe.com",
+   "price": "免费",
+   "kw": [
+    "adobe color",
+    "奥多比配色",
+    "配色轮",
+    "找配色",
+    "图片取色",
+    "色板"
+   ]
+  },
+  {
+   "name": "Color Hunt",
+   "cat": "设计工具",
+   "desc": "浏览按主题整理的颜色组合",
+   "url": "https://colorhunt.co",
+   "price": "免费",
+   "kw": [
+    "color hunt",
+    "猎色",
+    "配色库",
+    "找配色",
+    "搭颜色",
+    "色板"
+   ]
+  },
+  {
+   "name": "Google Fonts",
+   "cat": "设计工具",
+   "desc": "查找可用于网页和设计的开放字体",
+   "url": "https://fonts.google.com",
+   "price": "免费",
+   "kw": [
+    "google fonts",
+    "谷歌字体",
+    "字体库",
+    "找字体",
+    "下载字体",
+    "网页字体",
+    "免费字体",
+    "可商用字体"
+   ]
+  },
+  {
+   "name": "Font Squirrel",
+   "cat": "设计工具",
+   "desc": "查找可商用字体并核对字体授权",
+   "url": "https://fontsquirrel.com",
+   "price": "免费",
+   "kw": [
+    "font squirrel",
+    "字体松鼠",
+    "字体库",
+    "找字体",
+    "商用字体",
+    "字体授权",
+    "免费字体",
+    "可商用字体"
+   ]
+  },
+  {
+   "name": "Unsplash",
+   "cat": "设计工具",
+   "desc": "搜索可按许可使用的摄影图片",
+   "url": "https://unsplash.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "unsplash",
+    "摄影图库",
+    "找图片",
+    "找配图",
+    "图片素材",
+    "免版权",
+    "可商用",
+    "免费图片"
+   ]
+  },
+  {
+   "name": "Pexels",
+   "cat": "设计工具",
+   "desc": "搜索可按许可使用的照片和视频素材",
+   "url": "https://pexels.com",
+   "price": "免费",
+   "kw": [
+    "pexels",
+    "免费图库",
+    "找图片",
+    "找视频素材",
+    "照片素材",
+    "免版权",
+    "可商用",
+    "免费图片",
+    "免费视频"
+   ]
+  },
+  {
+   "name": "Mixkit",
+   "cat": "设计工具",
+   "desc": "提供附带使用许可的视频和音效素材",
+   "url": "https://mixkit.co",
+   "price": "免费",
+   "kw": [
+    "mixkit",
+    "音效库",
+    "找音效",
+    "找视频素材",
+    "视频素材",
+    "免版权",
+    "可商用",
+    "免费音效",
+    "免费视频"
+   ]
+  },
+  {
+   "name": "360 智脑",
+   "cat": "AI 对话",
+   "desc": "360 的 AI 助手，网页和文档总结都能做",
+   "url": "https://chat.360.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "360",
+    "智脑",
+    "周鸿祎",
+    "ai",
+    "对话",
+    "搜索"
+   ]
+  },
+  {
+   "name": "商汤商量",
+   "cat": "AI 对话",
+   "desc": "商汤的对话助手，文档问答和多轮对话",
+   "url": "https://chat.sensetime.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "商汤",
+    "商量",
+    "sensechat",
+    "sensetime",
+    "ai",
+    "对话"
+   ]
+  },
+  {
+   "name": "零一万物",
+   "cat": "AI 对话",
+   "desc": "李开复团队的模型，网页版和接口都有",
+   "url": "https://www.lingyiwanwu.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "零一万物",
+    "yi",
+    "01ai",
+    "开复",
+    "大模型",
+    "ai"
+   ]
+  },
+  {
+   "name": "书生浦语",
+   "cat": "AI 对话",
+   "desc": "上海 AI 实验室的开源模型，可试用",
+   "url": "https://internlm.intern-ai.org.cn",
+   "price": "开源免费",
+   "kw": [
+    "书生",
+    "浦语",
+    "internlm",
+    "开源模型",
+    "ai"
+   ]
+  },
+  {
+   "name": "Merlin",
+   "cat": "AI 对话",
+   "desc": "浏览器里的 AI 助手，多个模型随便切",
+   "url": "https://www.getmerlin.in",
+   "price": "免费 + 付费",
+   "kw": [
+    "merlin",
+    "插件",
+    "浏览器",
+    "多模型",
+    "ai",
+    "助手"
+   ]
+  },
+  {
+   "name": "Chatbox",
+   "cat": "AI 对话",
+   "desc": "桌面版 AI 客户端，对话记录存本地",
+   "url": "https://chatboxai.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "chatbox",
+    "桌面客户端",
+    "本地",
+    "api",
+    "ai",
+    "聊天"
+   ]
+  },
+  {
+   "name": "LobeChat",
+   "cat": "AI 对话",
+   "desc": "开源聊天前端，插件和知识库都支持",
+   "url": "https://lobechat.com",
+   "price": "开源免费",
+   "kw": [
+    "lobechat",
+    "开源",
+    "聊天前端",
+    "知识库",
+    "ai"
+   ]
+  },
+  {
+   "name": "LibreChat",
+   "cat": "AI 对话",
+   "desc": "开源聊天界面，团队可以自己部署",
+   "url": "https://www.librechat.ai",
+   "price": "开源免费",
+   "kw": [
+    "librechat",
+    "开源",
+    "自建",
+    "团队",
+    "ai",
+    "聊天"
+   ]
+  },
+  {
+   "name": "Phind",
+   "cat": "AI 对话",
+   "desc": "面向程序员的 AI 搜索，直接给代码",
+   "url": "https://www.phind.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "phind",
+    "编程搜索",
+    "写代码",
+    "debug",
+    "ai",
+    "搜索"
+   ]
+  },
+  {
+   "name": "Andi",
+   "cat": "AI 对话",
+   "desc": "对话式搜索，给摘要不堆链接",
+   "url": "https://andisearch.com",
+   "price": "免费",
+   "kw": [
+    "andi",
+    "ai搜索",
+    "摘要",
+    "搜索",
+    "问答"
+   ]
+  },
+  {
+   "name": "Semantic Scholar",
+   "cat": "AI 对话",
+   "desc": "免费论文搜索，AI 生成摘要",
+   "url": "https://www.semanticscholar.org",
+   "price": "免费",
+   "kw": [
+    "semantic",
+    "论文搜索",
+    "学术",
+    "文献",
+    "免费"
+   ]
+  },
+  {
+   "name": "Connected Papers",
+   "cat": "AI 对话",
+   "desc": "输入一篇论文，画出相关论文图",
+   "url": "https://www.connectedpapers.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "connectedpapers",
+    "论文关系",
+    "文献",
+    "科研",
+    "图谱"
+   ]
+  },
+  {
+   "name": "Humata",
+   "cat": "AI 对话",
+   "desc": "面向文档的 AI，能对比多份文件",
+   "url": "https://www.humata.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "humata",
+    "文档分析",
+    "对比文件",
+    "读pdf",
+    "ai"
+   ]
+  },
+  {
+   "name": "OpenRouter",
+   "cat": "AI 对话",
+   "desc": "一个入口调各家模型，比价方便",
+   "url": "https://openrouter.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "openrouter",
+    "多模型",
+    "api",
+    "比价",
+    "ai",
+    "接口"
+   ]
+  },
+  {
+   "name": "Groq",
+   "cat": "AI 对话",
+   "desc": "推理极快的模型服务，输出几乎秒出",
+   "url": "https://groq.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "groq",
+    "速度快",
+    "api",
+    "推理",
+    "ai"
+   ]
+  },
+  {
+   "name": "Together AI",
+   "cat": "AI 对话",
+   "desc": "开源模型托管平台，有免费额度",
+   "url": "https://www.together.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "together",
+    "开源模型",
+    "托管",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "Replicate",
+   "cat": "AI 对话",
+   "desc": "跑开源模型的地方，图片视频模型最多",
+   "url": "https://replicate.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "replicate",
+    "开源模型",
+    "跑模型",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "AI21",
+   "cat": "AI 对话",
+   "desc": "Jamba 系列模型，长上下文处理强",
+   "url": "https://www.ai21.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "ai21",
+    "jamba",
+    "长上下文",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "Pi",
+   "cat": "AI 对话",
+   "desc": "语气最像人的聊天助手，适合练口语",
+   "url": "https://pi.ai",
+   "price": "免费",
+   "kw": [
+    "pi",
+    "练口语",
+    "陪聊",
+    "语音",
+    "ai",
+    "聊天"
+   ]
+  },
+  {
+   "name": "Komo",
+   "cat": "AI 对话",
+   "desc": "轻量 AI 搜索，界面极简没广告",
+   "url": "https://komo.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "komo",
+    "ai搜索",
+    "极简",
+    "搜索",
+    "问答"
+   ]
+  },
+  {
+   "name": "Exa",
+   "cat": "AI 对话",
+   "desc": "面向 AI 的搜索引擎，给开发者用",
+   "url": "https://exa.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "exa",
+    "ai搜索",
+    "开发者",
+    "api",
+    "搜索"
+   ]
+  },
+  {
+   "name": "Tavily",
+   "cat": "AI 对话",
+   "desc": "给 AI 应用用的搜索接口，接起来快",
+   "url": "https://tavily.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "tavily",
+    "搜索接口",
+    "api",
+    "rag",
+    "ai"
+   ]
+  },
+  {
+   "name": "LlamaIndex",
+   "cat": "AI 对话",
+   "desc": "搭检索问答应用的框架，文档全",
+   "url": "https://www.llamaindex.ai",
+   "price": "开源免费",
+   "kw": [
+    "llamaindex",
+    "rag",
+    "知识库",
+    "框架",
+    "开源"
+   ]
+  },
+  {
+   "name": "LangChain",
+   "cat": "AI 对话",
+   "desc": "大模型应用开发框架，最主流的那个",
+   "url": "https://www.langchain.com",
+   "price": "开源免费",
+   "kw": [
+    "langchain",
+    "框架",
+    "开发",
+    "rag",
+    "agent",
+    "开源"
+   ]
+  },
+  {
+   "name": "LangSmith",
+   "cat": "AI 对话",
+   "desc": "调试和评估大模型应用的平台",
+   "url": "https://smith.langchain.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "langsmith",
+    "调试",
+    "评估",
+    "langchain",
+    "ai"
+   ]
+  },
+  {
+   "name": "Helicone",
+   "cat": "AI 对话",
+   "desc": "大模型调用监控，统计成本和延迟",
+   "url": "https://www.helicone.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "helicone",
+    "监控",
+    "成本",
+    "日志",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "Portkey",
+   "cat": "AI 对话",
+   "desc": "大模型网关，统一管理和限流",
+   "url": "https://portkey.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "portkey",
+    "网关",
+    "限流",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "AutoGPT",
+   "cat": "AI 对话",
+   "desc": "自动分解任务的 AI 代理，开山之作",
+   "url": "https://agpt.co",
+   "price": "开源免费",
+   "kw": [
+    "autogpt",
+    "智能体",
+    "自动任务",
+    "agent",
+    "开源"
+   ]
+  },
+  {
+   "name": "CrewAI",
+   "cat": "AI 对话",
+   "desc": "多智能体协作框架，写代码的人用",
+   "url": "https://www.crewai.com",
+   "price": "开源免费",
+   "kw": [
+    "crewai",
+    "多智能体",
+    "协作",
+    "agent",
+    "框架"
+   ]
+  },
+  {
+   "name": "MetaGPT",
+   "cat": "AI 对话",
+   "desc": "多角色 AI 协作做软件，能出文档",
+   "url": "https://www.deepwisdom.ai",
+   "price": "开源免费",
+   "kw": [
+    "metagpt",
+    "多智能体",
+    "自动写代码",
+    "agent",
+    "开源"
+   ]
+  },
+  {
+   "name": "Coze",
+   "cat": "AI 对话",
+   "desc": "字节的智能体平台，拖拽就能搭",
+   "url": "https://www.coze.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "coze",
+    "扣子",
+    "智能体",
+    "bot",
+    "字节",
+    "搭建"
+   ]
+  },
+  {
+   "name": "Qwen Chat",
+   "cat": "AI 对话",
+   "desc": "通义千问国际版，英文和代码都强",
+   "url": "https://chat.qwen.ai",
+   "price": "免费",
+   "kw": [
+    "qwen",
+    "通义",
+    "千问",
+    "阿里",
+    "ai",
+    "聊天"
+   ]
+  },
+  {
+   "name": "SillyTavern",
+   "cat": "AI 对话",
+   "desc": "本地角色扮演前端，接自己的模型",
+   "url": "https://sillytavern.app",
+   "price": "开源免费",
+   "kw": [
+    "sillytavern",
+    "酒馆",
+    "角色扮演",
+    "本地",
+    "ai"
+   ]
+  },
+  {
+   "name": "LiteLLM",
+   "cat": "AI 对话",
+   "desc": "统一调用上百个模型的代理层",
+   "url": "https://www.litellm.ai",
+   "price": "开源免费",
+   "kw": [
+    "litellm",
+    "统一接口",
+    "代理",
+    "多模型",
+    "api"
+   ]
+  },
+  {
+   "name": "Adobe Firefly",
+   "cat": "AI 绘画",
+   "desc": "Adobe 的绘图 AI，商用授权最放心",
+   "url": "https://firefly.adobe.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "firefly",
+    "adobe",
+    "萤火虫",
+    "商用",
+    "ai绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Flux",
+   "cat": "AI 绘画",
+   "desc": "出图质量强的开源模型，本地也能跑",
+   "url": "https://blackforestlabs.ai",
+   "price": "开源免费",
+   "kw": [
+    "flux",
+    "blackforest",
+    "开源模型",
+    "ai绘图",
+    "文生图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Freepik AI",
+   "cat": "AI 绘画",
+   "desc": "素材站自带绘图，出图能直接下载",
+   "url": "https://www.freepik.com/ai/image-generator",
+   "price": "免费 + 付费",
+   "kw": [
+    "freepik",
+    "素材",
+    "免费图",
+    "ai绘图",
+    "设计"
+   ]
+  },
+  {
+   "name": "Playground",
+   "cat": "AI 绘画",
+   "desc": "画布式 AI 绘图，能局部重绘",
+   "url": "https://playground.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "playground",
+    "画布",
+    "局部重绘",
+    "ai绘图",
+    "设计",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Draw Things",
+   "cat": "AI 绘画",
+   "desc": "苹果设备本地跑 SD，不用联网",
+   "url": "https://drawthings.ai",
+   "price": "免费",
+   "kw": [
+    "drawthings",
+    "苹果",
+    "iphone",
+    "本地",
+    "ai绘图",
+    "mac"
+   ]
+  },
+  {
+   "name": "无界 AI",
+   "cat": "AI 绘画",
+   "desc": "国内 AI 绘画平台，模型风格齐全",
+   "url": "https://www.wujieai.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "无界",
+    "wujieai",
+    "ai绘画",
+    "国内",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "文心一格",
+   "cat": "AI 绘画",
+   "desc": "百度的 AI 绘画，中文提示词友好",
+   "url": "https://yige.baidu.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "文心一格",
+    "百度",
+    "ai绘画",
+    "中文",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "商汤秒画",
+   "cat": "AI 绘画",
+   "desc": "商汤的绘图平台，出图偏商业风",
+   "url": "https://miaohua.sensetime.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "秒画",
+    "商汤",
+    "ai绘画",
+    "商业",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "6pen",
+   "cat": "AI 绘画",
+   "desc": "国内 AI 绘画，支持多种画风",
+   "url": "https://6pen.art",
+   "price": "免费 + 付费",
+   "kw": [
+    "6pen",
+    "ai绘画",
+    "画风",
+    "国内",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "堆友",
+   "cat": "AI 绘画",
+   "desc": "阿里的设计素材加 AI 绘图，都免费",
+   "url": "https://d.design",
+   "price": "免费",
+   "kw": [
+    "堆友",
+    "阿里",
+    "设计素材",
+    "ai绘图",
+    "免费",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Veo",
+   "cat": "AI 视频音频",
+   "desc": "谷歌的视频模型，音画同步做得好",
+   "url": "https://deepmind.google/models/veo/",
+   "price": "付费",
+   "kw": [
+    "veo",
+    "谷歌",
+    "视频生成",
+    "文生视频",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Genmo",
+   "cat": "AI 视频音频",
+   "desc": "开源视频模型 Mochi，免费额度大",
+   "url": "https://www.genmo.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "genmo",
+    "mochi",
+    "开源",
+    "视频生成",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Kaiber",
+   "cat": "AI 视频音频",
+   "desc": "音乐视频风格化，做 MV 常用",
+   "url": "https://kaiber.ai",
+   "price": "付费",
+   "kw": [
+    "kaiber",
+    "mv",
+    "音乐视频",
+    "风格化",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Fliki",
+   "cat": "AI 视频音频",
+   "desc": "文字转视频，配音字幕一次生成",
+   "url": "https://fliki.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "fliki",
+    "文字转视频",
+    "配音",
+    "字幕",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Pictory",
+   "cat": "AI 视频音频",
+   "desc": "长文章自动剪成短视频",
+   "url": "https://pictory.ai",
+   "price": "付费",
+   "kw": [
+    "pictory",
+    "文章转视频",
+    "短视频",
+    "剪辑",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Elai",
+   "cat": "AI 视频音频",
+   "desc": "数字人讲稿视频，培训课常用",
+   "url": "https://elai.io",
+   "price": "付费",
+   "kw": [
+    "elai",
+    "数字人",
+    "讲稿视频",
+    "培训",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Speechify",
+   "cat": "AI 视频音频",
+   "desc": "把网页和 PDF 读出来，通勤听资料",
+   "url": "https://speechify.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "speechify",
+    "朗读",
+    "听书",
+    "tts",
+    "语音",
+    "文字转语音",
+    "语音合成",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "Resemble AI",
+   "cat": "AI 视频音频",
+   "desc": "声音克隆，能复刻自己的音色",
+   "url": "https://www.resemble.ai",
+   "price": "付费",
+   "kw": [
+    "resemble",
+    "声音克隆",
+    "复刻音色",
+    "配音",
+    "tts",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "Respeecher",
+   "cat": "AI 视频音频",
+   "desc": "影视级变声，保留情绪细节",
+   "url": "https://www.respeecher.com",
+   "price": "付费",
+   "kw": [
+    "respeecher",
+    "变声",
+    "影视",
+    "配音",
+    "声音"
+   ]
+  },
+  {
+   "name": "Voicemod",
+   "cat": "AI 视频音频",
+   "desc": "实时变声，直播和开黑用",
+   "url": "https://www.voicemod.net",
+   "price": "免费 + 付费",
+   "kw": [
+    "voicemod",
+    "实时变声",
+    "直播",
+    "语音",
+    "变声器"
+   ]
+  },
+  {
+   "name": "LALAL.AI",
+   "cat": "AI 视频音频",
+   "desc": "人声和伴奏分离，精度很高",
+   "url": "https://www.lalal.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "lalal",
+    "人声分离",
+    "伴奏提取",
+    "分轨",
+    "音频"
+   ]
+  },
+  {
+   "name": "Moises",
+   "cat": "AI 视频音频",
+   "desc": "分轨和降速，练乐器的人常用",
+   "url": "https://moises.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "moises",
+    "分轨",
+    "降速",
+    "练琴",
+    "音频"
+   ]
+  },
+  {
+   "name": "Riffusion",
+   "cat": "AI 视频音频",
+   "desc": "免费生成音乐，风格随便写",
+   "url": "https://www.riffusion.com",
+   "price": "免费",
+   "kw": [
+    "riffusion",
+    "生成音乐",
+    "免费",
+    "ai音乐",
+    "作曲"
+   ]
+  },
+  {
+   "name": "Mubert",
+   "cat": "AI 视频音频",
+   "desc": "生成无版权背景音乐",
+   "url": "https://mubert.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "mubert",
+    "背景音乐",
+    "无版权",
+    "ai音乐",
+    "配乐"
+   ]
+  },
+  {
+   "name": "AIVA",
+   "cat": "AI 视频音频",
+   "desc": "AI 作曲，能做影视配乐",
+   "url": "https://www.aiva.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "aiva",
+    "ai作曲",
+    "配乐",
+    "影视",
+    "音乐"
+   ]
+  },
+  {
+   "name": "Soundraw",
+   "cat": "AI 视频音频",
+   "desc": "按情绪和时长生成配乐",
+   "url": "https://soundraw.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "soundraw",
+    "配乐",
+    "生成音乐",
+    "情绪",
+    "ai音乐"
+   ]
+  },
+  {
+   "name": "OpusClip",
+   "cat": "AI 视频音频",
+   "desc": "长视频自动切片成竖屏短视频",
+   "url": "https://www.opus.pro",
+   "price": "免费 + 付费",
+   "kw": [
+    "opusclip",
+    "切片",
+    "长转短",
+    "短视频",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Vizard",
+   "cat": "AI 视频音频",
+   "desc": "长视频转短视频，自动加字幕",
+   "url": "https://vizard.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "vizard",
+    "长转短",
+    "自动字幕",
+    "短视频",
+    "剪辑"
+   ]
+  },
+  {
+   "name": "Submagic",
+   "cat": "AI 视频音频",
+   "desc": "短视频自动加字幕和特效",
+   "url": "https://www.submagic.co",
+   "price": "付费",
+   "kw": [
+    "submagic",
+    "自动字幕",
+    "短视频",
+    "特效",
+    "剪辑"
+   ]
+  },
+  {
+   "name": "Captions",
+   "cat": "AI 视频音频",
+   "desc": "口播视频一键加字幕和剪辑",
+   "url": "https://www.captions.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "captions",
+    "口播",
+    "自动字幕",
+    "剪辑",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Topaz Video AI",
+   "cat": "AI 视频音频",
+   "desc": "视频修复和放大，老片翻新",
+   "url": "https://www.topazlabs.com/topaz-video-ai",
+   "price": "付费",
+   "kw": [
+    "topaz",
+    "视频修复",
+    "视频放大",
+    "老片",
+    "画质"
+   ]
+  },
+  {
+   "name": "讯飞智作",
+   "cat": "AI 视频音频",
+   "desc": "讯飞的配音工具，中文音色最多",
+   "url": "https://peiyin.xunfei.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "讯飞智作",
+    "讯飞",
+    "配音",
+    "中文音色",
+    "tts",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "魔音工坊",
+   "cat": "AI 视频音频",
+   "desc": "中文 AI 配音，短视频常用",
+   "url": "https://www.moyin.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "魔音",
+    "moyin",
+    "配音",
+    "短视频",
+    "tts",
+    "文字转语音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "一帧秒创",
+   "cat": "AI 视频音频",
+   "desc": "图文一键转视频，适合做解说",
+   "url": "https://aigc.yizhentv.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "一帧秒创",
+    "图文转视频",
+    "解说",
+    "短视频",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "度加创作",
+   "cat": "AI 视频音频",
+   "desc": "百度的视频创作工具，剪辑加配音",
+   "url": "https://aigc.baidu.com",
+   "price": "免费",
+   "kw": [
+    "度加",
+    "百度",
+    "视频创作",
+    "剪辑",
+    "配音"
+   ]
+  },
+  {
+   "name": "必剪",
+   "cat": "AI 视频音频",
+   "desc": "B 站官方剪辑，投稿一键上传",
+   "url": "https://bcut.bilibili.cn",
+   "price": "免费",
+   "kw": [
+    "必剪",
+    "b站",
+    "剪辑",
+    "投稿",
+    "视频"
+   ]
+  },
+  {
+   "name": "万兴喵影",
+   "cat": "AI 视频音频",
+   "desc": "国产剪辑软件，模板多上手快",
+   "url": "https://www.wondershare.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "喵影",
+    "万兴",
+    "剪辑",
+    "模板",
+    "视频"
+   ]
+  },
+  {
+   "name": "通义听悟",
+   "cat": "AI 视频音频",
+   "desc": "阿里的录音转写，中文识别准",
+   "url": "https://tingwu.aliyun.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "听悟",
+    "通义",
+    "录音转文字",
+    "会议记录",
+    "转写",
+    "语音转文字",
+    "音频转文字",
+    "语音识别",
+    "听写",
+    "会议纪要"
+   ]
+  },
+  {
+   "name": "飞书妙记",
+   "cat": "AI 视频音频",
+   "desc": "飞书的录音转文字，开会必用",
+   "url": "https://www.feishu.cn/product/minutes",
+   "price": "免费",
+   "kw": [
+    "妙记",
+    "飞书",
+    "录音转文字",
+    "会议",
+    "转写",
+    "语音转文字",
+    "音频转文字",
+    "语音识别",
+    "听写",
+    "会议纪要"
+   ]
+  },
+  {
+   "name": "Clipchamp",
+   "cat": "AI 视频音频",
+   "desc": "微软自带剪辑，网页版就能用",
+   "url": "https://clipchamp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "clipchamp",
+    "微软",
+    "网页剪辑",
+    "视频",
+    "剪辑"
+   ]
+  },
+  {
+   "name": "Wisecut",
+   "cat": "AI 视频音频",
+   "desc": "自动去掉停顿，口播视频提速",
+   "url": "https://wisecut.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "wisecut",
+    "去停顿",
+    "口播",
+    "自动剪辑",
+    "视频"
+   ]
+  },
+  {
+   "name": "Gling",
+   "cat": "AI 视频音频",
+   "desc": "自动剪掉废镜头和静音段",
+   "url": "https://www.gling.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "gling",
+    "去废片",
+    "静音",
+    "自动剪辑",
+    "视频"
+   ]
+  },
+  {
+   "name": "Rev",
+   "cat": "AI 视频音频",
+   "desc": "人工加 AI 转写，准确率高",
+   "url": "https://www.rev.com",
+   "price": "付费",
+   "kw": [
+    "rev",
+    "转写",
+    "字幕",
+    "准确率",
+    "录音转文字",
+    "语音转文字",
+    "音频转文字",
+    "语音识别",
+    "听写",
+    "会议纪要"
+   ]
+  },
+  {
+   "name": "tl;dv",
+   "cat": "AI 视频音频",
+   "desc": "录会议并自动打时间戳",
+   "url": "https://tldv.io",
+   "price": "免费",
+   "kw": [
+    "tldv",
+    "会议录制",
+    "时间戳",
+    "纪要",
+    "远程会议"
+   ]
+  },
+  {
+   "name": "Meta AI",
+   "cat": "AI 对话",
+   "desc": "Meta 的大模型助手，问答和画图都有，需自备网络",
+   "url": "https://www.meta.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "meta",
+    "metaai",
+    "llama",
+    "羊驼",
+    "ai",
+    "对话"
+   ]
+  },
+  {
+   "name": "Monica",
+   "cat": "AI 对话",
+   "desc": "插件式 AI 助手，一键总结和翻译网页，需自备网络",
+   "url": "https://monica.im",
+   "price": "免费 + 付费",
+   "kw": [
+    "monica",
+    "浏览器插件",
+    "侧边栏",
+    "总结网页",
+    "ai",
+    "助手"
+   ]
+  },
+  {
+   "name": "ChatPDF",
+   "cat": "AI 对话",
+   "desc": "上传 PDF 直接提问，写论文常备，需自备网络",
+   "url": "https://www.chatpdf.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "chatpdf",
+    "读pdf",
+    "问文档",
+    "论文",
+    "ai"
+   ]
+  },
+  {
+   "name": "HuggingChat",
+   "cat": "AI 对话",
+   "desc": "抱抱脸的开源模型聊天，免费用，需自备网络",
+   "url": "https://huggingface.co/chat",
+   "price": "免费",
+   "kw": [
+    "huggingchat",
+    "抱抱脸",
+    "huggingface",
+    "开源",
+    "ai",
+    "聊天"
+   ]
+  },
+  {
+   "name": "Character.AI",
+   "cat": "AI 对话",
+   "desc": "和虚拟角色聊天，角色社区最大，需自备网络",
+   "url": "https://character.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "characterai",
+    "角色扮演",
+    "虚拟角色",
+    "陪聊",
+    "ai"
+   ]
+  },
+  {
+   "name": "Google AI Studio",
+   "cat": "AI 对话",
+   "desc": "谷歌官方模型试验台，能调参数，需自备网络",
+   "url": "https://aistudio.google.com",
+   "price": "免费",
+   "kw": [
+    "aistudio",
+    "谷歌",
+    "gemini",
+    "调参",
+    "api",
+    "ai"
+   ]
+  },
+  {
+   "name": "Civitai",
+   "cat": "AI 绘画",
+   "desc": "模型和风格包最大的社区，下载前看样例，需自备网络",
+   "url": "https://civitai.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "civitai",
+    "c站",
+    "模型下载",
+    "lora",
+    "ai绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Krea",
+   "cat": "AI 绘画",
+   "desc": "实时出图的 AI 画板，边画边生成，需自备网络",
+   "url": "https://www.krea.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "krea",
+    "实时生成",
+    "画板",
+    "ai绘图",
+    "设计",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "SeaArt",
+   "cat": "AI 绘画",
+   "desc": "在线 AI 绘画社区，模型提示词都有，需自备网络",
+   "url": "https://www.seaart.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "seaart",
+    "ai绘画",
+    "模型",
+    "社区",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "NightCafe",
+   "cat": "AI 绘画",
+   "desc": "AI 绘画社区，每天有免费额度，需自备网络",
+   "url": "https://creator.nightcafe.studio",
+   "price": "免费 + 付费",
+   "kw": [
+    "nightcafe",
+    "ai绘画",
+    "免费额度",
+    "社区",
+    "绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Lexica",
+   "cat": "AI 绘画",
+   "desc": "搜 AI 图和提示词，找参考最快，需自备网络",
+   "url": "https://lexica.art",
+   "price": "免费",
+   "kw": [
+    "lexica",
+    "提示词",
+    "找参考",
+    "ai绘图",
+    "搜图"
+   ]
+  },
+  {
+   "name": "Craiyon",
+   "cat": "AI 绘画",
+   "desc": "最简单的免费画图，出图粗糙但够玩，需自备网络",
+   "url": "https://www.craiyon.com",
+   "price": "免费",
+   "kw": [
+    "craiyon",
+    "免费画图",
+    "ai绘图",
+    "简单",
+    "生成",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Sora",
+   "cat": "AI 视频音频",
+   "desc": "OpenAI 的视频生成，画面连贯度最高，需自备网络",
+   "url": "https://sora.com",
+   "price": "付费",
+   "kw": [
+    "sora",
+    "openai",
+    "视频生成",
+    "文生视频",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "PlayHT",
+   "cat": "AI 视频音频",
+   "desc": "文字转语音，音色自然支持中文，需自备网络",
+   "url": "https://play.ht",
+   "price": "免费 + 付费",
+   "kw": [
+    "playht",
+    "文字转语音",
+    "配音",
+    "tts",
+    "中文",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "InVideo",
+   "cat": "AI 视频音频",
+   "desc": "模板加 AI，做营销短视频快，需自备网络",
+   "url": "https://invideo.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "invideo",
+    "营销视频",
+    "模板",
+    "短视频",
+    "ai视频"
+   ]
+  },
+  {
+   "name": "Getimg",
+   "cat": "AI 绘画",
+   "desc": "图片生成和编辑一体，扩图很好用，需自备网络",
+   "url": "https://getimg.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "getimg",
+    "扩图",
+    "图片编辑",
+    "ai绘图",
+    "生成",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Artbreeder",
+   "cat": "AI 绘画",
+   "desc": "混图造脸，人物设定常用，需自备网络",
+   "url": "https://www.artbreeder.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "artbreeder",
+    "造脸",
+    "人物设定",
+    "混图",
+    "ai绘图",
+    "画图",
+    "生图",
+    "出图",
+    "提示词",
+    "咒语",
+    "prompt",
+    "ai画画"
+   ]
+  },
+  {
+   "name": "Cohere",
+   "cat": "AI 对话",
+   "desc": "面向企业的模型，检索增强做得好，需自备网络",
+   "url": "https://cohere.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "cohere",
+    "企业",
+    "检索增强",
+    "rag",
+    "ai",
+    "api"
+   ]
+  },
+  {
+   "name": "TTSMaker",
+   "cat": "AI 视频音频",
+   "desc": "免费在线文字转语音，不用注册，需自备网络",
+   "url": "https://ttsmaker.com",
+   "price": "免费",
+   "kw": [
+    "ttsmaker",
+    "文字转语音",
+    "免费",
+    "tts",
+    "配音",
+    "语音合成",
+    "朗读",
+    "ai配音"
+   ]
+  },
+  {
+   "name": "Python",
+   "cat": "开发工具",
+   "desc": "官方站点，下载解释器和全套文档",
+   "url": "https://www.python.org",
+   "price": "开源免费",
+   "kw": [
+    "python",
+    "编程",
+    "脚本",
+    "语言",
+    "开发"
+   ]
+  },
+  {
+   "name": "Node.js",
+   "cat": "开发工具",
+   "desc": "服务端 JavaScript 运行环境",
+   "url": "https://nodejs.org",
+   "price": "开源免费",
+   "kw": [
+    "nodejs",
+    "node",
+    "javascript",
+    "js",
+    "后端",
+    "运行环境"
+   ]
+  },
+  {
+   "name": "Go",
+   "cat": "开发工具",
+   "desc": "谷歌出的编程语言，编译快部署省事",
+   "url": "https://go.dev",
+   "price": "开源免费",
+   "kw": [
+    "golang",
+    "go语言",
+    "编程",
+    "后端",
+    "开发"
+   ]
+  },
+  {
+   "name": "Rust",
+   "cat": "开发工具",
+   "desc": "内存安全的系统级语言，性能高",
+   "url": "https://www.rust-lang.org",
+   "price": "开源免费",
+   "kw": [
+    "rust",
+    "编程",
+    "系统语言",
+    "性能",
+    "开发"
+   ]
+  },
+  {
+   "name": "Deno",
+   "cat": "开发工具",
+   "desc": "Node 作者做的运行时，自带安全权限",
+   "url": "https://deno.com",
+   "price": "开源免费",
+   "kw": [
+    "deno",
+    "javascript",
+    "运行时",
+    "typescript",
+    "后端"
+   ]
+  },
+  {
+   "name": "Bun",
+   "cat": "开发工具",
+   "desc": "极快的 JS 运行时，打包测试一体",
+   "url": "https://bun.sh",
+   "price": "开源免费",
+   "kw": [
+    "bun",
+    "javascript",
+    "运行时",
+    "打包",
+    "快"
+   ]
+  },
+  {
+   "name": "React",
+   "cat": "开发工具",
+   "desc": "最主流的前端框架，组件化开发",
+   "url": "https://react.dev",
+   "price": "开源免费",
+   "kw": [
+    "react",
+    "前端",
+    "框架",
+    "组件",
+    "web"
+   ]
+  },
+  {
+   "name": "Vue",
+   "cat": "开发工具",
+   "desc": "上手快的前端框架，中文文档全",
+   "url": "https://vuejs.org",
+   "price": "开源免费",
+   "kw": [
+    "vue",
+    "前端",
+    "框架",
+    "中文文档",
+    "web"
+   ]
+  },
+  {
+   "name": "Next.js",
+   "cat": "开发工具",
+   "desc": "React 全栈框架，服务端渲染省心",
+   "url": "https://nextjs.org",
+   "price": "开源免费",
+   "kw": [
+    "nextjs",
+    "react",
+    "全栈",
+    "服务端渲染",
+    "ssr"
+   ]
+  },
+  {
+   "name": "Astro",
+   "cat": "开发工具",
+   "desc": "做内容站的框架，默认不加载 JS",
+   "url": "https://astro.build",
+   "price": "开源免费",
+   "kw": [
+    "astro",
+    "静态站",
+    "内容站",
+    "博客",
+    "框架"
+   ]
+  },
+  {
+   "name": "Tailwind CSS",
+   "cat": "开发工具",
+   "desc": "原子化 CSS，写样式不用起名",
+   "url": "https://tailwindcss.com",
+   "price": "开源免费",
+   "kw": [
+    "tailwind",
+    "css",
+    "样式",
+    "前端",
+    "原子化"
+   ]
+  },
+  {
+   "name": "shadcn/ui",
+   "cat": "开发工具",
+   "desc": "复制即用的组件库，改起来自由",
+   "url": "https://ui.shadcn.com",
+   "price": "开源免费",
+   "kw": [
+    "shadcn",
+    "组件库",
+    "ui",
+    "react",
+    "前端"
+   ]
+  },
+  {
+   "name": "Vite",
+   "cat": "开发工具",
+   "desc": "前端构建工具，启动和热更新极快",
+   "url": "https://vitejs.dev",
+   "price": "开源免费",
+   "kw": [
+    "vite",
+    "构建",
+    "打包",
+    "前端",
+    "快"
+   ]
+  },
+  {
+   "name": "pnpm",
+   "cat": "开发工具",
+   "desc": "省磁盘的包管理器，装依赖快",
+   "url": "https://pnpm.io",
+   "price": "开源免费",
+   "kw": [
+    "pnpm",
+    "包管理",
+    "npm",
+    "依赖",
+    "nodejs"
+   ]
+  },
+  {
+   "name": "npm",
+   "cat": "开发工具",
+   "desc": "JS 包仓库，找依赖都在这",
+   "url": "https://www.npmjs.com",
+   "price": "免费",
+   "kw": [
+    "npm",
+    "包仓库",
+    "依赖",
+    "nodejs",
+    "javascript"
+   ]
+  },
+  {
+   "name": "PyPI",
+   "cat": "开发工具",
+   "desc": "Python 包仓库，pip 装的东西都在这",
+   "url": "https://pypi.org",
+   "price": "免费",
+   "kw": [
+    "pypi",
+    "pip",
+    "python",
+    "包仓库",
+    "依赖"
+   ]
+  },
+  {
+   "name": "jsDelivr",
+   "cat": "开发工具",
+   "desc": "免费的 CDN，引 JS 和字体很快",
+   "url": "https://www.jsdelivr.com",
+   "price": "免费",
+   "kw": [
+    "jsdelivr",
+    "cdn",
+    "加速",
+    "前端",
+    "免费"
+   ]
+  },
+  {
+   "name": "Homebrew",
+   "cat": "开发工具",
+   "desc": "Mac 上的包管理器，装软件一条命令",
+   "url": "https://brew.sh",
+   "price": "开源免费",
+   "kw": [
+    "homebrew",
+    "brew",
+    "mac",
+    "包管理",
+    "安装"
+   ]
+  },
+  {
+   "name": "Bitbucket",
+   "cat": "开发工具",
+   "desc": "Atlassian 的代码托管，私有库免费",
+   "url": "https://bitbucket.org",
+   "price": "免费 + 付费",
+   "kw": [
+    "bitbucket",
+    "代码托管",
+    "git",
+    "私有库",
+    "仓库"
+   ]
+  },
+  {
+   "name": "Gitea",
+   "cat": "开发工具",
+   "desc": "轻量自建 Git 服务，一台小机器就够",
+   "url": "https://gitea.com",
+   "price": "开源免费",
+   "kw": [
+    "gitea",
+    "git",
+    "自建",
+    "代码托管",
+    "轻量"
+   ]
+  },
+  {
+   "name": "Codeberg",
+   "cat": "开发工具",
+   "desc": "非营利 Git 托管，无广告不追踪",
+   "url": "https://codeberg.org",
+   "price": "免费",
+   "kw": [
+    "codeberg",
+    "git",
+    "代码托管",
+    "开源",
+    "免费"
+   ]
+  },
+  {
+   "name": "Sourcegraph",
+   "cat": "开发工具",
+   "desc": "跨仓库搜代码，读大项目快",
+   "url": "https://sourcegraph.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "sourcegraph",
+    "搜代码",
+    "代码搜索",
+    "开源",
+    "阅读源码"
+   ]
+  },
+  {
+   "name": "Fly.io",
+   "cat": "开发工具",
+   "desc": "部署应用到全球节点，配置简单",
+   "url": "https://fly.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "flyio",
+    "部署",
+    "云主机",
+    "容器",
+    "上线"
+   ]
+  },
+  {
+   "name": "Railway",
+   "cat": "开发工具",
+   "desc": "连上仓库就自动部署，省运维",
+   "url": "https://railway.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "railway",
+    "部署",
+    "自动部署",
+    "云",
+    "上线"
+   ]
+  },
+  {
+   "name": "Supabase",
+   "cat": "开发工具",
+   "desc": "开源版 Firebase，数据库带登录存储",
+   "url": "https://supabase.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "supabase",
+    "后端",
+    "数据库",
+    "登录",
+    "开源firebase"
+   ]
+  },
+  {
+   "name": "Appwrite",
+   "cat": "开发工具",
+   "desc": "开源自托管后端，能自己部署",
+   "url": "https://appwrite.io",
+   "price": "开源免费",
+   "kw": [
+    "appwrite",
+    "后端",
+    "开源",
+    "自建",
+    "baas"
+   ]
+  },
+  {
+   "name": "PocketBase",
+   "cat": "开发工具",
+   "desc": "单文件后端，一个可执行文件搞定",
+   "url": "https://pocketbase.io",
+   "price": "开源免费",
+   "kw": [
+    "pocketbase",
+    "后端",
+    "单文件",
+    "sqlite",
+    "轻量"
+   ]
+  },
+  {
+   "name": "Cloudflare Pages",
+   "cat": "开发工具",
+   "desc": "静态站免费托管，全球加速",
+   "url": "https://pages.cloudflare.com",
+   "price": "免费",
+   "kw": [
+    "cloudflare",
+    "静态站",
+    "托管",
+    "免费",
+    "部署"
+   ]
+  },
+  {
+   "name": "Gitpod",
+   "cat": "开发工具",
+   "desc": "浏览器里的开发环境，打开就写",
+   "url": "https://www.gitpod.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "gitpod",
+    "云端ide",
+    "开发环境",
+    "浏览器",
+    "远程开发"
+   ]
+  },
+  {
+   "name": "CodeSandbox",
+   "cat": "开发工具",
+   "desc": "在线写前端，不用装环境",
+   "url": "https://codesandbox.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "codesandbox",
+    "在线编辑器",
+    "前端",
+    "沙箱",
+    "免安装"
+   ]
+  },
+  {
+   "name": "MariaDB",
+   "cat": "开发工具",
+   "desc": "MySQL 分支，完全兼容更好维护",
+   "url": "https://mariadb.org",
+   "price": "开源免费",
+   "kw": [
+    "mariadb",
+    "数据库",
+    "mysql",
+    "开源",
+    "关系型"
+   ]
+  },
+  {
+   "name": "PlanetScale",
+   "cat": "开发工具",
+   "desc": "托管 MySQL，改表不用停机",
+   "url": "https://planetscale.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "planetscale",
+    "mysql",
+    "云数据库",
+    "托管",
+    "数据库"
+   ]
+  },
+  {
+   "name": "Turso",
+   "cat": "开发工具",
+   "desc": "分布式的 SQLite，边缘读取快",
+   "url": "https://turso.tech",
+   "price": "免费 + 付费",
+   "kw": [
+    "turso",
+    "sqlite",
+    "边缘",
+    "数据库",
+    "分布式"
+   ]
+  },
+  {
+   "name": "CockroachDB",
+   "cat": "开发工具",
+   "desc": "分布式数据库，跨机房强一致",
+   "url": "https://www.cockroachlabs.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "cockroachdb",
+    "分布式数据库",
+    "容灾",
+    "sql",
+    "集群"
+   ]
+  },
+  {
+   "name": "InfluxDB",
+   "cat": "开发工具",
+   "desc": "时序数据库，监控指标专用",
+   "url": "https://www.influxdata.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "influxdb",
+    "时序数据库",
+    "监控",
+    "指标",
+    "iot"
+   ]
+  },
+  {
+   "name": "Elasticsearch",
+   "cat": "开发工具",
+   "desc": "全文搜索和日志分析引擎",
+   "url": "https://www.elastic.co",
+   "price": "免费 + 付费",
+   "kw": [
+    "elasticsearch",
+    "搜索",
+    "日志",
+    "全文检索",
+    "elk"
+   ]
+  },
+  {
+   "name": "TablePlus",
+   "cat": "开发工具",
+   "desc": "多数据库客户端，界面清爽",
+   "url": "https://tableplus.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "tableplus",
+    "数据库客户端",
+    "gui",
+    "sql",
+    "连接"
+   ]
+  },
+  {
+   "name": "Beekeeper Studio",
+   "cat": "开发工具",
+   "desc": "开源数据库客户端，能连多种库",
+   "url": "https://www.beekeeperstudio.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "beekeeper",
+    "数据库客户端",
+    "开源",
+    "sql",
+    "gui"
+   ]
+  },
+  {
+   "name": "MySQL Workbench",
+   "cat": "开发工具",
+   "desc": "MySQL 官方客户端，建模调优都能做",
+   "url": "https://www.mysql.com/products/workbench/",
+   "price": "免费",
+   "kw": [
+    "mysqlworkbench",
+    "mysql",
+    "客户端",
+    "建模",
+    "官方"
+   ]
+  },
+  {
+   "name": "Kubernetes",
+   "cat": "开发工具",
+   "desc": "容器编排标准，集群运维的基础",
+   "url": "https://kubernetes.io",
+   "price": "开源免费",
+   "kw": [
+    "k8s",
+    "kubernetes",
+    "容器",
+    "编排",
+    "运维"
+   ]
+  },
+  {
+   "name": "Lens",
+   "cat": "开发工具",
+   "desc": "K8s 图形界面，管集群不用背命令",
+   "url": "https://k8slens.dev",
+   "price": "免费",
+   "kw": [
+    "lens",
+    "k8s",
+    "容器",
+    "图形界面",
+    "集群"
+   ]
+  },
+  {
+   "name": "Nginx",
+   "cat": "开发工具",
+   "desc": "反向代理和静态服务器，最常用的那个",
+   "url": "https://nginx.org",
+   "price": "开源免费",
+   "kw": [
+    "nginx",
+    "反向代理",
+    "web服务器",
+    "负载均衡",
+    "静态"
+   ]
+  },
+  {
+   "name": "Caddy",
+   "cat": "开发工具",
+   "desc": "自动申请证书的 Web 服务器",
+   "url": "https://caddyserver.com",
+   "price": "开源免费",
+   "kw": [
+    "caddy",
+    "web服务器",
+    "https",
+    "证书",
+    "反向代理"
+   ]
+  },
+  {
+   "name": "Traefik",
+   "cat": "开发工具",
+   "desc": "容器环境的反向代理，配置自动发现",
+   "url": "https://traefik.io",
+   "price": "开源免费",
+   "kw": [
+    "traefik",
+    "反向代理",
+    "容器",
+    "docker",
+    "网关"
+   ]
+  },
+  {
+   "name": "RabbitMQ",
+   "cat": "开发工具",
+   "desc": "消息队列，任务异步处理常用",
+   "url": "https://www.rabbitmq.com",
+   "price": "开源免费",
+   "kw": [
+    "rabbitmq",
+    "消息队列",
+    "异步",
+    "mq",
+    "中间件"
+   ]
+  },
+  {
+   "name": "Kafka",
+   "cat": "开发工具",
+   "desc": "高吞吐消息流平台，日志管道常用",
+   "url": "https://kafka.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "kafka",
+    "消息队列",
+    "流处理",
+    "日志",
+    "大数据"
+   ]
+  },
+  {
+   "name": "Ansible",
+   "cat": "开发工具",
+   "desc": "批量配置服务器，不用装客户端",
+   "url": "https://www.ansible.com",
+   "price": "开源免费",
+   "kw": [
+    "ansible",
+    "运维",
+    "自动化",
+    "配置管理",
+    "批量"
+   ]
+  },
+  {
+   "name": "Terraform",
+   "cat": "开发工具",
+   "desc": "用代码管云资源，改完能回滚",
+   "url": "https://www.terraform.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "terraform",
+    "iac",
+    "基础设施",
+    "云资源",
+    "运维"
+   ]
+  },
+  {
+   "name": "Pulumi",
+   "cat": "开发工具",
+   "desc": "用编程语言写基础设施，比配置语言灵活",
+   "url": "https://www.pulumi.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pulumi",
+    "iac",
+    "基础设施",
+    "代码",
+    "云"
+   ]
+  },
+  {
+   "name": "Sentry",
+   "cat": "开发工具",
+   "desc": "线上报错监控，能看到堆栈和现场",
+   "url": "https://sentry.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "sentry",
+    "报错监控",
+    "异常",
+    "日志",
+    "线上"
+   ]
+  },
+  {
+   "name": "Datadog",
+   "cat": "开发工具",
+   "desc": "全栈监控平台，指标日志链路一起看",
+   "url": "https://www.datadoghq.com",
+   "price": "付费",
+   "kw": [
+    "datadog",
+    "监控",
+    "apm",
+    "日志",
+    "指标"
+   ]
+  },
+  {
+   "name": "PostHog",
+   "cat": "开发工具",
+   "desc": "开源产品分析，埋点加录屏一起",
+   "url": "https://posthog.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "posthog",
+    "埋点",
+    "产品分析",
+    "开源",
+    "数据分析"
+   ]
+  },
+  {
+   "name": "Plausible",
+   "cat": "开发工具",
+   "desc": "轻量网站统计，不采集个人信息",
+   "url": "https://plausible.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "plausible",
+    "网站统计",
+    "隐私",
+    "流量",
+    "分析"
+   ]
+  },
+  {
+   "name": "Umami",
+   "cat": "开发工具",
+   "desc": "自建网站统计，替代谷歌统计",
+   "url": "https://umami.is",
+   "price": "开源免费",
+   "kw": [
+    "umami",
+    "网站统计",
+    "自建",
+    "开源",
+    "流量"
+   ]
+  },
+  {
+   "name": "OpenTelemetry",
+   "cat": "开发工具",
+   "desc": "可观测性标准，日志指标链路统一",
+   "url": "https://opentelemetry.io",
+   "price": "开源免费",
+   "kw": [
+    "opentelemetry",
+    "otel",
+    "可观测",
+    "监控",
+    "链路追踪"
+   ]
+  },
+  {
+   "name": "Playwright",
+   "cat": "开发工具",
+   "desc": "浏览器自动化测试，爬虫也好用",
+   "url": "https://playwright.dev",
+   "price": "开源免费",
+   "kw": [
+    "playwright",
+    "自动化测试",
+    "爬虫",
+    "浏览器",
+    "e2e"
+   ]
+  },
+  {
+   "name": "Cypress",
+   "cat": "开发工具",
+   "desc": "前端端到端测试，调试体验好",
+   "url": "https://www.cypress.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "cypress",
+    "e2e",
+    "测试",
+    "前端",
+    "自动化"
+   ]
+  },
+  {
+   "name": "Selenium",
+   "cat": "开发工具",
+   "desc": "老牌浏览器自动化，生态最全",
+   "url": "https://www.selenium.dev",
+   "price": "开源免费",
+   "kw": [
+    "selenium",
+    "自动化",
+    "测试",
+    "爬虫",
+    "浏览器"
+   ]
+  },
+  {
+   "name": "k6",
+   "cat": "开发工具",
+   "desc": "压测工具，脚本用 JS 写",
+   "url": "https://k6.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "k6",
+    "压测",
+    "性能测试",
+    "负载",
+    "并发"
+   ]
+  },
+  {
+   "name": "JMeter",
+   "cat": "开发工具",
+   "desc": "老牌压测工具，图形界面配置",
+   "url": "https://jmeter.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "jmeter",
+    "压测",
+    "性能测试",
+    "负载",
+    "接口"
+   ]
+  },
+  {
+   "name": "Mockoon",
+   "cat": "开发工具",
+   "desc": "本地模拟接口，前后端联调不用等",
+   "url": "https://mockoon.com",
+   "price": "开源免费",
+   "kw": [
+    "mockoon",
+    "mock",
+    "模拟接口",
+    "联调",
+    "接口"
+   ]
+  },
+  {
+   "name": "ESLint",
+   "cat": "开发工具",
+   "desc": "JS 代码检查，统一团队风格",
+   "url": "https://eslint.org",
+   "price": "开源免费",
+   "kw": [
+    "eslint",
+    "代码检查",
+    "规范",
+    "javascript",
+    "lint"
+   ]
+  },
+  {
+   "name": "Prettier",
+   "cat": "开发工具",
+   "desc": "代码格式化，保存就自动排版",
+   "url": "https://prettier.io",
+   "price": "开源免费",
+   "kw": [
+    "prettier",
+    "格式化",
+    "排版",
+    "代码风格",
+    "lint"
+   ]
+  },
+  {
+   "name": "Biome",
+   "cat": "开发工具",
+   "desc": "检查加格式化二合一，比 ESLint 快",
+   "url": "https://biomejs.dev",
+   "price": "开源免费",
+   "kw": [
+    "biome",
+    "格式化",
+    "代码检查",
+    "快",
+    "lint"
+   ]
+  },
+  {
+   "name": "SonarQube",
+   "cat": "开发工具",
+   "desc": "代码质量扫描，找坏味道和漏洞",
+   "url": "https://www.sonarsource.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "sonarqube",
+    "代码质量",
+    "扫描",
+    "漏洞",
+    "审查"
+   ]
+  },
+  {
+   "name": "Snyk",
+   "cat": "开发工具",
+   "desc": "依赖漏洞扫描，装包前先查一遍",
+   "url": "https://snyk.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "snyk",
+    "漏洞扫描",
+    "依赖",
+    "安全",
+    "供应链"
+   ]
+  },
+  {
+   "name": "n8n",
+   "cat": "开发工具",
+   "desc": "开源自动化工作流，能自己部署",
+   "url": "https://n8n.io",
+   "price": "开源免费",
+   "kw": [
+    "n8n",
+    "自动化",
+    "工作流",
+    "开源",
+    "定时任务"
+   ]
+  },
+  {
+   "name": "Node-RED",
+   "cat": "开发工具",
+   "desc": "拖节点连线做物联网自动化",
+   "url": "https://nodered.org",
+   "price": "开源免费",
+   "kw": [
+    "nodered",
+    "自动化",
+    "物联网",
+    "流程",
+    "拖拽"
+   ]
+  },
+  {
+   "name": "NocoDB",
+   "cat": "开发工具",
+   "desc": "把数据库变成表格界面，像用 Excel",
+   "url": "https://nocodb.com",
+   "price": "开源免费",
+   "kw": [
+    "nocodb",
+    "表格",
+    "数据库",
+    "低代码",
+    "开源"
+   ]
+  },
+  {
+   "name": "Budibase",
+   "cat": "开发工具",
+   "desc": "低代码搭内部工具，半天出系统",
+   "url": "https://budibase.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "budibase",
+    "低代码",
+    "内部工具",
+    "建站",
+    "表单"
+   ]
+  },
+  {
+   "name": "ToolJet",
+   "cat": "开发工具",
+   "desc": "开源低代码平台，连数据库拖界面",
+   "url": "https://tooljet.com",
+   "price": "开源免费",
+   "kw": [
+    "tooljet",
+    "低代码",
+    "内部工具",
+    "开源",
+    "拖拽"
+   ]
+  },
+  {
+   "name": "HTTPie",
+   "cat": "开发工具",
+   "desc": "命令行调接口，比 curl 好读",
+   "url": "https://httpie.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "httpie",
+    "接口调试",
+    "命令行",
+    "http",
+    "api"
+   ]
+  },
+  {
+   "name": "jq",
+   "cat": "开发工具",
+   "desc": "命令行处理 JSON，提取字段神器",
+   "url": "https://jqlang.github.io/jq/",
+   "price": "开源免费",
+   "kw": [
+    "jq",
+    "json",
+    "命令行",
+    "解析",
+    "脚本"
+   ]
+  },
+  {
+   "name": "fzf",
+   "cat": "开发工具",
+   "desc": "命令行模糊搜索，找文件找历史",
+   "url": "https://github.com/junegunn/fzf",
+   "price": "开源免费",
+   "kw": [
+    "fzf",
+    "模糊搜索",
+    "命令行",
+    "终端",
+    "搜索"
+   ]
+  },
+  {
+   "name": "tmux",
+   "cat": "开发工具",
+   "desc": "终端复用，断线不中断任务",
+   "url": "https://github.com/tmux/tmux",
+   "price": "开源免费",
+   "kw": [
+    "tmux",
+    "终端",
+    "会话",
+    "linux",
+    "远程"
+   ]
+  },
+  {
+   "name": "Starship",
+   "cat": "开发工具",
+   "desc": "跨 shell 的命令行提示符，信息一眼看清",
+   "url": "https://starship.rs",
+   "price": "开源免费",
+   "kw": [
+    "starship",
+    "终端",
+    "提示符",
+    "shell",
+    "美化"
+   ]
+  },
+  {
+   "name": "Docusaurus",
+   "cat": "开发工具",
+   "desc": "搭文档站最快，写 Markdown 就行",
+   "url": "https://docusaurus.io",
+   "price": "开源免费",
+   "kw": [
+    "docusaurus",
+    "文档站",
+    "markdown",
+    "建站",
+    "文档"
+   ]
+  },
+  {
+   "name": "VitePress",
+   "cat": "开发工具",
+   "desc": "轻量文档站生成器，出页面快",
+   "url": "https://vitepress.dev",
+   "price": "开源免费",
+   "kw": [
+    "vitepress",
+    "文档站",
+    "静态站",
+    "markdown",
+    "建站"
+   ]
+  },
+  {
+   "name": "Mermaid",
+   "cat": "开发工具",
+   "desc": "用文字画流程图，Markdown 里能渲染",
+   "url": "https://mermaid.js.org",
+   "price": "开源免费",
+   "kw": [
+    "mermaid",
+    "流程图",
+    "图表",
+    "markdown",
+    "画图"
+   ]
+  },
+  {
+   "name": "PlantUML",
+   "cat": "开发工具",
+   "desc": "文字转 UML 图，写文档配图快",
+   "url": "https://plantuml.com",
+   "price": "开源免费",
+   "kw": [
+    "plantuml",
+    "uml",
+    "时序图",
+    "架构图",
+    "画图"
+   ]
+  },
+  {
+   "name": "Carbon",
+   "cat": "开发工具",
+   "desc": "把代码变成好看的图片，发帖用",
+   "url": "https://carbon.now.sh",
+   "price": "免费",
+   "kw": [
+    "carbon",
+    "代码截图",
+    "配图",
+    "分享",
+    "代码"
+   ]
+  },
+  {
+   "name": "RapidAPI",
+   "cat": "开发工具",
+   "desc": "接口市场，找现成 API 接进来",
+   "url": "https://rapidapi.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "rapidapi",
+    "api市场",
+    "接口",
+    "第三方",
+    "集成"
+   ]
+  },
+  {
+   "name": "Swagger",
+   "cat": "开发工具",
+   "desc": "接口文档标准，写完能直接调试",
+   "url": "https://swagger.io",
+   "price": "开源免费",
+   "kw": [
+    "swagger",
+    "openapi",
+    "接口文档",
+    "api",
+    "调试"
+   ]
+  },
+  {
+   "name": "Apache ECharts",
+   "cat": "数据分析",
+   "desc": "百度出的图表库，中文文档全",
+   "url": "https://echarts.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "echarts",
+    "图表",
+    "可视化",
+    "前端",
+    "开源"
+   ]
+  },
+  {
+   "name": "Plotly",
+   "cat": "数据分析",
+   "desc": "交互式图表，Python 和 JS 都能用",
+   "url": "https://plotly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "plotly",
+    "图表",
+    "可视化",
+    "python",
+    "交互"
+   ]
+  },
+  {
+   "name": "Chart.js",
+   "cat": "数据分析",
+   "desc": "轻量图表库，几行代码出图",
+   "url": "https://www.chartjs.org",
+   "price": "开源免费",
+   "kw": [
+    "chartjs",
+    "图表",
+    "可视化",
+    "前端",
+    "轻量"
+   ]
+  },
+  {
+   "name": "Datawrapper",
+   "cat": "数据分析",
+   "desc": "记者用的制图工具，出图专业",
+   "url": "https://www.datawrapper.de",
+   "price": "免费 + 付费",
+   "kw": [
+    "datawrapper",
+    "图表",
+    "制图",
+    "数据新闻",
+    "可视化"
+   ]
+  },
+  {
+   "name": "Flourish",
+   "cat": "数据分析",
+   "desc": "做动态图表和数据故事，模板多",
+   "url": "https://flourish.studio",
+   "price": "免费 + 付费",
+   "kw": [
+    "flourish",
+    "动态图表",
+    "数据故事",
+    "可视化",
+    "模板"
+   ]
+  },
+  {
+   "name": "Observable",
+   "cat": "数据分析",
+   "desc": "在线写 D3 的可视化笔记本",
+   "url": "https://observablehq.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "observable",
+    "d3",
+    "可视化",
+    "笔记本",
+    "在线"
+   ]
+  },
+  {
+   "name": "Redash",
+   "cat": "数据分析",
+   "desc": "开源 BI 工具，连库写 SQL 出图",
+   "url": "https://redash.io",
+   "price": "开源免费",
+   "kw": [
+    "redash",
+    "bi",
+    "报表",
+    "sql",
+    "开源"
+   ]
+  },
+  {
+   "name": "Apache Doris",
+   "cat": "数据分析",
+   "desc": "实时分析数据库，查询毫秒级",
+   "url": "https://doris.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "doris",
+    "数据库",
+    "实时分析",
+    "olap",
+    "开源"
+   ]
+  },
+  {
+   "name": "StarRocks",
+   "cat": "数据分析",
+   "desc": "高性能分析库，替代 ClickHouse 的选择",
+   "url": "https://www.starrocks.io",
+   "price": "开源免费",
+   "kw": [
+    "starrocks",
+    "olap",
+    "分析数据库",
+    "查询",
+    "开源"
+   ]
+  },
+  {
+   "name": "Trino",
+   "cat": "数据分析",
+   "desc": "跨数据源查询引擎，一个 SQL 查多处",
+   "url": "https://trino.io",
+   "price": "开源免费",
+   "kw": [
+    "trino",
+    "presto",
+    "查询引擎",
+    "跨库",
+    "大数据"
+   ]
+  },
+  {
+   "name": "Apache Spark",
+   "cat": "数据分析",
+   "desc": "大数据处理引擎，批流一体",
+   "url": "https://spark.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "spark",
+    "大数据",
+    "批处理",
+    "流计算",
+    "开源"
+   ]
+  },
+  {
+   "name": "Airflow",
+   "cat": "数据分析",
+   "desc": "调度数据任务，依赖关系可视化",
+   "url": "https://airflow.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "airflow",
+    "调度",
+    "任务",
+    "数据管道",
+    "etl"
+   ]
+  },
+  {
+   "name": "dbt",
+   "cat": "数据分析",
+   "desc": "用 SQL 做数据转换，版本可控",
+   "url": "https://www.getdbt.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "dbt",
+    "数据转换",
+    "sql",
+    "etl",
+    "数据建模"
+   ]
+  },
+  {
+   "name": "Polars",
+   "cat": "数据分析",
+   "desc": "比 pandas 快的表格库，内存占用低",
+   "url": "https://pola.rs",
+   "price": "开源免费",
+   "kw": [
+    "polars",
+    "dataframe",
+    "python",
+    "快",
+    "表格处理"
+   ]
+  },
+  {
+   "name": "pandas",
+   "cat": "数据分析",
+   "desc": "Python 表格处理标准库，几乎人人用",
+   "url": "https://pandas.pydata.org",
+   "price": "开源免费",
+   "kw": [
+    "pandas",
+    "python",
+    "数据处理",
+    "表格",
+    "dataframe"
+   ]
+  },
+  {
+   "name": "NumPy",
+   "cat": "数据分析",
+   "desc": "Python 数值计算基础库，数组运算快",
+   "url": "https://numpy.org",
+   "price": "开源免费",
+   "kw": [
+    "numpy",
+    "python",
+    "数值计算",
+    "数组",
+    "科学计算"
+   ]
+  },
+  {
+   "name": "scikit-learn",
+   "cat": "数据分析",
+   "desc": "经典机器学习库，分类回归聚类都有",
+   "url": "https://scikit-learn.org",
+   "price": "开源免费",
+   "kw": [
+    "sklearn",
+    "机器学习",
+    "python",
+    "建模",
+    "算法"
+   ]
+  },
+  {
+   "name": "PyTorch",
+   "cat": "数据分析",
+   "desc": "深度学习框架，研究和工业界都用",
+   "url": "https://pytorch.org",
+   "price": "开源免费",
+   "kw": [
+    "pytorch",
+    "深度学习",
+    "神经网络",
+    "训练",
+    "框架"
+   ]
+  },
+  {
+   "name": "Weights & Biases",
+   "cat": "数据分析",
+   "desc": "训练实验记录，对比不同参数效果",
+   "url": "https://wandb.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "wandb",
+    "实验记录",
+    "模型训练",
+    "调参",
+    "mlops"
+   ]
+  },
+  {
+   "name": "MLflow",
+   "cat": "数据分析",
+   "desc": "模型生命周期管理，实验和部署都管",
+   "url": "https://mlflow.org",
+   "price": "开源免费",
+   "kw": [
+    "mlflow",
+    "模型管理",
+    "mlops",
+    "实验",
+    "部署"
+   ]
+  },
+  {
+   "name": "H2O.ai",
+   "cat": "数据分析",
+   "desc": "自动机器学习平台，少写代码出模型",
+   "url": "https://h2o.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "h2o",
+    "automl",
+    "机器学习",
+    "建模",
+    "自动"
+   ]
+  },
+  {
+   "name": "KNIME",
+   "cat": "数据分析",
+   "desc": "拖拽式数据分析，不用写代码",
+   "url": "https://www.knime.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "knime",
+    "拖拽",
+    "数据分析",
+    "无代码",
+    "工作流"
+   ]
+  },
+  {
+   "name": "Orange",
+   "cat": "数据分析",
+   "desc": "可视化数据挖掘，教学和探索好用",
+   "url": "https://orangedatamining.com",
+   "price": "开源免费",
+   "kw": [
+    "orange",
+    "数据挖掘",
+    "可视化",
+    "教学",
+    "开源"
+   ]
+  },
+  {
+   "name": "Hex",
+   "cat": "数据分析",
+   "desc": "团队协作的 SQL 和 Python 笔记本",
+   "url": "https://hex.tech",
+   "price": "免费 + 付费",
+   "kw": [
+    "hex",
+    "笔记本",
+    "sql",
+    "python",
+    "协作"
+   ]
+  },
+  {
+   "name": "Deepnote",
+   "cat": "数据分析",
+   "desc": "云端数据笔记本，多人实时编辑",
+   "url": "https://deepnote.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "deepnote",
+    "笔记本",
+    "协作",
+    "云端",
+    "python"
+   ]
+  },
+  {
+   "name": "Kaggle",
+   "cat": "数据分析",
+   "desc": "数据竞赛平台，数据集和笔记本都免费",
+   "url": "https://www.kaggle.com",
+   "price": "免费",
+   "kw": [
+    "kaggle",
+    "数据竞赛",
+    "数据集",
+    "练习",
+    "免费"
+   ]
+  },
+  {
+   "name": "Google Colab",
+   "cat": "数据分析",
+   "desc": "免费 GPU 笔记本，跑模型不用买卡",
+   "url": "https://colab.research.google.com",
+   "price": "免费",
+   "kw": [
+    "colab",
+    "免费gpu",
+    "笔记本",
+    "python",
+    "训练"
+   ]
+  },
+  {
+   "name": "FineReport",
+   "cat": "数据分析",
+   "desc": "国产报表工具，中国式复杂报表能画",
+   "url": "https://www.fanruan.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "finereport",
+    "帆软",
+    "报表",
+    "看板",
+    "国内"
+   ]
+  },
+  {
+   "name": "神策数据",
+   "cat": "数据分析",
+   "desc": "用户行为分析，埋点和漏斗都能做",
+   "url": "https://www.sensorsdata.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "神策",
+    "sensors",
+    "埋点",
+    "用户分析",
+    "国内"
+   ]
+  },
+  {
+   "name": "Render",
+   "cat": "开发工具",
+   "desc": "免费额度部署 Web 服务，够做小项目，需自备网络",
+   "url": "https://render.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "render",
+    "部署",
+    "免费",
+    "云",
+    "上线"
+   ]
+  },
+  {
+   "name": "Firebase",
+   "cat": "开发工具",
+   "desc": "谷歌的后端服务，登录数据库推送全有，需自备网络",
+   "url": "https://firebase.google.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "firebase",
+    "后端",
+    "谷歌",
+    "数据库",
+    "登录"
+   ]
+  },
+  {
+   "name": "Neon",
+   "cat": "开发工具",
+   "desc": "Serverless Postgres，按用量计费，需自备网络",
+   "url": "https://neon.tech",
+   "price": "免费 + 付费",
+   "kw": [
+    "neon",
+    "postgres",
+    "serverless",
+    "数据库",
+    "云"
+   ]
+  },
+  {
+   "name": "Looker Studio",
+   "cat": "数据分析",
+   "desc": "谷歌的免费报表工具，连数据源出看板，需自备网络",
+   "url": "https://lookerstudio.google.com",
+   "price": "免费",
+   "kw": [
+    "lookerstudio",
+    "报表",
+    "看板",
+    "谷歌",
+    "免费"
+   ]
+  },
+  {
+   "name": "TensorFlow",
+   "cat": "数据分析",
+   "desc": "谷歌的深度学习框架，部署方案全，需自备网络",
+   "url": "https://www.tensorflow.org",
+   "price": "开源免费",
+   "kw": [
+    "tensorflow",
+    "深度学习",
+    "谷歌",
+    "训练",
+    "框架"
+   ]
+  },
+  {
+   "name": "Trello",
+   "cat": "效率办公",
+   "desc": "看板式任务管理，拖卡片就行",
+   "url": "https://trello.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "trello",
+    "看板",
+    "任务",
+    "卡片",
+    "项目"
+   ]
+  },
+  {
+   "name": "Asana",
+   "cat": "效率办公",
+   "desc": "团队任务和排期，跨国团队常用",
+   "url": "https://asana.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "asana",
+    "任务",
+    "排期",
+    "团队",
+    "项目"
+   ]
+  },
+  {
+   "name": "Jira",
+   "cat": "效率办公",
+   "desc": "研发缺陷和迭代管理，敏捷标配",
+   "url": "https://www.atlassian.com/software/jira",
+   "price": "免费 + 付费",
+   "kw": [
+    "jira",
+    "缺陷",
+    "迭代",
+    "敏捷",
+    "研发",
+    "项目管理"
+   ]
+  },
+  {
+   "name": "Monday.com",
+   "cat": "效率办公",
+   "desc": "可视化项目管理，模板很多",
+   "url": "https://monday.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "monday",
+    "项目管理",
+    "可视化",
+    "模板",
+    "团队"
+   ]
+  },
+  {
+   "name": "ClickUp",
+   "cat": "效率办公",
+   "desc": "任务文档目标一个工具全管",
+   "url": "https://clickup.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "clickup",
+    "任务",
+    "文档",
+    "目标",
+    "项目",
+    "全能"
+   ]
+  },
+  {
+   "name": "Linear",
+   "cat": "效率办公",
+   "desc": "研发团队的任务工具，速度快",
+   "url": "https://linear.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "linear",
+    "任务",
+    "研发",
+    "缺陷",
+    "快"
+   ]
+  },
+  {
+   "name": "Teambition",
+   "cat": "效率办公",
+   "desc": "阿里的项目协作，国内团队顺手",
+   "url": "https://www.teambition.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "teambition",
+    "项目",
+    "协作",
+    "阿里",
+    "国内",
+    "任务"
+   ]
+  },
+  {
+   "name": "PingCode",
+   "cat": "效率办公",
+   "desc": "国产研发管理，需求迭代测试都管",
+   "url": "https://pingcode.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pingcode",
+    "研发",
+    "需求",
+    "迭代",
+    "测试",
+    "国产"
+   ]
+  },
+  {
+   "name": "Tower",
+   "cat": "效率办公",
+   "desc": "国内老牌项目协作，简单够用",
+   "url": "https://tower.im",
+   "price": "免费 + 付费",
+   "kw": [
+    "tower",
+    "项目",
+    "协作",
+    "轻量",
+    "国内",
+    "任务"
+   ]
+  },
+  {
+   "name": "Slack",
+   "cat": "效率办公",
+   "desc": "团队聊天，频道分开事不混",
+   "url": "https://slack.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "slack",
+    "聊天",
+    "团队",
+    "频道",
+    "沟通"
+   ]
+  },
+  {
+   "name": "Confluence",
+   "cat": "效率办公",
+   "desc": "团队知识库，和 Jira 打通",
+   "url": "https://www.atlassian.com/software/confluence",
+   "price": "免费 + 付费",
+   "kw": [
+    "confluence",
+    "知识库",
+    "文档",
+    "团队",
+    "jira"
+   ]
+  },
+  {
+   "name": "Outline",
+   "cat": "效率办公",
+   "desc": "开源团队 Wiki，界面清爽",
+   "url": "https://www.getoutline.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "outline",
+    "wiki",
+    "知识库",
+    "文档",
+    "开源"
+   ]
+  },
+  {
+   "name": "Wiki.js",
+   "cat": "效率办公",
+   "desc": "自建知识库，支持多人编辑",
+   "url": "https://js.wiki",
+   "price": "开源免费",
+   "kw": [
+    "wikijs",
+    "知识库",
+    "自建",
+    "文档",
+    "开源"
+   ]
+  },
+  {
+   "name": "BookStack",
+   "cat": "效率办公",
+   "desc": "开源文档管理，结构像书架",
+   "url": "https://www.bookstackapp.com",
+   "price": "开源免费",
+   "kw": [
+    "bookstack",
+    "文档",
+    "知识库",
+    "开源",
+    "自建"
+   ]
+  },
+  {
+   "name": "Airtable",
+   "cat": "效率办公",
+   "desc": "表格加数据库，管项目超灵活",
+   "url": "https://airtable.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "airtable",
+    "表格",
+    "数据库",
+    "低代码",
+    "项目管理"
+   ]
+  },
+  {
+   "name": "SeaTable",
+   "cat": "效率办公",
+   "desc": "国产表格数据库，可私有部署",
+   "url": "https://seatable.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "seatable",
+    "表格",
+    "数据库",
+    "国产",
+    "私有部署"
+   ]
+  },
+  {
+   "name": "Excel",
+   "cat": "效率办公",
+   "desc": "表格标准工具，函数透视表齐全",
+   "url": "https://www.microsoft.com/microsoft-365/excel",
+   "price": "付费",
+   "kw": [
+    "excel",
+    "表格",
+    "函数",
+    "透视表",
+    "微软"
+   ]
+  },
+  {
+   "name": "Joplin",
+   "cat": "效率办公",
+   "desc": "开源笔记，支持加密同步",
+   "url": "https://joplinapp.org",
+   "price": "开源免费",
+   "kw": [
+    "joplin",
+    "笔记",
+    "开源",
+    "加密",
+    "同步"
+   ]
+  },
+  {
+   "name": "思源笔记",
+   "cat": "效率办公",
+   "desc": "本地优先的双链笔记，中文好用",
+   "url": "https://b3log.org/siyuan/",
+   "price": "开源免费",
+   "kw": [
+    "思源",
+    "双链笔记",
+    "本地",
+    "开源",
+    "中文"
+   ]
+  },
+  {
+   "name": "Trilium",
+   "cat": "效率办公",
+   "desc": "层级笔记，知识树结构清晰",
+   "url": "https://trilium.rocks",
+   "price": "开源免费",
+   "kw": [
+    "trilium",
+    "笔记",
+    "层级",
+    "知识树",
+    "开源"
+   ]
+  },
+  {
+   "name": "Tana",
+   "cat": "效率办公",
+   "desc": "结构化笔记，自动整理标签",
+   "url": "https://tana.inc",
+   "price": "免费 + 付费",
+   "kw": [
+    "tana",
+    "笔记",
+    "标签",
+    "结构化",
+    "知识管理"
+   ]
+  },
+  {
+   "name": "Craft",
+   "cat": "效率办公",
+   "desc": "苹果生态的文档笔记，排版好看",
+   "url": "https://www.craft.do",
+   "price": "免费 + 付费",
+   "kw": [
+    "craft",
+    "笔记",
+    "文档",
+    "苹果",
+    "排版"
+   ]
+  },
+  {
+   "name": "Bear",
+   "cat": "效率办公",
+   "desc": "Mac 上的 Markdown 笔记，极简",
+   "url": "https://bear.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "bear",
+    "笔记",
+    "markdown",
+    "mac",
+    "极简"
+   ]
+  },
+  {
+   "name": "Standard Notes",
+   "cat": "效率办公",
+   "desc": "端到端加密笔记，隐私优先",
+   "url": "https://standardnotes.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "标准笔记",
+    "加密笔记",
+    "隐私",
+    "端到端",
+    "开源"
+   ]
+  },
+  {
+   "name": "AnyType",
+   "cat": "效率办公",
+   "desc": "本地优先的知识库，离线也能用",
+   "url": "https://anytype.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "anytype",
+    "知识库",
+    "本地",
+    "离线",
+    "笔记"
+   ]
+  },
+  {
+   "name": "Things",
+   "cat": "效率办公",
+   "desc": "苹果待办，交互做得最舒服",
+   "url": "https://culturedcode.com/things/",
+   "price": "付费",
+   "kw": [
+    "things",
+    "待办",
+    "苹果",
+    "gtd",
+    "清单"
+   ]
+  },
+  {
+   "name": "TickTick",
+   "cat": "效率办公",
+   "desc": "滴答清单国际版，跨平台同步",
+   "url": "https://ticktick.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "ticktick",
+    "滴答",
+    "待办",
+    "跨平台",
+    "清单"
+   ]
+  },
+  {
+   "name": "Toggl",
+   "cat": "效率办公",
+   "desc": "记录时间花在哪，按项目统计",
+   "url": "https://toggl.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "toggl",
+    "时间记录",
+    "计时",
+    "项目",
+    "统计"
+   ]
+  },
+  {
+   "name": "Clockify",
+   "cat": "效率办公",
+   "desc": "免费时间追踪，团队也能用",
+   "url": "https://clockify.me",
+   "price": "免费 + 付费",
+   "kw": [
+    "clockify",
+    "时间追踪",
+    "免费",
+    "团队",
+    "计时"
+   ]
+  },
+  {
+   "name": "RescueTime",
+   "cat": "效率办公",
+   "desc": "自动记录电脑使用，看时间去哪",
+   "url": "https://www.rescuetime.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "rescuetime",
+    "时间管理",
+    "自动记录",
+    "效率",
+    "统计"
+   ]
+  },
+  {
+   "name": "ActivityWatch",
+   "cat": "效率办公",
+   "desc": "开源时间追踪，数据存在本地",
+   "url": "https://activitywatch.net",
+   "price": "开源免费",
+   "kw": [
+    "activitywatch",
+    "时间追踪",
+    "开源",
+    "本地",
+    "统计"
+   ]
+  },
+  {
+   "name": "Habitica",
+   "cat": "效率办公",
+   "desc": "把习惯养成做成游戏，打怪升级",
+   "url": "https://habitica.com",
+   "price": "免费",
+   "kw": [
+    "habitica",
+    "习惯",
+    "打卡",
+    "游戏",
+    "待办"
+   ]
+  },
+  {
+   "name": "问卷星",
+   "cat": "效率办公",
+   "desc": "国内问卷工具，发出去就能收数据",
+   "url": "https://www.wjx.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "问卷星",
+    "问卷",
+    "调查",
+    "表单",
+    "国内"
+   ]
+  },
+  {
+   "name": "金数据",
+   "cat": "效率办公",
+   "desc": "表单和报名，国内合规好用",
+   "url": "https://jinshuju.net",
+   "price": "免费 + 付费",
+   "kw": [
+    "金数据",
+    "表单",
+    "报名",
+    "收集",
+    "国内"
+   ]
+  },
+  {
+   "name": "腾讯问卷",
+   "cat": "效率办公",
+   "desc": "腾讯的表单工具，免费够用",
+   "url": "https://wj.qq.com",
+   "price": "免费",
+   "kw": [
+    "腾讯问卷",
+    "表单",
+    "调查",
+    "免费",
+    "腾讯"
+   ]
+  },
+  {
+   "name": "Typeform",
+   "cat": "效率办公",
+   "desc": "一问一屏的表单，填起来轻松",
+   "url": "https://www.typeform.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "typeform",
+    "表单",
+    "问卷",
+    "交互",
+    "调查"
+   ]
+  },
+  {
+   "name": "Tally",
+   "cat": "效率办公",
+   "desc": "免费不限量的表单工具，界面干净",
+   "url": "https://tally.so",
+   "price": "免费",
+   "kw": [
+    "tally",
+    "表单",
+    "免费",
+    "不限量",
+    "问卷"
+   ]
+  },
+  {
+   "name": "uTools",
+   "cat": "效率办公",
+   "desc": "插件式启动器，搜索计算翻译一体",
+   "url": "https://u.tools",
+   "price": "免费",
+   "kw": [
+    "utools",
+    "启动器",
+    "插件",
+    "搜索",
+    "效率"
+   ]
+  },
+  {
+   "name": "Raycast",
+   "cat": "效率办公",
+   "desc": "Mac 启动器，扩展生态强",
+   "url": "https://www.raycast.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "raycast",
+    "启动器",
+    "mac",
+    "效率",
+    "搜索"
+   ]
+  },
+  {
+   "name": "Alfred",
+   "cat": "效率办公",
+   "desc": "Mac 老牌启动器，工作流能自定义",
+   "url": "https://www.alfredapp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "alfred",
+    "启动器",
+    "mac",
+    "工作流",
+    "效率"
+   ]
+  },
+  {
+   "name": "Listary",
+   "cat": "效率办公",
+   "desc": "Windows 快速找文件，随手调起",
+   "url": "https://www.listary.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "listary",
+    "找文件",
+    "搜索",
+    "windows",
+    "效率"
+   ]
+  },
+  {
+   "name": "PowerToys",
+   "cat": "效率办公",
+   "desc": "微软官方系统增强，分屏改名好用",
+   "url": "https://learn.microsoft.com/windows/powertoys/",
+   "price": "免费",
+   "kw": [
+    "powertoys",
+    "微软",
+    "系统增强",
+    "分屏",
+    "改名"
+   ]
+  },
+  {
+   "name": "Total Commander",
+   "cat": "效率办公",
+   "desc": "双栏文件管理器，批量操作快",
+   "url": "https://www.ghisler.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "totalcommander",
+    "文件管理",
+    "双栏",
+    "批量",
+    "windows"
+   ]
+  },
+  {
+   "name": "WizTree",
+   "cat": "效率办公",
+   "desc": "秒级扫磁盘，看谁占了空间",
+   "url": "https://diskanalyzer.com",
+   "price": "免费",
+   "kw": [
+    "wiztree",
+    "磁盘",
+    "空间",
+    "清理",
+    "大文件"
+   ]
+  },
+  {
+   "name": "TreeSize",
+   "cat": "效率办公",
+   "desc": "磁盘空间分析，找大文件夹",
+   "url": "https://www.jam-software.com/treesize_free",
+   "price": "免费 + 付费",
+   "kw": [
+    "treesize",
+    "磁盘",
+    "空间",
+    "分析",
+    "大文件"
+   ]
+  },
+  {
+   "name": "CrystalDiskInfo",
+   "cat": "效率办公",
+   "desc": "看硬盘健康度，提前发现坏道",
+   "url": "https://crystalmark.info/en/software/crystaldiskinfo/",
+   "price": "免费",
+   "kw": [
+    "硬盘检测",
+    "健康",
+    "坏道",
+    "固态",
+    "磁盘"
+   ]
+  },
+  {
+   "name": "Beyond Compare",
+   "cat": "效率办公",
+   "desc": "文件和文件夹对比，查差异准",
+   "url": "https://www.scootersoftware.com",
+   "price": "付费",
+   "kw": [
+    "beyondcompare",
+    "文件对比",
+    "差异",
+    "代码",
+    "同步"
+   ]
+  },
+  {
+   "name": "WinMerge",
+   "cat": "效率办公",
+   "desc": "开源文件对比，Windows 上顺手",
+   "url": "https://winmerge.org",
+   "price": "开源免费",
+   "kw": [
+    "winmerge",
+    "文件对比",
+    "开源",
+    "差异",
+    "windows"
+   ]
+  },
+  {
+   "name": "Duplicati",
+   "cat": "效率办公",
+   "desc": "开源备份工具，能加密传云",
+   "url": "https://www.duplicati.com",
+   "price": "开源免费",
+   "kw": [
+    "duplicati",
+    "备份",
+    "加密",
+    "云",
+    "开源"
+   ]
+  },
+  {
+   "name": "AnyDesk",
+   "cat": "效率办公",
+   "desc": "远程桌面，延迟低连接稳",
+   "url": "https://anydesk.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "anydesk",
+    "远程桌面",
+    "控制",
+    "低延迟",
+    "远程"
+   ]
+  },
+  {
+   "name": "向日葵",
+   "cat": "效率办公",
+   "desc": "国产远程控制，内网穿透方便",
+   "url": "https://sunlogin.oray.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "向日葵",
+    "远程控制",
+    "内网穿透",
+    "国产",
+    "远程"
+   ]
+  },
+  {
+   "name": "Parsec",
+   "cat": "效率办公",
+   "desc": "低延迟远程串流，远程打游戏也行",
+   "url": "https://parsec.app",
+   "price": "免费 + 付费",
+   "kw": [
+    "parsec",
+    "串流",
+    "远程",
+    "游戏",
+    "低延迟"
+   ]
+  },
+  {
+   "name": "Moonlight",
+   "cat": "效率办公",
+   "desc": "开源串流客户端，配 N 卡用",
+   "url": "https://moonlight-stream.org",
+   "price": "开源免费",
+   "kw": [
+    "moonlight",
+    "串流",
+    "开源",
+    "nvidia",
+    "远程"
+   ]
+  },
+  {
+   "name": "Foxmail",
+   "cat": "效率办公",
+   "desc": "国产邮件客户端，多账号好管",
+   "url": "https://www.foxmail.com",
+   "price": "免费",
+   "kw": [
+    "foxmail",
+    "邮件",
+    "客户端",
+    "多账号",
+    "国产"
+   ]
+  },
+  {
+   "name": "网易邮箱大师",
+   "cat": "效率办公",
+   "desc": "网易的邮件客户端，手机电脑同步",
+   "url": "https://mail.163.com/client/",
+   "price": "免费",
+   "kw": [
+    "邮箱大师",
+    "网易",
+    "邮件",
+    "客户端",
+    "同步"
+   ]
+  },
+  {
+   "name": "Cron",
+   "cat": "效率办公",
+   "desc": "Mac 上的日历，快捷键飞快",
+   "url": "https://cron.com",
+   "price": "付费",
+   "kw": [
+    "cron",
+    "日历",
+    "mac",
+    "快捷键",
+    "日程"
+   ]
+  },
+  {
+   "name": "Morgen",
+   "cat": "效率办公",
+   "desc": "日历整合工具，多个日程一起看",
+   "url": "https://www.morgen.so",
+   "price": "免费 + 付费",
+   "kw": [
+    "morgen",
+    "日历",
+    "整合",
+    "日程",
+    "时间管理"
+   ]
+  },
+  {
+   "name": "Reclaim",
+   "cat": "效率办公",
+   "desc": "自动安排日程，给专注时间让路",
+   "url": "https://reclaim.ai",
+   "price": "免费 + 付费",
+   "kw": [
+    "reclaim",
+    "日历",
+    "自动排期",
+    "专注",
+    "ai"
+   ]
+  },
+  {
+   "name": "Pocket",
+   "cat": "效率办公",
+   "desc": "稍后读老牌，收藏网页慢慢看",
+   "url": "https://getpocket.com",
+   "price": "免费",
+   "kw": [
+    "pocket",
+    "稍后读",
+    "收藏",
+    "网页",
+    "阅读"
+   ]
+  },
+  {
+   "name": "Instapaper",
+   "cat": "效率办公",
+   "desc": "纯阅读模式，去掉干扰",
+   "url": "https://www.instapaper.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "instapaper",
+    "稍后读",
+    "阅读模式",
+    "收藏",
+    "清爽"
+   ]
+  },
+  {
+   "name": "Cubox",
+   "cat": "效率办公",
+   "desc": "国产稍后读，自动打标签",
+   "url": "https://cubox.pro",
+   "price": "免费 + 付费",
+   "kw": [
+    "cubox",
+    "稍后读",
+    "收藏",
+    "标签",
+    "国产"
+   ]
+  },
+  {
+   "name": "简悦",
+   "cat": "效率办公",
+   "desc": "网页转阅读模式，能导出笔记",
+   "url": "https://simpread.pro",
+   "price": "免费",
+   "kw": [
+    "简悦",
+    "阅读模式",
+    "网页",
+    "笔记",
+    "导出"
+   ]
+  },
+  {
+   "name": "Calibre",
+   "cat": "效率办公",
+   "desc": "电子书管理，格式转换全",
+   "url": "https://calibre-ebook.com",
+   "price": "开源免费",
+   "kw": [
+    "calibre",
+    "电子书",
+    "格式转换",
+    "书库",
+    "阅读"
+   ]
+  },
+  {
+   "name": "Koodo Reader",
+   "cat": "效率办公",
+   "desc": "开源电子书阅读器，格式支持多",
+   "url": "https://koodoreader.com",
+   "price": "开源免费",
+   "kw": [
+    "koodo",
+    "电子书",
+    "阅读器",
+    "开源",
+    "格式"
+   ]
+  },
+  {
+   "name": "FreshRSS",
+   "cat": "效率办公",
+   "desc": "自建 RSS 阅读器，数据自己管",
+   "url": "https://freshrss.org",
+   "price": "开源免费",
+   "kw": [
+    "freshrss",
+    "rss",
+    "自建",
+    "订阅",
+    "开源"
+   ]
+  },
+  {
+   "name": "Tiny Tiny RSS",
+   "cat": "效率办公",
+   "desc": "老牌自建 RSS，插件生态多",
+   "url": "https://tt-rss.org",
+   "price": "开源免费",
+   "kw": [
+    "ttrss",
+    "rss",
+    "自建",
+    "插件",
+    "订阅"
+   ]
+  },
+  {
+   "name": "IDM",
+   "cat": "效率办公",
+   "desc": "多线程下载，速度能拉满",
+   "url": "https://www.internetdownloadmanager.com",
+   "price": "付费",
+   "kw": [
+    "idm",
+    "下载",
+    "多线程",
+    "加速",
+    "迅雷"
+   ]
+  },
+  {
+   "name": "Motrix",
+   "cat": "效率办公",
+   "desc": "开源的下载工具，界面好看",
+   "url": "https://motrix.app",
+   "price": "免费",
+   "kw": [
+    "motrix",
+    "下载",
+    "bt",
+    "开源",
+    "界面",
+    "迅雷替代"
+   ]
+  },
+  {
+   "name": "aria2",
+   "cat": "效率办公",
+   "desc": "命令行下载器，脚本里常用",
+   "url": "https://aria2.github.io",
+   "price": "开源免费",
+   "kw": [
+    "aria2",
+    "下载",
+    "命令行",
+    "多线程",
+    "脚本"
+   ]
+  },
+  {
+   "name": "KeePass",
+   "cat": "效率办公",
+   "desc": "开源密码库，文件自己存",
+   "url": "https://keepass.info",
+   "price": "开源免费",
+   "kw": [
+    "keepass",
+    "密码",
+    "开源",
+    "本地",
+    "加密"
+   ]
+  },
+  {
+   "name": "VeraCrypt",
+   "cat": "效率办公",
+   "desc": "磁盘加密，开源可审计",
+   "url": "https://www.veracrypt.fr",
+   "price": "开源免费",
+   "kw": [
+    "veracrypt",
+    "加密",
+    "磁盘",
+    "开源",
+    "隐私"
+   ]
+  },
+  {
+   "name": "Cryptomator",
+   "cat": "效率办公",
+   "desc": "给云盘文件加密，上传前就锁上",
+   "url": "https://cryptomator.org",
+   "price": "开源免费",
+   "kw": [
+    "cryptomator",
+    "网盘加密",
+    "云",
+    "开源",
+    "隐私"
+   ]
+  },
+  {
+   "name": "Geek Uninstaller",
+   "cat": "效率办公",
+   "desc": "彻底卸载软件，清残留注册表",
+   "url": "https://geekuninstaller.com",
+   "price": "免费",
+   "kw": [
+    "卸载",
+    "残留",
+    "注册表",
+    "windows",
+    "清理"
+   ]
+  },
+  {
+   "name": "O&O ShutUp10",
+   "cat": "效率办公",
+   "desc": "关掉 Windows 遥测和推送",
+   "url": "https://www.oo-software.com/en/shutup10",
+   "price": "免费",
+   "kw": [
+    "windows",
+    "隐私",
+    "遥测",
+    "关闭",
+    "优化"
+   ]
+  },
+  {
+   "name": "Rufus",
+   "cat": "效率办公",
+   "desc": "做启动 U 盘，装系统必备",
+   "url": "https://rufus.ie",
+   "price": "开源免费",
+   "kw": [
+    "rufus",
+    "启动盘",
+    "u盘",
+    "装系统",
+    "重装"
+   ]
+  },
+  {
+   "name": "白描",
+   "cat": "效率办公",
+   "desc": "中文 OCR 识别，准确率高",
+   "url": "https://baimiao.uzero.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "白描",
+    "ocr",
+    "识别文字",
+    "图片转文字",
+    "中文"
+   ]
+  },
+  {
+   "name": "TextIn",
+   "cat": "效率办公",
+   "desc": "文档识别和结构化，接口也好用",
+   "url": "https://www.textin.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "textin",
+    "文档识别",
+    "ocr",
+    "结构化",
+    "接口"
+   ]
+  },
+  {
+   "name": "搜狗输入法",
+   "cat": "效率办公",
+   "desc": "国内常用输入法，词库大",
+   "url": "https://shurufa.sogou.com",
+   "price": "免费",
+   "kw": [
+    "搜狗输入法",
+    "输入法",
+    "词库",
+    "中文",
+    "打字"
+   ]
+  },
+  {
+   "name": "微信输入法",
+   "cat": "效率办公",
+   "desc": "微信出的输入法，无广告",
+   "url": "https://z.weixin.qq.com",
+   "price": "免费",
+   "kw": [
+    "微信输入法",
+    "输入法",
+    "无广告",
+    "微信",
+    "打字"
+   ]
+  },
+  {
+   "name": "有道翻译",
+   "cat": "效率办公",
+   "desc": "国内常用翻译，文档也能整篇翻",
+   "url": "https://fanyi.youdao.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "有道",
+    "翻译",
+    "文档翻译",
+    "国内",
+    "英文"
+   ]
+  },
+  {
+   "name": "彩云小译",
+   "cat": "效率办公",
+   "desc": "中日英互译，双语对照好用",
+   "url": "https://fanyi.caiyunapp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "彩云小译",
+    "翻译",
+    "双语对照",
+    "日语",
+    "英文"
+   ]
+  },
+  {
+   "name": "Bob",
+   "cat": "效率办公",
+   "desc": "Mac 划词翻译，快捷键就能调",
+   "url": "https://bobtranslate.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "bob",
+    "划词翻译",
+    "mac",
+    "快捷键",
+    "翻译"
+   ]
+  },
+  {
+   "name": "欧路词典",
+   "cat": "效率办公",
+   "desc": "支持导入词库的词典，学英语常用",
+   "url": "https://www.eudic.net",
+   "price": "免费 + 付费",
+   "kw": [
+    "欧路",
+    "词典",
+    "词库",
+    "英语",
+    "背单词"
+   ]
+  },
+  {
+   "name": "坚果云",
+   "cat": "效率办公",
+   "desc": "国内同步盘，增量同步快",
+   "url": "https://www.jianguoyun.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "坚果云",
+    "同步盘",
+    "网盘",
+    "增量同步",
+    "国内"
+   ]
+  },
+  {
+   "name": "夸克网盘",
+   "cat": "效率办公",
+   "desc": "阿里系网盘，下载速度快",
+   "url": "https://pan.quark.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "夸克",
+    "网盘",
+    "阿里",
+    "下载",
+    "云盘"
+   ]
+  },
+  {
+   "name": "Discord",
+   "cat": "效率办公",
+   "desc": "社群和语音频道，技术群常用，需自备网络",
+   "url": "https://discord.com",
+   "price": "免费",
+   "kw": [
+    "discord",
+    "社群",
+    "语音",
+    "频道",
+    "聊天"
+   ]
+  },
+  {
+   "name": "Google Sheets",
+   "cat": "效率办公",
+   "desc": "在线表格，多人同时编辑，需自备网络",
+   "url": "https://sheets.google.com",
+   "price": "免费",
+   "kw": [
+    "谷歌表格",
+    "sheets",
+    "在线表格",
+    "协作",
+    "免费"
+   ]
+  },
+  {
+   "name": "Chrome Remote Desktop",
+   "cat": "效率办公",
+   "desc": "谷歌远程桌面，浏览器就能连，需自备网络",
+   "url": "https://remotedesktop.google.com",
+   "price": "免费",
+   "kw": [
+    "谷歌远程",
+    "远程桌面",
+    "浏览器",
+    "免费",
+    "远程"
+   ]
+  },
+  {
+   "name": "Proton Mail",
+   "cat": "效率办公",
+   "desc": "加密邮箱，隐私保护好，需自备网络",
+   "url": "https://proton.me/mail",
+   "price": "免费 + 付费",
+   "kw": [
+    "proton",
+    "加密邮箱",
+    "隐私",
+    "安全",
+    "邮件"
+   ]
+  },
+  {
+   "name": "OneDrive",
+   "cat": "效率办公",
+   "desc": "微软网盘，和 Office 集成好，需自备网络",
+   "url": "https://onedrive.live.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "onedrive",
+    "微软",
+    "网盘",
+    "同步",
+    "office"
+   ]
+  },
+  {
+   "name": "Dropbox",
+   "cat": "效率办公",
+   "desc": "老牌同步盘，跨平台稳，需自备网络",
+   "url": "https://www.dropbox.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "dropbox",
+    "网盘",
+    "同步",
+    "跨平台",
+    "云盘"
+   ]
+  },
+  {
+   "name": "MEGA",
+   "cat": "效率办公",
+   "desc": "端到端加密网盘，免费 20G，需自备网络",
+   "url": "https://mega.nz",
+   "price": "免费 + 付费",
+   "kw": [
+    "mega",
+    "网盘",
+    "加密",
+    "免费",
+    "云盘"
+   ]
+  },
+  {
+   "name": "qBittorrent",
+   "cat": "效率办公",
+   "desc": "开源 BT 客户端，无广告，需自备网络",
+   "url": "https://www.qbittorrent.org",
+   "price": "开源免费",
+   "kw": [
+    "qbittorrent",
+    "bt",
+    "下载",
+    "开源",
+    "无广告"
+   ]
+  },
+  {
+   "name": "Microsoft To Do",
+   "cat": "效率办公",
+   "desc": "微软待办，和 Outlook 同步，需自备网络",
+   "url": "https://to-do.office.com",
+   "price": "免费",
+   "kw": [
+    "微软待办",
+    "todo",
+    "清单",
+    "outlook",
+    "同步"
+   ]
+  },
+  {
+   "name": "Heptabase",
+   "cat": "效率办公",
+   "desc": "卡片式白板笔记，适合做研究，需自备网络",
+   "url": "https://heptabase.com",
+   "price": "付费",
+   "kw": [
+    "heptabase",
+    "白板",
+    "卡片",
+    "笔记",
+    "研究"
+   ]
+  },
+  {
+   "name": "JSON Editor Online",
+   "cat": "在线工具",
+   "desc": "树形编辑 JSON，大文件也能开",
+   "url": "https://jsoneditoronline.org",
+   "price": "免费 + 付费",
+   "kw": [
+    "json",
+    "编辑",
+    "树形",
+    "大文件",
+    "在线"
+   ]
+  },
+  {
+   "name": "json.cn",
+   "cat": "在线工具",
+   "desc": "国产 JSON 格式化，中文界面",
+   "url": "https://www.json.cn",
+   "price": "免费",
+   "kw": [
+    "json",
+    "格式化",
+    "中文",
+    "在线",
+    "解析"
+   ]
+  },
+  {
+   "name": "Base64 Guru",
+   "cat": "在线工具",
+   "desc": "Base64 编解码，顺带讲清原理",
+   "url": "https://base64.guru",
+   "price": "免费",
+   "kw": [
+    "base64",
+    "编码",
+    "解码",
+    "转换",
+    "在线"
+   ]
+  },
+  {
+   "name": "URL Decoder",
+   "cat": "在线工具",
+   "desc": "URL 编解码，链接转义一次搞定",
+   "url": "https://www.urldecoder.org",
+   "price": "免费",
+   "kw": [
+    "url",
+    "编码",
+    "解码",
+    "转义",
+    "链接",
+    "在线"
+   ]
+  },
+  {
+   "name": "QR Code Monkey",
+   "cat": "在线工具",
+   "desc": "做带 logo 的二维码，免费可商用",
+   "url": "https://www.qrcode-monkey.com",
+   "price": "免费",
+   "kw": [
+    "二维码",
+    "生成",
+    "qr",
+    "logo",
+    "免费"
+   ]
+  },
+  {
+   "name": "Bitly",
+   "cat": "在线工具",
+   "desc": "短链接，能看点击统计",
+   "url": "https://bitly.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "短链接",
+    "短网址",
+    "统计",
+    "点击",
+    "bitly"
+   ]
+  },
+  {
+   "name": "TinyURL",
+   "cat": "在线工具",
+   "desc": "免费短链，不用注册",
+   "url": "https://tinyurl.com",
+   "price": "免费",
+   "kw": [
+    "短链接",
+    "短网址",
+    "免费",
+    "免注册",
+    "链接"
+   ]
+  },
+  {
+   "name": "SM.MS",
+   "cat": "在线工具",
+   "desc": "免费图床，外链稳定",
+   "url": "https://sm.ms",
+   "price": "免费",
+   "kw": [
+    "图床",
+    "外链",
+    "图片",
+    "免费",
+    "上传"
+   ]
+  },
+  {
+   "name": "路过图床",
+   "cat": "在线工具",
+   "desc": "国内图床，打开速度快",
+   "url": "https://imgse.com",
+   "price": "免费",
+   "kw": [
+    "图床",
+    "国内",
+    "图片",
+    "外链",
+    "免费"
+   ]
+  },
+  {
+   "name": "Waifu2x",
+   "cat": "在线工具",
+   "desc": "动漫图放大，还能顺带降噪",
+   "url": "https://waifu2x.udp.jp",
+   "price": "免费",
+   "kw": [
+    "图片放大",
+    "动漫",
+    "降噪",
+    "无损",
+    "在线"
+   ]
+  },
+  {
+   "name": "Optimizilla",
+   "cat": "在线工具",
+   "desc": "批量压图片，画质损失小",
+   "url": "https://imagecompressor.com",
+   "price": "免费",
+   "kw": [
+    "图片压缩",
+    "批量",
+    "在线",
+    "减肥",
+    "压缩"
+   ]
+  },
+  {
+   "name": "123apps",
+   "cat": "在线工具",
+   "desc": "音频视频在线处理合集，免安装",
+   "url": "https://123apps.com",
+   "price": "免费",
+   "kw": [
+    "音视频",
+    "在线",
+    "转换",
+    "剪辑",
+    "合集"
+   ]
+  },
+  {
+   "name": "Clideo",
+   "cat": "在线工具",
+   "desc": "在线剪视频，压缩加字幕都行",
+   "url": "https://clideo.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "在线剪辑",
+    "视频",
+    "压缩",
+    "字幕",
+    "转换"
+   ]
+  },
+  {
+   "name": "Online Audio Converter",
+   "cat": "在线工具",
+   "desc": "音频格式转换，免注册",
+   "url": "https://online-audio-converter.com",
+   "price": "免费",
+   "kw": [
+    "音频转换",
+    "格式",
+    "mp3",
+    "在线",
+    "免费"
+   ]
+  },
+  {
+   "name": "MP3Cut",
+   "cat": "在线工具",
+   "desc": "在线剪音频，做铃声很方便",
+   "url": "https://mp3cut.net",
+   "price": "免费",
+   "kw": [
+    "音频剪辑",
+    "铃声",
+    "剪切",
+    "mp3",
+    "在线"
+   ]
+  },
+  {
+   "name": "Stirling PDF",
+   "cat": "在线工具",
+   "desc": "开源自建的 PDF 工具箱",
+   "url": "https://www.stirlingpdf.com",
+   "price": "开源免费",
+   "kw": [
+    "pdf",
+    "工具箱",
+    "开源",
+    "自建",
+    "合并"
+   ]
+  },
+  {
+   "name": "Sejda",
+   "cat": "在线工具",
+   "desc": "PDF 编辑，免费额度够用",
+   "url": "https://www.sejda.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pdf",
+    "编辑",
+    "在线",
+    "免费",
+    "合并",
+    "签名"
+   ]
+  },
+  {
+   "name": "PDFgear",
+   "cat": "在线工具",
+   "desc": "免费 PDF 工具，能编辑能转换",
+   "url": "https://www.pdfgear.com",
+   "price": "免费",
+   "kw": [
+    "pdf",
+    "编辑",
+    "转换",
+    "免费",
+    "阅读",
+    "合并"
+   ]
+  },
+  {
+   "name": "PDF Candy",
+   "cat": "在线工具",
+   "desc": "PDF 工具合集，常用功能都免费",
+   "url": "https://pdfcandy.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pdf",
+    "工具",
+    "合集",
+    "转换",
+    "免费",
+    "在线"
+   ]
+  },
+  {
+   "name": "Filemail",
+   "cat": "在线工具",
+   "desc": "大文件传输，免费额度 5G",
+   "url": "https://www.filemail.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "大文件",
+    "传输",
+    "免费",
+    "发送",
+    "网盘"
+   ]
+  },
+  {
+   "name": "TransferNow",
+   "cat": "在线工具",
+   "desc": "传大文件，不用注册",
+   "url": "https://www.transfernow.net",
+   "price": "免费 + 付费",
+   "kw": [
+    "大文件",
+    "传输",
+    "免注册",
+    "发送",
+    "分享"
+   ]
+  },
+  {
+   "name": "文叔叔",
+   "cat": "在线工具",
+   "desc": "国产传文件，不限速",
+   "url": "https://www.wenshushu.cn",
+   "price": "免费",
+   "kw": [
+    "传文件",
+    "大文件",
+    "不限速",
+    "国内",
+    "分享"
+   ]
+  },
+  {
+   "name": "Mail.tm",
+   "cat": "在线工具",
+   "desc": "临时邮箱，接口也能调",
+   "url": "https://mail.tm",
+   "price": "免费",
+   "kw": [
+    "临时邮箱",
+    "一次性邮箱",
+    "免费",
+    "注册",
+    "验证"
+   ]
+  },
+  {
+   "name": "Guerrilla Mail",
+   "cat": "在线工具",
+   "desc": "一次性邮箱，用完就扔",
+   "url": "https://www.guerrillamail.com",
+   "price": "免费",
+   "kw": [
+    "临时邮箱",
+    "一次性",
+    "免费",
+    "匿名",
+    "验证"
+   ]
+  },
+  {
+   "name": "WhatIsMyIP",
+   "cat": "在线工具",
+   "desc": "查自己的公网 IP 和位置",
+   "url": "https://whatismyipaddress.com",
+   "price": "免费",
+   "kw": [
+    "ip查询",
+    "公网ip",
+    "地址",
+    "检测",
+    "查询"
+   ]
+  },
+  {
+   "name": "DNSlytics",
+   "cat": "在线工具",
+   "desc": "查域名解析和历史记录",
+   "url": "https://dnslytics.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "dns查询",
+    "域名",
+    "解析",
+    "历史",
+    "whois"
+   ]
+  },
+  {
+   "name": "SSL Labs",
+   "cat": "在线工具",
+   "desc": "测网站 SSL 配置，给出评分",
+   "url": "https://www.ssllabs.com/ssltest/",
+   "price": "免费",
+   "kw": [
+    "ssl",
+    "证书",
+    "检测",
+    "评分",
+    "https",
+    "安全"
+   ]
+  },
+  {
+   "name": "MySSL",
+   "cat": "在线工具",
+   "desc": "国产 SSL 检测，证书链也能查",
+   "url": "https://myssl.com",
+   "price": "免费",
+   "kw": [
+    "ssl",
+    "证书",
+    "检测",
+    "证书链",
+    "https",
+    "国产"
+   ]
+  },
+  {
+   "name": "GTmetrix",
+   "cat": "在线工具",
+   "desc": "网站性能测试，出详细报告",
+   "url": "https://gtmetrix.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "网站测速",
+    "性能",
+    "报告",
+    "优化",
+    "加载"
+   ]
+  },
+  {
+   "name": "WebPageTest",
+   "cat": "在线工具",
+   "desc": "多地点测速，看加载瀑布图",
+   "url": "https://www.webpagetest.org",
+   "price": "免费",
+   "kw": [
+    "测速",
+    "瀑布图",
+    "多地",
+    "加载",
+    "性能"
+   ]
+  },
+  {
+   "name": "17CE",
+   "cat": "在线工具",
+   "desc": "国内多地测速，看各地能不能开",
+   "url": "https://www.17ce.com",
+   "price": "免费",
+   "kw": [
+    "测速",
+    "国内",
+    "多地",
+    "检测",
+    "网站"
+   ]
+  },
+  {
+   "name": "站长工具",
+   "cat": "在线工具",
+   "desc": "SEO 和站长工具合集，一个站全有",
+   "url": "https://tool.chinaz.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "站长",
+    "seo",
+    "工具",
+    "合集",
+    "权重",
+    "查询"
+   ]
+  },
+  {
+   "name": "SimilarWeb",
+   "cat": "在线工具",
+   "desc": "看网站流量和来源构成",
+   "url": "https://www.similarweb.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "流量分析",
+    "网站",
+    "数据",
+    "来源",
+    "竞品"
+   ]
+  },
+  {
+   "name": "CodePen",
+   "cat": "在线工具",
+   "desc": "在线写前端，改完立刻看效果",
+   "url": "https://codepen.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "在线代码",
+    "前端",
+    "html",
+    "css",
+    "演示"
+   ]
+  },
+  {
+   "name": "JSFiddle",
+   "cat": "在线工具",
+   "desc": "在线跑 JS 片段，分享方便",
+   "url": "https://jsfiddle.net",
+   "price": "免费",
+   "kw": [
+    "在线代码",
+    "javascript",
+    "调试",
+    "分享",
+    "测试"
+   ]
+  },
+  {
+   "name": "Programiz",
+   "cat": "在线工具",
+   "desc": "在线运行多种语言，教程也全",
+   "url": "https://www.programiz.com",
+   "price": "免费",
+   "kw": [
+    "在线运行",
+    "python",
+    "教程",
+    "编译",
+    "学习"
+   ]
+  },
+  {
+   "name": "StackEdit",
+   "cat": "在线工具",
+   "desc": "在线 Markdown 编辑器，能同步云盘",
+   "url": "https://stackedit.io",
+   "price": "免费",
+   "kw": [
+    "markdown",
+    "编辑器",
+    "在线",
+    "同步",
+    "导出"
+   ]
+  },
+  {
+   "name": "Dillinger",
+   "cat": "在线工具",
+   "desc": "在线 Markdown，导出格式多",
+   "url": "https://dillinger.io",
+   "price": "免费",
+   "kw": [
+    "markdown",
+    "在线",
+    "导出",
+    "html",
+    "pdf"
+   ]
+  },
+  {
+   "name": "Desmos",
+   "cat": "在线工具",
+   "desc": "在线画函数图像，教学常用",
+   "url": "https://www.desmos.com",
+   "price": "免费",
+   "kw": [
+    "函数图像",
+    "画图",
+    "数学",
+    "计算器",
+    "图形"
+   ]
+  },
+  {
+   "name": "Wolfram Alpha",
+   "cat": "在线工具",
+   "desc": "能算能查的计算引擎，答案带推导",
+   "url": "https://www.wolframalpha.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "计算引擎",
+    "数学",
+    "解题",
+    "查询",
+    "知识"
+   ]
+  },
+  {
+   "name": "Symbolab",
+   "cat": "在线工具",
+   "desc": "解数学题给步骤，复习好用",
+   "url": "https://www.symbolab.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "解数学",
+    "步骤",
+    "微积分",
+    "方程",
+    "计算"
+   ]
+  },
+  {
+   "name": "Random.org",
+   "cat": "在线工具",
+   "desc": "真随机数，抽奖摇号都用它",
+   "url": "https://www.random.org",
+   "price": "免费",
+   "kw": [
+    "随机数",
+    "抽奖",
+    "摇号",
+    "骰子",
+    "随机"
+   ]
+  },
+  {
+   "name": "WhatTheFont",
+   "cat": "在线工具",
+   "desc": "上传图片认字体，识别率高",
+   "url": "https://www.myfonts.com/pages/whatthefont",
+   "price": "免费",
+   "kw": [
+    "字体识别",
+    "认字体",
+    "图片",
+    "字体",
+    "查找"
+   ]
+  },
+  {
+   "name": "Loom",
+   "cat": "在线工具",
+   "desc": "录屏加讲解，发个链接就能看",
+   "url": "https://www.loom.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "录屏",
+    "讲解",
+    "视频",
+    "分享",
+    "会议"
+   ]
+  },
+  {
+   "name": "MindMeister",
+   "cat": "在线工具",
+   "desc": "在线思维导图，协作方便",
+   "url": "https://www.mindmeister.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "思维导图",
+    "在线",
+    "协作",
+    "脑图",
+    "整理"
+   ]
+  },
+  {
+   "name": "GitMind",
+   "cat": "在线工具",
+   "desc": "国产思维导图，能 AI 生成",
+   "url": "https://gitmind.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "思维导图",
+    "脑图",
+    "ai生成",
+    "国产",
+    "在线"
+   ]
+  },
+  {
+   "name": "crontab.guru",
+   "cat": "在线工具",
+   "desc": "看懂 cron 表达式，调定时任务",
+   "url": "https://crontab.guru",
+   "price": "免费",
+   "kw": [
+    "cron",
+    "定时任务",
+    "表达式",
+    "linux",
+    "计划任务"
+   ]
+  },
+  {
+   "name": "Regexper",
+   "cat": "在线工具",
+   "desc": "把正则画成图，复杂规则能看懂",
+   "url": "https://regexper.com",
+   "price": "免费",
+   "kw": [
+    "正则",
+    "可视化",
+    "图",
+    "正则表达式",
+    "解析"
+   ]
+  },
+  {
+   "name": "ColorHexa",
+   "cat": "在线工具",
+   "desc": "颜色代码互转，配色建议也给",
+   "url": "https://www.colorhexa.com",
+   "price": "免费",
+   "kw": [
+    "颜色",
+    "色值",
+    "rgb",
+    "hex",
+    "配色"
+   ]
+  },
+  {
+   "name": "UnitConverters",
+   "cat": "在线工具",
+   "desc": "单位换算大全，长度重量温度都有",
+   "url": "https://www.unitconverters.net",
+   "price": "免费",
+   "kw": [
+    "单位换算",
+    "长度",
+    "重量",
+    "温度",
+    "换算"
+   ]
+  },
+  {
+   "name": "XE",
+   "cat": "在线工具",
+   "desc": "实时汇率换算，出国换钱前查",
+   "url": "https://www.xe.com",
+   "price": "免费",
+   "kw": [
+    "汇率",
+    "换算",
+    "货币",
+    "外币",
+    "美元"
+   ]
+  },
+  {
+   "name": "timeanddate",
+   "cat": "在线工具",
+   "desc": "查各地时区，约跨国会议用",
+   "url": "https://www.timeanddate.com",
+   "price": "免费",
+   "kw": [
+    "时区",
+    "世界时间",
+    "时差",
+    "会议",
+    "时间"
+   ]
+  },
+  {
+   "name": "Mockaroo",
+   "cat": "在线工具",
+   "desc": "生成测试假数据，字段能自己定",
+   "url": "https://www.mockaroo.com",
+   "price": "免费",
+   "kw": [
+    "假数据",
+    "测试数据",
+    "生成",
+    "造数据",
+    "csv"
+   ]
+  },
+  {
+   "name": "WHOIS",
+   "cat": "在线工具",
+   "desc": "查域名注册信息，看谁买的",
+   "url": "https://www.whois.com",
+   "price": "免费",
+   "kw": [
+    "whois",
+    "域名",
+    "注册",
+    "查询",
+    "所有人"
+   ]
+  },
+  {
+   "name": "Emojipedia",
+   "cat": "在线工具",
+   "desc": "查 emoji 含义和各平台样式",
+   "url": "https://emojipedia.org",
+   "price": "免费",
+   "kw": [
+    "emoji",
+    "表情",
+    "含义",
+    "符号",
+    "查询"
+   ]
+  },
+  {
+   "name": "CoolSymbol",
+   "cat": "在线工具",
+   "desc": "特殊符号大全，复制就能用",
+   "url": "https://coolsymbol.com",
+   "price": "免费",
+   "kw": [
+    "特殊符号",
+    "符号",
+    "复制",
+    "字符",
+    "花体"
+   ]
+  },
+  {
+   "name": "CSS Minifier",
+   "cat": "在线工具",
+   "desc": "CSS 压缩，去掉空格注释",
+   "url": "https://cssminifier.com",
+   "price": "免费",
+   "kw": [
+    "css",
+    "压缩",
+    "混淆",
+    "优化",
+    "前端"
+   ]
+  },
+  {
+   "name": "JSCompress",
+   "cat": "在线工具",
+   "desc": "JS 压缩，减小文件体积",
+   "url": "https://jscompress.com",
+   "price": "免费",
+   "kw": [
+    "js",
+    "压缩",
+    "混淆",
+    "体积",
+    "前端"
+   ]
+  },
+  {
+   "name": "SVGOMG",
+   "cat": "在线工具",
+   "desc": "SVG 压缩，图片能瘦一大圈",
+   "url": "https://jakearchibald.github.io/svgomg/",
+   "price": "免费",
+   "kw": [
+    "svg",
+    "压缩",
+    "优化",
+    "矢量",
+    "体积"
+   ]
+  },
+  {
+   "name": "Base64 Image",
+   "cat": "在线工具",
+   "desc": "图片转 Base64，直接嵌网页",
+   "url": "https://www.base64-image.de",
+   "price": "免费",
+   "kw": [
+    "图片",
+    "base64",
+    "转换",
+    "嵌入",
+    "编码"
+   ]
+  },
+  {
+   "name": "ZXing 解码",
+   "cat": "在线工具",
+   "desc": "二维码解码，上传图片读内容",
+   "url": "https://zxing.org/w/decode.jspx",
+   "price": "免费",
+   "kw": [
+    "二维码",
+    "解码",
+    "识别",
+    "读取",
+    "图片"
+   ]
+  },
+  {
+   "name": "TEC-IT 条码",
+   "cat": "在线工具",
+   "desc": "生成条形码，各种标准都有",
+   "url": "https://barcode.tec-it.com",
+   "price": "免费",
+   "kw": [
+    "条形码",
+    "生成",
+    "条码",
+    "barcode",
+    "编码"
+   ]
+  },
+  {
+   "name": "Screencastify",
+   "cat": "在线工具",
+   "desc": "浏览器录屏，录完直接分享",
+   "url": "https://www.screencastify.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "录屏",
+    "浏览器",
+    "插件",
+    "分享",
+    "视频"
+   ]
+  },
+  {
+   "name": "字客网",
+   "cat": "在线工具",
+   "desc": "字体识别和下载，中文字体齐",
+   "url": "https://www.fontke.com",
+   "price": "免费",
+   "kw": [
+    "字体",
+    "识别",
+    "下载",
+    "中文",
+    "字库"
+   ]
+  },
+  {
+   "name": "Cleanup.pictures",
+   "cat": "在线工具",
+   "desc": "擦掉图里的东西，AI 自动补背景",
+   "url": "https://cleanup.pictures",
+   "price": "免费 + 付费",
+   "kw": [
+    "擦除",
+    "去杂物",
+    "修图",
+    "ai",
+    "图片"
+   ]
+  },
+  {
+   "name": "Upscayl",
+   "cat": "在线工具",
+   "desc": "开源图片放大，本地跑不传云",
+   "url": "https://upscayl.org",
+   "price": "开源免费",
+   "kw": [
+    "图片放大",
+    "开源",
+    "本地",
+    "无损",
+    "超分"
+   ]
+  },
+  {
+   "name": "Vector Magic",
+   "cat": "在线工具",
+   "desc": "位图转矢量图，边缘干净",
+   "url": "https://vectormagic.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "位图转矢量",
+    "png转svg",
+    "矢量化",
+    "logo",
+    "图片转矢量"
+   ]
+  },
+  {
+   "name": "SVG to PNG",
+   "cat": "在线工具",
+   "desc": "SVG 转 PNG，调整尺寸再导出",
+   "url": "https://svgtopng.com",
+   "price": "免费",
+   "kw": [
+    "svg转png",
+    "格式转换",
+    "导出",
+    "图片",
+    "在线转换"
+   ]
+  },
+  {
+   "name": "AutoDraw",
+   "cat": "在线工具",
+   "desc": "画个大概，谷歌帮你变成规整的图",
+   "url": "https://www.autodraw.com",
+   "price": "免费",
+   "kw": [
+    "画图",
+    "涂鸦",
+    "autodraw",
+    "谷歌",
+    "简单"
+   ]
+  },
+  {
+   "name": "Witeboard",
+   "cat": "在线工具",
+   "desc": "打开就能用的共享白板",
+   "url": "https://witeboard.com",
+   "price": "免费",
+   "kw": [
+    "白板",
+    "共享",
+    "协作",
+    "在线",
+    "画图"
+   ]
+  },
+  {
+   "name": "Markdown to HTML",
+   "cat": "在线工具",
+   "desc": "Markdown 转 HTML，直接复制",
+   "url": "https://markdowntohtml.com",
+   "price": "免费",
+   "kw": [
+    "markdown",
+    "转html",
+    "转换",
+    "网页",
+    "代码"
+   ]
+  },
+  {
+   "name": "TableConvert",
+   "cat": "在线工具",
+   "desc": "表格格式互转，Excel 转 Markdown",
+   "url": "https://tableconvert.com",
+   "price": "免费",
+   "kw": [
+    "表格转换",
+    "excel",
+    "markdown",
+    "csv",
+    "格式"
+   ]
+  },
+  {
+   "name": "CSVJSON",
+   "cat": "在线工具",
+   "desc": "CSV 和 JSON 互转，处理数据常用",
+   "url": "https://csvjson.com",
+   "price": "免费",
+   "kw": [
+    "csv",
+    "json",
+    "转换",
+    "数据",
+    "格式"
+   ]
+  },
+  {
+   "name": "Screely",
+   "cat": "在线工具",
+   "desc": "截图加浏览器外框，做展示图好看",
+   "url": "https://www.screely.com",
+   "price": "免费",
+   "kw": [
+    "截图",
+    "美化",
+    "浏览器外框",
+    "展示",
+    "配图"
+   ]
+  },
+  {
+   "name": "Affinity Photo",
+   "cat": "设计工具",
+   "desc": "买断制修图软件，能替代 PS",
+   "url": "https://affinity.serif.com/photo/",
+   "price": "付费",
+   "kw": [
+    "affinity",
+    "修图",
+    "买断",
+    "ps替代",
+    "图片"
+   ]
+  },
+  {
+   "name": "Affinity Designer",
+   "cat": "设计工具",
+   "desc": "买断制矢量设计，替代 Illustrator",
+   "url": "https://affinity.serif.com/designer/",
+   "price": "付费",
+   "kw": [
+    "affinity",
+    "矢量",
+    "买断",
+    "ai替代",
+    "设计"
+   ]
+  },
+  {
+   "name": "Illustrator",
+   "cat": "设计工具",
+   "desc": "矢量绘图标准工具，做 logo 必备",
+   "url": "https://www.adobe.com/products/illustrator.html",
+   "price": "付费",
+   "kw": [
+    "ai",
+    "矢量",
+    "logo",
+    "插画",
+    "adobe",
+    "设计"
+   ]
+  },
+  {
+   "name": "Photoshop",
+   "cat": "设计工具",
+   "desc": "图像处理行业标准，修图都用它",
+   "url": "https://www.adobe.com/products/photoshop.html",
+   "price": "付费",
+   "kw": [
+    "ps",
+    "修图",
+    "图像处理",
+    "adobe",
+    "抠图"
+   ]
+  },
+  {
+   "name": "CorelDRAW",
+   "cat": "设计工具",
+   "desc": "矢量排版，印刷行业常用",
+   "url": "https://www.coreldraw.com",
+   "price": "付费",
+   "kw": [
+    "cdr",
+    "矢量",
+    "排版",
+    "印刷",
+    "coreldraw"
+   ]
+  },
+  {
+   "name": "SketchUp",
+   "cat": "设计工具",
+   "desc": "建筑和室内建模，上手快",
+   "url": "https://www.sketchup.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "建模",
+    "建筑",
+    "室内",
+    "3d",
+    "草图大师"
+   ]
+  },
+  {
+   "name": "Spline",
+   "cat": "设计工具",
+   "desc": "网页里的 3D 设计工具，能嵌进站点",
+   "url": "https://spline.design",
+   "price": "免费 + 付费",
+   "kw": [
+    "3d设计",
+    "网页",
+    "建模",
+    "交互",
+    "spline"
+   ]
+  },
+  {
+   "name": "Womp",
+   "cat": "设计工具",
+   "desc": "浏览器里做 3D，新手也能上手",
+   "url": "https://womp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "3d",
+    "建模",
+    "浏览器",
+    "新手",
+    "渲染"
+   ]
+  },
+  {
+   "name": "Cinema 4D",
+   "cat": "设计工具",
+   "desc": "动效和三维设计，广告片常用",
+   "url": "https://www.maxon.net/cinema-4d",
+   "price": "付费",
+   "kw": [
+    "c4d",
+    "三维",
+    "动效",
+    "建模",
+    "渲染"
+   ]
+  },
+  {
+   "name": "Premiere Pro",
+   "cat": "设计工具",
+   "desc": "专业剪辑标准工具，行业通用",
+   "url": "https://www.adobe.com/products/premiere.html",
+   "price": "付费",
+   "kw": [
+    "pr",
+    "剪辑",
+    "视频",
+    "adobe",
+    "专业"
+   ]
+  },
+  {
+   "name": "After Effects",
+   "cat": "设计工具",
+   "desc": "动效和合成，做片头必备",
+   "url": "https://www.adobe.com/products/aftereffects.html",
+   "price": "付费",
+   "kw": [
+    "ae",
+    "动效",
+    "合成",
+    "片头",
+    "特效"
+   ]
+  },
+  {
+   "name": "FigJam",
+   "cat": "设计工具",
+   "desc": "Figma 的白板，团队一起画",
+   "url": "https://www.figma.com/figjam/",
+   "price": "免费 + 付费",
+   "kw": [
+    "figjam",
+    "白板",
+    "协作",
+    "figma",
+    "头脑风暴"
+   ]
+  },
+  {
+   "name": "Mural",
+   "cat": "设计工具",
+   "desc": "在线白板，工作坊和讨论常用",
+   "url": "https://www.mural.co",
+   "price": "免费 + 付费",
+   "kw": [
+    "白板",
+    "在线",
+    "协作",
+    "工作坊",
+    "讨论"
+   ]
+  },
+  {
+   "name": "Boardmix",
+   "cat": "设计工具",
+   "desc": "国产在线白板，模板多",
+   "url": "https://boardmix.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "白板",
+    "国产",
+    "在线",
+    "协作",
+    "模板"
+   ]
+  },
+  {
+   "name": "Whimsical",
+   "cat": "设计工具",
+   "desc": "画流程图和线框图，出图快",
+   "url": "https://whimsical.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "流程图",
+    "线框图",
+    "原型",
+    "在线",
+    "快速"
+   ]
+  },
+  {
+   "name": "Lucidchart",
+   "cat": "设计工具",
+   "desc": "专业流程图，团队协作顺",
+   "url": "https://www.lucidchart.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "流程图",
+    "图表",
+    "协作",
+    "专业",
+    "在线"
+   ]
+  },
+  {
+   "name": "ProcessOn",
+   "cat": "设计工具",
+   "desc": "国产在线画图，流程图思维导图",
+   "url": "https://www.processon.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "流程图",
+    "思维导图",
+    "在线",
+    "国产",
+    "画图"
+   ]
+  },
+  {
+   "name": "Flaticon",
+   "cat": "设计工具",
+   "desc": "图标素材库，量大能商用",
+   "url": "https://www.flaticon.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "图标",
+    "icon",
+    "素材",
+    "免费",
+    "矢量"
+   ]
+  },
+  {
+   "name": "Icons8",
+   "cat": "设计工具",
+   "desc": "图标插画照片都有，风格统一",
+   "url": "https://icons8.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "图标",
+    "icon",
+    "插画",
+    "素材",
+    "统一"
+   ]
+  },
+  {
+   "name": "Iconify",
+   "cat": "设计工具",
+   "desc": "开源图标集合，一个接口全都有",
+   "url": "https://iconify.design",
+   "price": "开源免费",
+   "kw": [
+    "图标",
+    "icon",
+    "开源",
+    "集合",
+    "前端"
+   ]
+  },
+  {
+   "name": "Phosphor Icons",
+   "cat": "设计工具",
+   "desc": "开源图标，线条风格统一",
+   "url": "https://phosphoricons.com",
+   "price": "开源免费",
+   "kw": [
+    "图标",
+    "icon",
+    "开源",
+    "线性",
+    "前端"
+   ]
+  },
+  {
+   "name": "Feather Icons",
+   "cat": "设计工具",
+   "desc": "极简线性图标，前端常用",
+   "url": "https://feathericons.com",
+   "price": "开源免费",
+   "kw": [
+    "图标",
+    "icon",
+    "线性",
+    "极简",
+    "前端"
+   ]
+  },
+  {
+   "name": "Bootstrap Icons",
+   "cat": "设计工具",
+   "desc": "Bootstrap 配套图标，免费",
+   "url": "https://icons.getbootstrap.com",
+   "price": "开源免费",
+   "kw": [
+    "图标",
+    "icon",
+    "bootstrap",
+    "免费",
+    "前端"
+   ]
+  },
+  {
+   "name": "Freepik",
+   "cat": "设计工具",
+   "desc": "素材大全，插画照片矢量都有",
+   "url": "https://www.freepik.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "素材",
+    "插画",
+    "矢量",
+    "图片",
+    "下载"
+   ]
+  },
+  {
+   "name": "Blush",
+   "cat": "设计工具",
+   "desc": "可定制插画，改配色就行",
+   "url": "https://blush.design",
+   "price": "免费 + 付费",
+   "kw": [
+    "插画",
+    "定制",
+    "配色",
+    "素材",
+    "人物"
+   ]
+  },
+  {
+   "name": "Humaaans",
+   "cat": "设计工具",
+   "desc": "人物插画组件，自己拼场景",
+   "url": "https://www.humaaans.com",
+   "price": "免费",
+   "kw": [
+    "插画",
+    "人物",
+    "组件",
+    "拼图",
+    "素材"
+   ]
+  },
+  {
+   "name": "Open Peeps",
+   "cat": "设计工具",
+   "desc": "手绘人物插画，免费商用",
+   "url": "https://www.openpeeps.com",
+   "price": "免费",
+   "kw": [
+    "插画",
+    "手绘",
+    "人物",
+    "免费商用",
+    "素材"
+   ]
+  },
+  {
+   "name": "Pixabay",
+   "cat": "设计工具",
+   "desc": "免费图片和视频，可商用",
+   "url": "https://pixabay.com",
+   "price": "免费",
+   "kw": [
+    "免费图片",
+    "视频",
+    "素材",
+    "可商用",
+    "图库"
+   ]
+  },
+  {
+   "name": "Burst",
+   "cat": "设计工具",
+   "desc": "免费商用图库，电商风照片多",
+   "url": "https://burst.shopify.com",
+   "price": "免费",
+   "kw": [
+    "图库",
+    "免费",
+    "商用",
+    "电商",
+    "照片"
+   ]
+  },
+  {
+   "name": "Coverr",
+   "cat": "设计工具",
+   "desc": "免费视频素材，做背景很合适",
+   "url": "https://coverr.co",
+   "price": "免费",
+   "kw": [
+    "视频素材",
+    "免费",
+    "背景",
+    "商用",
+    "空镜"
+   ]
+  },
+  {
+   "name": "Videvo",
+   "cat": "设计工具",
+   "desc": "免费视频素材和音效",
+   "url": "https://www.videvo.net",
+   "price": "免费 + 付费",
+   "kw": [
+    "视频素材",
+    "免费",
+    "音效",
+    "下载",
+    "片段"
+   ]
+  },
+  {
+   "name": "Freesound",
+   "cat": "设计工具",
+   "desc": "免费音效库，社区上传",
+   "url": "https://freesound.org",
+   "price": "免费",
+   "kw": [
+    "音效",
+    "免费",
+    "音库",
+    "社区",
+    "音频"
+   ]
+  },
+  {
+   "name": "Colormind",
+   "cat": "设计工具",
+   "desc": "AI 生成配色方案",
+   "url": "http://colormind.io",
+   "price": "免费",
+   "kw": [
+    "配色",
+    "生成",
+    "ai",
+    "颜色",
+    "方案"
+   ]
+  },
+  {
+   "name": "Paletton",
+   "cat": "设计工具",
+   "desc": "配色搭配工具，能看对比效果",
+   "url": "https://paletton.com",
+   "price": "免费",
+   "kw": [
+    "配色",
+    "调色板",
+    "颜色",
+    "搭配",
+    "对比"
+   ]
+  },
+  {
+   "name": "Happy Hues",
+   "cat": "设计工具",
+   "desc": "现成配色方案，直接抄就行",
+   "url": "https://www.happyhues.co",
+   "price": "免费",
+   "kw": [
+    "配色",
+    "方案",
+    "色板",
+    "参考",
+    "网页"
+   ]
+  },
+  {
+   "name": "Fontpair",
+   "cat": "设计工具",
+   "desc": "字体搭配参考，中英都有",
+   "url": "https://www.fontpair.co",
+   "price": "免费",
+   "kw": [
+    "字体搭配",
+    "字体",
+    "配对",
+    "参考",
+    "排版"
+   ]
+  },
+  {
+   "name": "Fontjoy",
+   "cat": "设计工具",
+   "desc": "一键生成字体搭配，省事",
+   "url": "https://fontjoy.com",
+   "price": "免费",
+   "kw": [
+    "字体搭配",
+    "生成",
+    "一键",
+    "排版",
+    "字体"
+   ]
+  },
+  {
+   "name": "字由",
+   "cat": "设计工具",
+   "desc": "中文字体管理，商用授权清楚",
+   "url": "https://www.hellofont.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "中文字体",
+    "字体",
+    "商用",
+    "授权",
+    "管理"
+   ]
+  },
+  {
+   "name": "Dribbble",
+   "cat": "设计工具",
+   "desc": "设计师作品社区，找灵感",
+   "url": "https://dribbble.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "设计灵感",
+    "作品",
+    "社区",
+    "参考",
+    "ui"
+   ]
+  },
+  {
+   "name": "Awwwards",
+   "cat": "设计工具",
+   "desc": "网页设计评奖，能看到最好的站",
+   "url": "https://www.awwwards.com",
+   "price": "免费",
+   "kw": [
+    "网页设计",
+    "评奖",
+    "灵感",
+    "优秀",
+    "网站"
+   ]
+  },
+  {
+   "name": "Land-book",
+   "cat": "设计工具",
+   "desc": "落地页参考库，能按行业筛",
+   "url": "https://land-book.com",
+   "price": "免费",
+   "kw": [
+    "落地页",
+    "参考",
+    "网页",
+    "设计",
+    "案例"
+   ]
+  },
+  {
+   "name": "Godly",
+   "cat": "设计工具",
+   "desc": "高质量网站灵感，更新很快",
+   "url": "https://godly.website",
+   "price": "免费",
+   "kw": [
+    "网页灵感",
+    "网站",
+    "设计",
+    "参考",
+    "精选"
+   ]
+  },
+  {
+   "name": "Material Design",
+   "cat": "设计工具",
+   "desc": "谷歌设计规范，组件规则清楚",
+   "url": "https://m3.material.io",
+   "price": "免费",
+   "kw": [
+    "设计规范",
+    "谷歌",
+    "组件",
+    "安卓",
+    "material"
+   ]
+  },
+  {
+   "name": "Apple HIG",
+   "cat": "设计工具",
+   "desc": "苹果设计规范，做 iOS 必读",
+   "url": "https://developer.apple.com/design/",
+   "price": "免费",
+   "kw": [
+    "设计规范",
+    "苹果",
+    "ios",
+    "交互",
+    "指南"
+   ]
+  },
+  {
+   "name": "DiceBear",
+   "cat": "设计工具",
+   "desc": "生成头像，接口直接调",
+   "url": "https://www.dicebear.com",
+   "price": "开源免费",
+   "kw": [
+    "头像",
+    "生成",
+    "开源",
+    "接口",
+    "随机"
+   ]
+  },
+  {
+   "name": "Audacity",
+   "cat": "设计工具",
+   "desc": "开源音频编辑，录音降噪剪接都能做",
+   "url": "https://www.audacityteam.org",
+   "price": "开源免费",
+   "kw": [
+    "音频编辑",
+    "录音",
+    "降噪",
+    "开源",
+    "剪辑"
+   ]
+  },
+  {
+   "name": "Vectary",
+   "cat": "设计工具",
+   "desc": "在线 3D 设计，能嵌进网页",
+   "url": "https://www.vectary.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "3d",
+    "在线",
+    "设计",
+    "建模",
+    "网页"
+   ]
+  },
+  {
+   "name": "Wayback Machine",
+   "cat": "在线工具",
+   "desc": "网页历史存档，能看旧版本，需自备网络",
+   "url": "https://web.archive.org",
+   "price": "免费",
+   "kw": [
+    "网页存档",
+    "历史",
+    "快照",
+    "旧版",
+    "备份"
+   ]
+  },
+  {
+   "name": "PageSpeed Insights",
+   "cat": "在线工具",
+   "desc": "谷歌测网页速度，给优化建议，需自备网络",
+   "url": "https://pagespeed.web.dev",
+   "price": "免费",
+   "kw": [
+    "网页测速",
+    "性能",
+    "优化",
+    "谷歌",
+    "评分"
+   ]
+  },
+  {
+   "name": "Pixlr",
+   "cat": "设计工具",
+   "desc": "在线修图，像简化版 PS，需自备网络",
+   "url": "https://pixlr.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "在线修图",
+    "ps",
+    "图片编辑",
+    "免费",
+    "图层"
+   ]
+  },
+  {
+   "name": "Fotor",
+   "cat": "设计工具",
+   "desc": "在线修图和拼图，模板很多，需自备网络",
+   "url": "https://www.fotor.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "修图",
+    "拼图",
+    "模板",
+    "在线",
+    "海报"
+   ]
+  },
+  {
+   "name": "Behance",
+   "cat": "设计工具",
+   "desc": "完整项目展示，能看设计过程，需自备网络",
+   "url": "https://www.behance.net",
+   "price": "免费",
+   "kw": [
+    "设计",
+    "作品",
+    "项目",
+    "灵感",
+    "案例"
+   ]
+  },
+  {
+   "name": "Imgur",
+   "cat": "在线工具",
+   "desc": "老牌图床，社区也活跃，需自备网络",
+   "url": "https://imgur.com",
+   "price": "免费",
+   "kw": [
+    "图床",
+    "图片",
+    "外链",
+    "社区",
+    "上传"
+   ]
+  },
+  {
+   "name": "Tables Generator",
+   "cat": "在线工具",
+   "desc": "生成表格代码，Markdown 和 LaTeX，需自备网络",
+   "url": "https://www.tablesgenerator.com",
+   "price": "免费",
+   "kw": [
+    "表格生成",
+    "markdown",
+    "latex",
+    "代码",
+    "排版"
+   ]
+  },
+  {
+   "name": "Magic Eraser",
+   "cat": "在线工具",
+   "desc": "去杂物比 PS 快，涂抹就消失，需自备网络",
+   "url": "https://www.magiceraser.io",
+   "price": "免费 + 付费",
+   "kw": [
+    "去杂物",
+    "擦除",
+    "修图",
+    "图片",
+    "快"
+   ]
+  },
+  {
+   "name": "Firefox",
+   "cat": "在线工具",
+   "desc": "火狐浏览器，隐私保护好",
+   "url": "https://www.mozilla.org/firefox/",
+   "price": "免费",
+   "kw": [
+    "火狐",
+    "firefox",
+    "浏览器",
+    "隐私",
+    "开源"
+   ]
+  },
+  {
+   "name": "Edge",
+   "cat": "在线工具",
+   "desc": "微软浏览器，自带阅读和翻译",
+   "url": "https://www.microsoft.com/edge",
+   "price": "免费",
+   "kw": [
+    "edge",
+    "微软浏览器",
+    "浏览器",
+    "必应",
+    "翻译"
+   ]
+  },
+  {
+   "name": "Arc",
+   "cat": "在线工具",
+   "desc": "侧边栏设计的浏览器，标签不乱",
+   "url": "https://arc.net",
+   "price": "免费",
+   "kw": [
+    "arc",
+    "浏览器",
+    "侧边栏",
+    "标签",
+    "设计"
+   ]
+  },
+  {
+   "name": "IrfanView",
+   "cat": "效率办公",
+   "desc": "看图工具，启动快占内存小",
+   "url": "https://www.irfanview.com",
+   "price": "免费",
+   "kw": [
+    "看图",
+    "图片浏览",
+    "irfanview",
+    "快",
+    "轻量"
+   ]
+  },
+  {
+   "name": "XnView",
+   "cat": "效率办公",
+   "desc": "看图加批量转换，格式支持多",
+   "url": "https://www.xnview.com",
+   "price": "免费",
+   "kw": [
+    "看图",
+    "图片浏览",
+    "批量转换",
+    "格式",
+    "xnview"
+   ]
+  },
+  {
+   "name": "Honeyview",
+   "cat": "效率办公",
+   "desc": "看图快，压缩包里的图也能直接看",
+   "url": "https://www.bandisoft.com/honeyview/",
+   "price": "免费",
+   "kw": [
+    "看图",
+    "图片浏览",
+    "压缩包",
+    "快",
+    "honeyview"
+   ]
+  },
+  {
+   "name": "mpv",
+   "cat": "效率办公",
+   "desc": "极简播放器，什么格式都能放",
+   "url": "https://mpv.io",
+   "price": "开源免费",
+   "kw": [
+    "播放器",
+    "mpv",
+    "视频",
+    "开源",
+    "格式"
+   ]
+  },
+  {
+   "name": "foobar2000",
+   "cat": "效率办公",
+   "desc": "音乐播放器，占资源少音质好",
+   "url": "https://www.foobar2000.org",
+   "price": "免费",
+   "kw": [
+    "音乐播放器",
+    "foobar",
+    "音频",
+    "无损",
+    "音乐"
+   ]
+  },
+  {
+   "name": "AIMP",
+   "cat": "效率办公",
+   "desc": "音乐播放器，界面好看功能全",
+   "url": "https://www.aimp.ru",
+   "price": "免费",
+   "kw": [
+    "音乐播放器",
+    "aimp",
+    "音频",
+    "音效",
+    "音乐"
+   ]
+  },
+  {
+   "name": "ScreenToGif",
+   "cat": "效率办公",
+   "desc": "录屏转 GIF，能逐帧编辑",
+   "url": "https://www.screentogif.com",
+   "price": "开源免费",
+   "kw": [
+    "录屏",
+    "gif",
+    "动图",
+    "录制",
+    "截图"
+   ]
+  },
+  {
+   "name": "LICEcap",
+   "cat": "效率办公",
+   "desc": "极轻量的 GIF 录屏，一开就能录",
+   "url": "https://www.cockos.com/licecap/",
+   "price": "开源免费",
+   "kw": [
+    "录屏",
+    "gif",
+    "动图",
+    "轻量",
+    "录制"
+   ]
+  },
+  {
+   "name": "AutoHotkey",
+   "cat": "效率办公",
+   "desc": "写脚本自动化键鼠，重复操作交给它",
+   "url": "https://www.autohotkey.com",
+   "price": "开源免费",
+   "kw": [
+    "自动化",
+    "快捷键",
+    "脚本",
+    "键鼠",
+    "宏"
+   ]
+  },
+  {
+   "name": "Dism++",
+   "cat": "效率办公",
+   "desc": "Windows 系统精简和维护工具",
+   "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+   "price": "开源免费",
+   "kw": [
+    "系统优化",
+    "精简",
+    "windows",
+    "清理",
+    "维护"
+   ]
+  },
+  {
+   "name": "Ventoy",
+   "cat": "效率办公",
+   "desc": "U 盘装多个系统镜像，开机选一个",
+   "url": "https://www.ventoy.net",
+   "price": "开源免费",
+   "kw": [
+    "启动盘",
+    "u盘",
+    "多系统",
+    "装机",
+    "ventoy"
+   ]
+  },
+  {
+   "name": "balenaEtcher",
+   "cat": "效率办公",
+   "desc": "刷系统镜像到 U 盘，三步搞定",
+   "url": "https://etcher.balena.io",
+   "price": "开源免费",
+   "kw": [
+    "刷镜像",
+    "启动盘",
+    "u盘",
+    "烧录",
+    "sd卡"
+   ]
+  },
+  {
+   "name": "IntelliJ IDEA",
+   "cat": "开发工具",
+   "desc": "Java 开发首选 IDE，重构强",
+   "url": "https://www.jetbrains.com/idea/",
+   "price": "免费 + 付费",
+   "kw": [
+    "idea",
+    "java",
+    "ide",
+    "开发",
+    "jetbrains"
+   ]
+  },
+  {
+   "name": "PyCharm",
+   "cat": "开发工具",
+   "desc": "Python 开发 IDE，调试舒服",
+   "url": "https://www.jetbrains.com/pycharm/",
+   "price": "免费 + 付费",
+   "kw": [
+    "pycharm",
+    "python",
+    "ide",
+    "开发",
+    "调试"
+   ]
+  },
+  {
+   "name": "WebStorm",
+   "cat": "开发工具",
+   "desc": "前端开发 IDE，框架支持好",
+   "url": "https://www.jetbrains.com/webstorm/",
+   "price": "付费",
+   "kw": [
+    "webstorm",
+    "前端",
+    "ide",
+    "javascript",
+    "开发"
+   ]
+  },
+  {
+   "name": "Xcode",
+   "cat": "开发工具",
+   "desc": "苹果开发官方工具，做 iOS 必装",
+   "url": "https://developer.apple.com/xcode/",
+   "price": "免费",
+   "kw": [
+    "xcode",
+    "苹果",
+    "ios",
+    "开发",
+    "mac",
+    "app"
+   ]
+  },
+  {
+   "name": "HBuilderX",
+   "cat": "开发工具",
+   "desc": "国产前端 IDE，做小程序方便",
+   "url": "https://www.dcloud.io/hbuilderx.html",
+   "price": "免费",
+   "kw": [
+    "hbuilder",
+    "国产",
+    "前端",
+    "小程序",
+    "uni-app"
+   ]
+  },
+  {
+   "name": "Neo4j",
+   "cat": "开发工具",
+   "desc": "图数据库，关系网络查询快",
+   "url": "https://neo4j.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "图数据库",
+    "neo4j",
+    "关系",
+    "图谱",
+    "查询"
+   ]
+  },
+  {
+   "name": "SQL Server",
+   "cat": "开发工具",
+   "desc": "微软数据库，企业里用得最多",
+   "url": "https://www.microsoft.com/sql-server",
+   "price": "免费 + 付费",
+   "kw": [
+    "sqlserver",
+    "数据库",
+    "微软",
+    "企业",
+    "关系型"
+   ]
+  },
+  {
+   "name": "Oracle Database",
+   "cat": "开发工具",
+   "desc": "老牌商业数据库，金融电信常用",
+   "url": "https://www.oracle.com/database/",
+   "price": "免费 + 付费",
+   "kw": [
+    "oracle",
+    "数据库",
+    "商业",
+    "企业",
+    "关系型"
+   ]
+  },
+  {
+   "name": "Apache Flink",
+   "cat": "数据分析",
+   "desc": "实时流计算引擎，低延迟处理数据",
+   "url": "https://flink.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "flink",
+    "流计算",
+    "实时",
+    "大数据",
+    "开源"
+   ]
+  },
+  {
+   "name": "Apache Hive",
+   "cat": "数据分析",
+   "desc": "用 SQL 查大数据，Hadoop 生态",
+   "url": "https://hive.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "hive",
+    "大数据",
+    "sql",
+    "hadoop",
+    "数仓"
+   ]
+  },
+  {
+   "name": "Hadoop",
+   "cat": "数据分析",
+   "desc": "分布式存储和计算框架，大数据基础",
+   "url": "https://hadoop.apache.org",
+   "price": "开源免费",
+   "kw": [
+    "hadoop",
+    "大数据",
+    "分布式",
+    "hdfs",
+    "集群"
+   ]
+  },
+  {
+   "name": "OneNote",
+   "cat": "效率办公",
+   "desc": "微软笔记，手写和截图都能塞",
+   "url": "https://www.onenote.com",
+   "price": "免费",
+   "kw": [
+    "onenote",
+    "笔记",
+    "微软",
+    "手写",
+    "记录"
+   ]
+  },
+  {
+   "name": "SumatraPDF",
+   "cat": "效率办公",
+   "desc": "极轻量 PDF 阅读器，开大文件快",
+   "url": "https://www.sumatrapdfreader.org",
+   "price": "开源免费",
+   "kw": [
+    "pdf阅读",
+    "阅读器",
+    "轻量",
+    "开源",
+    "快"
+   ]
+  },
+  {
+   "name": "AnyTXT",
+   "cat": "效率办公",
+   "desc": "全文搜索文件内容，找资料快",
+   "url": "https://anytxt.net",
+   "price": "免费",
+   "kw": [
+    "全文搜索",
+    "文件内容",
+    "搜索",
+    "找资料",
+    "文档"
+   ]
+  },
+  {
+   "name": "NanaZip",
+   "cat": "效率办公",
+   "desc": "Win11 右键菜单能用的解压工具",
+   "url": "https://github.com/M2Team/NanaZip",
+   "price": "开源免费",
+   "kw": [
+    "解压",
+    "压缩",
+    "win11",
+    "右键",
+    "开源"
+   ]
+  },
+  {
+   "name": "Chrome",
+   "cat": "在线工具",
+   "desc": "谷歌浏览器，扩展生态最大",
+   "url": "https://www.google.cn/chrome/",
+   "price": "免费",
+   "kw": [
+    "谷歌浏览器",
+    "chrome",
+    "浏览器",
+    "网页",
+    "谷歌"
+   ]
+  },
+  {
+   "name": "Android Studio",
+   "cat": "开发工具",
+   "desc": "安卓开发官方 IDE，模拟器一体，需自备网络",
+   "url": "https://developer.android.com/studio",
+   "price": "免费",
+   "kw": [
+    "安卓开发",
+    "android",
+    "ide",
+    "模拟器",
+    "app"
+   ]
+  },
+  {
+   "name": "亿图图示",
+   "cat": "设计工具",
+   "desc": "画流程图和思维导图，模板多",
+   "url": "https://www.edrawsoft.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "亿图",
+    "流程图",
+    "思维导图",
+    "图表",
+    "模板"
+   ]
+  },
+  {
+   "name": "万兴 PDF",
+   "cat": "效率办公",
+   "desc": "PDF 编辑转换，国产好用",
+   "url": "https://pdf.wondershare.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "pdf",
+    "编辑",
+    "转换",
+    "万兴",
+    "国产",
+    "阅读"
+   ]
+  },
+  {
+   "name": "迅捷 PDF",
+   "cat": "在线工具",
+   "desc": "在线 PDF 转换，国内常用",
+   "url": "https://www.xunjiepdf.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "pdf",
+    "转换",
+    "在线",
+    "国内",
+    "合并",
+    "压缩"
+   ]
+  },
+  {
+   "name": "有道云笔记",
+   "cat": "效率办公",
+   "desc": "网易的云笔记，多端同步稳",
+   "url": "https://note.youdao.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "云笔记",
+    "有道",
+    "笔记",
+    "同步",
+    "网易"
+   ]
+  },
+  {
+   "name": "为知笔记",
+   "cat": "效率办公",
+   "desc": "老牌云笔记，支持 markdown",
+   "url": "https://www.wiz.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "为知",
+    "笔记",
+    "markdown",
+    "云笔记",
+    "知识管理"
+   ]
+  },
+  {
+   "name": "腾讯微云",
+   "cat": "效率办公",
+   "desc": "腾讯网盘，和微信打通",
+   "url": "https://www.weiyun.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "微云",
+    "网盘",
+    "腾讯",
+    "同步",
+    "云盘"
+   ]
+  },
+  {
+   "name": "百度翻译",
+   "cat": "效率办公",
+   "desc": "百度翻译，中英日韩都支持",
+   "url": "https://fanyi.baidu.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "百度翻译",
+    "翻译",
+    "英文",
+    "日语",
+    "韩语"
+   ]
+  },
+  {
+   "name": "讯飞输入法",
+   "cat": "效率办公",
+   "desc": "语音输入强，说话就变文字",
+   "url": "https://srf.xunfei.cn",
+   "price": "免费",
+   "kw": [
+    "讯飞",
+    "输入法",
+    "语音输入",
+    "打字",
+    "中文"
+   ]
+  },
+  {
+   "name": "迅雷",
+   "cat": "效率办公",
+   "desc": "下载工具，老牌速度快",
+   "url": "https://www.xunlei.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "迅雷",
+    "下载",
+    "加速",
+    "会员",
+    "种子"
+   ]
+  },
+  {
+   "name": "微信读书",
+   "cat": "效率办公",
+   "desc": "腾讯的电子书，书库大",
+   "url": "https://weread.qq.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "微信读书",
+    "电子书",
+    "阅读",
+    "书库",
+    "看书"
+   ]
+  },
+  {
+   "name": "蓝湖",
+   "cat": "设计工具",
+   "desc": "设计稿交付平台，标注自动出",
+   "url": "https://lanhuapp.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "蓝湖",
+    "设计稿",
+    "标注",
+    "交付",
+    "协作"
+   ]
+  },
+  {
+   "name": "摹客",
+   "cat": "设计工具",
+   "desc": "国产原型和设计协作工具",
+   "url": "https://www.mockplus.cn",
+   "price": "免费 + 付费",
+   "kw": [
+    "摹客",
+    "原型",
+    "设计",
+    "协作",
+    "国产"
+   ]
+  },
+  {
+   "name": "MasterGo",
+   "cat": "设计工具",
+   "desc": "国产在线设计工具，协作方便",
+   "url": "https://mastergo.com",
+   "price": "免费 + 付费",
+   "kw": [
+    "mastergo",
+    "在线设计",
+    "ui",
+    "协作",
+    "国产"
+   ]
+  }
+ ]
+}
