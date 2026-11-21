@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adymtx1.github.io/tool-nav/sitemap.xml

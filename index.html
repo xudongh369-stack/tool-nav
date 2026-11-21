@@ -8,6 +8,17 @@
 <meta property="og:title" content="工具导航 · 找软件">
 <meta property="og:description" content="发一个关键词，直接给你官网链接。全部正规渠道，不含破解和盗版。">
 <meta property="og:image" content="share_card.png">
+<link rel="canonical" href="https://adymtx1.github.io/tool-nav/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "工具导航 · 找软件",
+  "alternateName": "工具导航",
+  "url": "https://adymtx1.github.io/tool-nav/",
+  "description": "在 Telegram 里发一个关键词，直接给你工具官网。只收官方正规渠道，不含破解与资源站。"
+}
+</script>
 <style>
   :root{
     --ink:#0b1f3f; --ink2:#48597a; --ink3:#7b8aa6;
@@ -109,6 +120,9 @@
   }
   .cat span{color:var(--ink2)}
   .cat b{font-variant-numeric:tabular-nums;color:var(--blue);font-weight:700}
+  a.cat{text-decoration:none;color:inherit;transition:border-color .14s ease}
+  a.cat:hover{border-color:var(--blue)}
+  a.cat:hover span{color:var(--blue)}
 
   footer{
     border-top:1px solid var(--line);padding:26px 0 46px;
@@ -182,7 +196,16 @@
 <section class="wrap">
   <h2>收录范围</h2>
   <p class="note">按大家问得最多的方向来收。数字是实时读索引的，不是写死的。</p>
-  <div class="cats" id="cats"></div>
+  <div class="cats" id="cats">
+    <a class="cat" href="c/office.html" data-cat="效率办公"><span>效率办公</span><b>—</b></a>
+    <a class="cat" href="c/dev.html" data-cat="开发工具"><span>开发工具</span><b>—</b></a>
+    <a class="cat" href="c/online.html" data-cat="在线工具"><span>在线工具</span><b>—</b></a>
+    <a class="cat" href="c/design.html" data-cat="设计工具"><span>设计工具</span><b>—</b></a>
+    <a class="cat" href="c/ai-chat.html" data-cat="AI 对话"><span>AI 对话</span><b>—</b></a>
+    <a class="cat" href="c/ai-media.html" data-cat="AI 视频音频"><span>AI 视频音频</span><b>—</b></a>
+    <a class="cat" href="c/data.html" data-cat="数据分析"><span>数据分析</span><b>—</b></a>
+    <a class="cat" href="c/ai-art.html" data-cat="AI 绘画"><span>AI 绘画</span><b>—</b></a>
+  </div>
 </section>
 
 <footer class="wrap">
@@ -207,22 +230,12 @@
         var c = t.cat || '其他';
         map[c] = (map[c] || 0) + 1;
       });
-      var rows = Object.keys(map)
-        .map(function (c) { return [c, map[c]]; })
-        .sort(function (a, b) { return b[1] - a[1]; });
 
-      var box = document.getElementById('cats');
-      if (!box) return;
-      rows.forEach(function (r) {
-        var el = document.createElement('div');
-        el.className = 'cat';
-        var name = document.createElement('span');
-        name.textContent = r[0];
-        var num = document.createElement('b');
-        num.textContent = r[1];
-        el.appendChild(name);
-        el.appendChild(num);
-        box.appendChild(el);
+      // 分类链接是静态写在 HTML 里的，这里只负责把数字填进去，
+      // 这样即使不执行 JS，爬虫也能顺着链接爬到分类页。
+      document.querySelectorAll('#cats .cat').forEach(function (el) {
+        var n = map[el.getAttribute('data-cat')];
+        el.querySelector('b').textContent = (n === undefined ? '—' : n);
       });
     })
     .catch(function () {});
